@@ -1,9 +1,16 @@
 from flask import Flask
-from flask_cors import CORS
 from routes.schemes import schemes_bp
 
 app = Flask(__name__)
-CORS(app) 
+app.config['JSON_SORT_KEYS'] = False
+
+# Simple CORS header support
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+    return response
 
 app.register_blueprint(schemes_bp)
 

@@ -15,7 +15,7 @@ import "reactflow/dist/style.css";
 /* ═══════════════════════════════════════════════════════════
    SYSTEM PROMPT
 ═══════════════════════════════════════════════════════════ */
-const SYSTEM_PROMPT = `You are Yojana Mitra, a helpful Indian Government Schemes Assistant. When a user mentions their age, provide relevant government schemes they are eligible for.
+const SYSTEM_PROMPT = `You are SchemeStack, a helpful Indian Government Schemes Assistant. When a user mentions their age, provide relevant government schemes they are eligible for.
 
 Respond ONLY with this exact JSON format, no markdown:
 {
@@ -383,7 +383,7 @@ export default function App() {
   const [messages, setMessages] = useState([{
     role: "bot",
     text: JSON.stringify({
-      message: "Namaste! 🙏 I'm Yojana Mitra — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
+      message: "Namaste! 🙏 I'm SchemeStack — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
       schemes: [],
       followUp: "Try clicking a quick prompt below, or type your age!",
     }),
@@ -409,30 +409,48 @@ export default function App() {
     setMessages(p => [...p, { role: "user", text: t }]);
     setLoading(true);
 
-    const history = messages.map(m => ({
-      role: m.role === "bot" ? "assistant" : "user",
-      content: m.text,
-    }));
-    history.push({ role: "user", content: t });
-
     try {
-      const res  = await fetch("FLASK_API_KEY", {
+      // Extract age and income from user input
+      const ageMatch = t.match(/\d+/);
+      const age = ageMatch ? parseInt(ageMatch[0]) : 25;
+      const income = 300000; // Can be extracted from input or set to default
+
+      // Call Flask backend
+      const res = await fetch("http://localhost:5000/get-schemes", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: 1200,
-          system: SYSTEM_PROMPT,
-          messages: history,
-        }),
+        body: JSON.stringify({ age, income }),
       });
-      const data  = await res.json();
-      const reply = data.content?.map(c => c.text || "").join("") || "{}";
+
+      if (!res.ok) {
+        throw new Error(`Backend error: ${res.status}`);
+      }
+
+      const schemes = await res.json();
+      
+      // Format response for display
+      const reply = JSON.stringify({
+        message: `Found ${schemes.length} eligible schemes for age ${age}!`,
+        schemes: schemes.slice(0, 5).map(s => ({
+          name: s.name,
+          ministry: s.nodal_ministry,
+          benefit: s.category,
+          eligibility: `Min: ${s.min_age}, Max: ${s.max_age}, Income: ${s.income_limit}`,
+          tag: "Finance"
+        })),
+        followUp: schemes.length > 5 ? `and ${schemes.length - 5} more schemes available` : "Explore these schemes for more details"
+      });
+
       setMessages(p => [...p, { role: "bot", text: reply }]);
-    } catch {
+    } catch (error) {
+      console.error("Error:", error);
       setMessages(p => [...p, {
         role: "bot",
-        text: JSON.stringify({ message: "Something went wrong. Please try again.", schemes: [], followUp: null }),
+        text: JSON.stringify({ 
+          message: "Unable to fetch schemes. Make sure Flask backend is running on localhost:5000", 
+          schemes: [], 
+          followUp: null 
+        }),
       }]);
     } finally {
       setLoading(false);
@@ -518,7 +536,7 @@ export default function App() {
                 <div style={{
                   color: "#f1f5f9", fontFamily: "'Cinzel',serif",
                   fontWeight: 700, fontSize: 15, letterSpacing: 0.5,
-                }}>Yojana Mitra</div>
+                }}>SchemeStack</div>
                 <div style={{ display: "flex", alignItems: "center", gap: 5, marginTop: 2 }}>
                   <div style={{
                     width: 6, height: 6, borderRadius: "50%", background: "#10b981",
@@ -656,7 +674,7 @@ export default function App() {
                 <div style={{
                   color: "#334155", fontFamily: "'Cinzel',serif",
                   fontSize: 15, letterSpacing: 1, marginBottom: 8,
-                }}>YOJANA FLOW MAP</div>
+                }}>SCHEMESTACK FLOW MAP</div>
                 <div style={{ color: "#1e293b", fontSize: 13, fontFamily: "'DM Sans',sans-serif" }}>
                   Enter your age in the chat to visualize eligible schemes
                 </div>
