@@ -771,6 +771,7 @@ def _extract_state_from_text(text):
 
 
 @schemes_bp.route("/get-schemes", methods=["POST"])
+@schemes_bp.route("/api/get-schemes", methods=["POST"])
 def get_schemes():
     data = flask_request.json or {}
     age = data.get("age")
@@ -782,6 +783,7 @@ def get_schemes():
 
 
 @schemes_bp.route("/chat", methods=["POST"])
+@schemes_bp.route("/api/chat", methods=["POST"])
 def chat():
     data = flask_request.json or {}
 

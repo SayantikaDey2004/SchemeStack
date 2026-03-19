@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "buildCommand": "npm --prefix my-react-flow-app run build",
+  "outputDirectory": "my-react-flow-app/dist",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
