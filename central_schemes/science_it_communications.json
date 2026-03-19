@@ -1,0 +1,1939 @@
+﻿{
+    "category":  "Science, IT \u0026 Communications",
+    "level":  "Central",
+    "expected_count":  103,
+    "extracted_count":  61,
+    "schemes":  [
+                    {
+                        "id":  "aktinf",
+                        "source_id":  "oKG4F5gBXu-iUKXqL3VE",
+                        "slug":  "aktinf",
+                        "name":  "Abdul Kalam Technology Innovation National Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Indian National Academy of Engineering (INAE) will award \"Abdul Kalam Technology Innovation National Fellowship\" to outstanding engineers to recognize, encourage and support translational research by individuals to achieve excellence in engineering, innovation and technology development.",
+                        "tags":  [
+                                     "Abdul Kalam",
+                                     "Innovation",
+                                     "Fellowship",
+                                     "Translational Research",
+                                     "SERB",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/aktinf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "adps",
+                        "source_id":  "MqG7F5gBXu-iUKXqW3ZW",
+                        "slug":  "adps",
+                        "name":  "AlCTE - Distinguished Professional Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "AICTE-Distinguished Professionals Scheme has been launched by the All India Council for Technical Education, Ministry of Education to improve the quality of Technical Education in India by utilizing the expertise of Professionals, Emeritus professors \u0026 Eminent Personalities to share their knowledge.",
+                        "tags":  [
+                                     "AICTE",
+                                     "Student",
+                                     "Honorarium",
+                                     "Technical Education",
+                                     "Professors"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/adps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ai-rtf",
+                        "source_id":  "cxe4F5gB5uF80_MGM5Dl",
+                        "slug":  "ai-rtf",
+                        "name":  "ASEAN-India Research Training Fellowship ",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âASEAN-India Research Training Fellowship (AI-RTF)â is a fellowship scheme initiated by the Department of Science \u0026 Technology, Government of India under ASEAN-India Science \u0026 Technology Development Fund to support young talented researchers/scientists of ASEAN member countries.",
+                        "tags":  [
+                                     "ASEAN",
+                                     "Research",
+                                     "Fellowship",
+                                     "FICCI",
+                                     "Science",
+                                     "Technology",
+                                     "Innovation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ai-rtf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "aogeusy",
+                        "source_id":  "eRiiR5wB5uF80_MGKV37",
+                        "slug":  "aogeusy",
+                        "name":  "Ayush Oushadhi Gunvatta Evam Uttpadan Samvardhan Yojana",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Ayush",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to enhance India\u0027s manufacturing capabilities and exports of traditional medicines and health promotion products under the initiative of Atmanirbhar Bharat.",
+                        "tags":  [
+                                     "Ayush Drugs",
+                                     "Pharmacovigilance",
+                                     "Manufacturing Capabilities",
+                                     "Financial Assistance",
+                                     "Research And Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/aogeusy",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ddsy",
+                        "source_id":  "6cb9F5gB0AGc0F0ivjdd",
+                        "slug":  "ddsy",
+                        "name":  "Deen Dayal SPARSH Yojana (Scholarship For Promotion Of Aptitude \u0026 Research In Stamps As A Hobby)",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Deen Dayal SPARSH Yojana\" awards annual scholarships to students who have good academic records and are also pursuing \u0027Philately\u0027 as a hobby. The objective is to âPromote Philately among children at a young age in a sustainable manner that can reinforce and supplement the academic curriculum.",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Post",
+                                     "Student",
+                                     "Pre-Matric"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ddsy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ddskpdfs",
+                        "source_id":  "48a0F5gB0AGc0F0iEDNA",
+                        "slug":  "ddskpdfs",
+                        "name":  "Dr. D.S. Kothari Post Doctoral Fellowships In Sciences",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Dr. D.S. Kothari Post Doctoral Fellowships in Sciences was introduced by the UGC. In addition to the existing RA/PDF positions provided by various funding agencies, a need was felt for a PDF scheme running in a flexible mode, with fast track, online handling, and decision-making.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Science",
+                                     "DS Kothari",
+                                     "Post Doctoral",
+                                     "PhD",
+                                     "Unemployed"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ddskpdfs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ecms",
+                        "source_id":  "t6Lq-pwBXu-iUKXqLUzR",
+                        "slug":  "ecms",
+                        "name":  "Electronics Component Manufacturing Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to provide financial incentives for manufacturing electronic components in Bharat. Through this scheme, turnover and capital expenditure-linked incentives are provided to companies and Limited Liability Partnerships.",
+                        "tags":  [
+                                     "Supply Chain",
+                                     "Manufacturing Of Electronics",
+                                     "Incentives",
+                                     "Limited Liability Partnerships",
+                                     "Electronics System Design",
+                                     "Electronics System Manufacturing"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ecms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "e-yuvasbiraciffpga",
+                        "source_id":  "zRfVF5gB5uF80_MGqZJI",
+                        "slug":  "e-yuvasbiraciffpga",
+                        "name":  "E-YUVA Scheme: BIRACâs Innovation Fellows (for post graduates and above)",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "BIRACâs Innovation fellows shall apply as an individual and are required to work full time at EYC. BIRACâs Innovation Fellows are expected to initiate biotech startups. Hence, only proposals with potential to commercialize innovative products and technologies will be considered for support.",
+                        "tags":  [
+                                     "E-YUVA",
+                                     "Innovation",
+                                     "Fellow",
+                                     "Translational Research",
+                                     "Fellowship",
+                                     "Post Graduate"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/e-yuvasbiraciffpga",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ffs",
+                        "source_id":  "3aL9IpsBXu-iUKXq5UHP",
+                        "slug":  "ffs",
+                        "name":  "Fund of Funds for Startups",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Science, IT \u0026 Communications",
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in January 2016 under Startup India, the Fund of Funds for Startups is managed by SIDBI. It supports DPIIT-recognized startups indirectly by investing in SEBI-registered AIFs, which must invest at least twice the FFS contribution.",
+                        "tags":  [
+                                     "DPIIT",
+                                     "Startup India",
+                                     "Startups",
+                                     "AIF",
+                                     "Equity"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "hr-hrr",
+                        "source_id":  "IRhK9ZwB5uF80_MG2mLI",
+                        "slug":  "hr-hrr",
+                        "name":  "High Risk - High Reward Research",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Scheme for Funding \"High Risk - High Reward Research\" aims at supporting proposals that are conceptually new \u0026 risky, \u0026 if successful, expected to have a paradigm-shifting influence on the S\u0026T. ",
+                        "tags":  [
+                                     "High Risk",
+                                     "High Reward",
+                                     "Research",
+                                     "Project",
+                                     "Research Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/hr-hrr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "igstcifphdief",
+                        "source_id":  "Yxe4F5gB5uF80_MGLpDu",
+                        "slug":  "igstcifphdief",
+                        "name":  "IGSTC Industrial Fellowship- PhD Industrial Exposure Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Indo-German Science \u0026 Technology Centre (IGSTC) Industrial Fellowship Programme was launched by Secretary, Department of Science and Technology, Govt. of India on the occasion of IGSTCâs 11th Foundation Day on 14th June 2021 to support young Indian researchers for industrial exposure in Germany.",
+                        "tags":  [
+                                     "IGSTC",
+                                     "Fellowship",
+                                     "PhD",
+                                     "Industrial Exposure",
+                                     "Research",
+                                     "Indo-German",
+                                     "Germany"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/igstcifphdief",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "igstcif-pdif",
+                        "source_id":  "aBe4F5gB5uF80_MGL5Bx",
+                        "slug":  "igstcif-pdif",
+                        "name":  "IGSTC Industrial Fellowship- Post Doctoral Industrial Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme is aimed at encouraging Postdoctoral researchers/fresh PhDs in S\u0026T with appreciable track record and having aptitude for applied research and technology development.",
+                        "tags":  [
+                                     "IGSTC",
+                                     "Fellowship",
+                                     "Post Doctoral",
+                                     "Germany",
+                                     "Indo-German",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/igstcif-pdif",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ibps",
+                        "source_id":  "dsd69pwB0AGc0F0i2ghl",
+                        "slug":  "ibps",
+                        "name":  "India BPO Promotion Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to create employment opportunities and promote investment in the IT/ITeS sector by establishing BPO/ITeS units in smaller cities. Through this scheme, financial support in the form of Viability Gap Funding is provided to eligible companies.",
+                        "tags":  [
+                                     "Women Employees",
+                                     "Employement Generation",
+                                     "Entrepreneur",
+                                     "Training",
+                                     "BPO"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ibps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prowis-i",
+                        "source_id":  "HMdq9ZwB0AGc0F0iLwis",
+                        "slug":  "prowis-i",
+                        "name":  "Indo-French Postdoctoral Research Programme for Women in Science",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme will provide a platform for women candidates to engage \u0026 work with Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science \u0026 Technology.",
+                        "tags":  [
+                                     "Postdoctoral",
+                                     "Research",
+                                     "Woman",
+                                     "Science",
+                                     "French",
+                                     "Fellowship",
+                                     "CEFIPRA"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prowis-i",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prowis-ii",
+                        "source_id":  "Icdx9ZwB0AGc0F0iogjH",
+                        "slug":  "prowis-ii",
+                        "name":  "Indo-French Visiting/Mobility Programme for Women in Science",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme will encourage women candidates to work with the Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science \u0026 Technology.",
+                        "tags":  [
+                                     "French",
+                                     "Mobility",
+                                     "Woman",
+                                     "Science",
+                                     "France",
+                                     "Scientist",
+                                     "Researcher"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prowis-ii",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "irdpp-rihrdu",
+                        "source_id":  "6KG1F5gBXu-iUKXqJXQN",
+                        "slug":  "irdpp-rihrdu",
+                        "name":  "Industrial R\u0026D Promotion Programme: Recognition Of In-House R\u0026D Units",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "DSIR is operating a scheme called \"Recognition of In-House R\u0026D Units\" with the objective of granting recognition \u0026 registration to in-house R\u0026D units established by the corporate industry. The In-house R\u0026D units are expected to be engaged in innovative research \u0026 development activities.",
+                        "tags":  [
+                                     "Registration",
+                                     "Research",
+                                     "Development",
+                                     "Industry",
+                                     "Business"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/irdpp-rihrdu",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The applicant should have a regular source of income for at least the last two years to sustain the business and this needs to be elaborated in the application."
+                    },
+                    {
+                        "id":  "inspire-ff",
+                        "source_id":  "xqG0F5gBXu-iUKXqEHRm",
+                        "slug":  "inspire-ff",
+                        "name":  "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2023-08-31",
+                        "priority":  1,
+                        "description":  "The \"INSPIRE FACULTY FELLOWSHIP\" component provides opportunities to 100 persons every year with Ph.D. qualifications in the age group of 27-32 years for 5 years to carry out research in both basic and applied science areas including engineering, medicine, agriculture, and veterinary sciences.",
+                        "tags":  [
+                                     "Research",
+                                     "Fellowship",
+                                     "Faculty",
+                                     "Science",
+                                     "PhD"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/inspire-ff",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jcbs",
+                        "source_id":  "KRhf9ZwB5uF80_MGC2Lm",
+                        "slug":  "jcbs",
+                        "name":  "J.C. Bose Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âJ.C. Bose fellowshipâ is awarded to active scientists in recognition of their outstanding performance. The fellowship is scientist-specific and very selective.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Science",
+                                     "Research",
+                                     "Scientist",
+                                     "Bose"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jcbs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jrfst",
+                        "source_id":  "phe0F5gB5uF80_MGFY_C",
+                        "slug":  "jrfst",
+                        "name":  "Junior Research Fellowship In Engineering \u0026 Technology",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Junior Research Fellowship in Engineering \u0026 Technology\" by the University Grants Commission (UGC), Department of Higher Education is meant for candidates who wish to pursue research leading to a Ph.D. degree in engineering and technology.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Science"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jrfst",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jrfshss",
+                        "source_id":  "lBe0F5gB5uF80_MGEY8h",
+                        "slug":  "jrfshss",
+                        "name":  "Junior Research Fellowship In Sciences, Humanities, And Social Sciences",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme of Junior Research Fellowship in Sciences, Humanities, and Social Science by UGC, Dept. of Education, is open to candidates who qualify for the National Eligibility Test-Junior Research Fellowship(NET-JRF) of the UGC and the UGC-Council of Scientific and Industrial Research (UGC-CSIR).",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Research",
+                                     "Junior",
+                                     "University",
+                                     "Students"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jrfshss",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "kvpy",
+                        "source_id":  "M6E9GJgBXu-iUKXqBXnT",
+                        "slug":  "kvpy",
+                        "name":  "Kishore Vaigyanik Protsahan Yojana",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The KVPY is a national fellowship program in basic sciences, initiated and funded by the Department of Science and Technology to attract exceptionally motivated students to pursue basic science courses and a research career in science. ",
+                        "tags":  [
+                                     "Scientist",
+                                     "Student",
+                                     "Science",
+                                     "Fellowship",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/kvpy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "msdst",
+                        "source_id":  "R6E9GJgBXu-iUKXqCHk3",
+                        "slug":  "msdst",
+                        "name":  "Mobility Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Mobility Scheme is aimed to provide an opportunity to women scientists who are facing difficulties in their present job due to relocation (marriage, transfer of husband to any other location within the country, attending ailing parents, and accompanying children studying in different city).",
+                        "tags":  [
+                                     "Women Scientist",
+                                     "KIRAN",
+                                     "Fellowship",
+                                     "Mobility",
+                                     "Academicians",
+                                     "Capacity Building"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/msdst",
+                        "min_age":  "Not specified",
+                        "max_age":  50,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nccsra",
+                        "source_id":  "4cYXDpkB0AGc0F0i6jiJ",
+                        "slug":  "nccsra",
+                        "name":  "National Centre for Communication Security (NCCS) Research Associates Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "#N/A",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "NCCS engages young scholars as Research Associates  to contribute in development of Telecom Security eco system with in India by providing an opportunity to them to work in areas like Telecom Security Standard development, Lab recognition and Security Certification of telecom products.",
+                        "tags":  [
+                                     "Cybersecurity",
+                                     "Research",
+                                     "Telecommunications",
+                                     "Bengaluru",
+                                     "ITSAR",
+                                     "DoT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nccsra",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ngiaotk",
+                        "source_id":  "2hf-F5gB5uF80_MGR5M5",
+                        "slug":  "ngiaotk",
+                        "name":  "National Grassroots Innovation and Outstanding Traditional Knowledge Awards",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "National Innovation Foundation (NIF)-India, an autonomous body of the Department of Science and Technology, Government of India, invites entries of unaided technological innovations and traditional knowledge developed at grassroots by an individual (Citizen of India) or group.",
+                        "tags":  [
+                                     "Awards",
+                                     "Science",
+                                     "Technology",
+                                     "National",
+                                     "Citizen Of India"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ngiaotk",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "n-pdf",
+                        "source_id":  "aRe4F5gB5uF80_MGL5CK",
+                        "slug":  "n-pdf",
+                        "name":  "National Post Doctoral Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âNational Post Doctoral Fellowship (N-PDF)â was launched by the Science and Engineering Research Board, Government of India to identify motivated young researchers and provide them support for doing research in frontier areas of science and engineering.",
+                        "tags":  [
+                                     "National",
+                                     "Post Doctoral",
+                                     "Fellowship",
+                                     "Science",
+                                     "Research",
+                                     "Fellow"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/n-pdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nsc-sl",
+                        "source_id":  "_8dI9ZwB0AGc0F0i3AdB",
+                        "slug":  "nsc-sl",
+                        "name":  "National Science Chair- Science Leadership",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The main aim of the scheme is to recognise active eminent senior resident Indian superannuated scientists for their outstanding contributions both nationally and internationally, in the areas of Science, Technology, Engineering, Mathematics (STEM) \u0026 Medicine, to promote excellence and growth in R\u0026D.",
+                        "tags":  [
+                                     "Science",
+                                     "Chair",
+                                     "Leadership",
+                                     "SERB",
+                                     "Research",
+                                     "Superannuated",
+                                     "Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nsc-sl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nsc-se",
+                        "source_id":  "-qJF9ZwBXu-iUKXqiku5",
+                        "slug":  "nsc-se",
+                        "name":  "National Science Chair- Scientific Excellence",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The main aim of the scheme is to recognize active eminent senior resident Indian superannuated scientists for their outstanding contributions both nationally and internationally, in the areas of Science, Technology, Engineering, Mathematics (STEM) \u0026 Medicine, to promote excellence and growth in R\u0026D.",
+                        "tags":  [
+                                     "Science",
+                                     "Chair",
+                                     "Scientific Excellence",
+                                     "SERB",
+                                     "Scientist",
+                                     "Research",
+                                     "Fellowship",
+                                     "Superannuated"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nsc-se",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nta",
+                        "source_id":  "uaG5F5gBXu-iUKXqSnUU",
+                        "slug":  "nta",
+                        "name":  "National Technology Awards",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  " The National Technology Awards refer to an event or program that recognizes and celebrates technological innovation and excellence across various industries within a particular country. ",
+                        "tags":  [
+                                     "Technology",
+                                     "Development",
+                                     "Science",
+                                     "Awards"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nta",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ovdf",
+                        "source_id":  "1Ma4F5gB0AGc0F0iNDQA",
+                        "slug":  "ovdf",
+                        "name":  "Overseas Visiting Doctoral Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The objective of the scheme is to build national capacity in frontier areas of Science and Engineering, which are of interest to India by providing research training to PhD students admitted in the Indian institutions in overseas universities / institutions of repute.",
+                        "tags":  [
+                                     "Overseas",
+                                     "Doctoral",
+                                     "Fellowship",
+                                     "Fellow",
+                                     "Young Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ovdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pecfar",
+                        "source_id":  "hMa3F5gB0AGc0F0iNDRs",
+                        "slug":  "pecfar",
+                        "name":  "Paired Early Career Fellowship in Applied Research",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PECFAR is a fellowship to facilitate a two-way exchange of young early-career Indian and German researchers through short visits for networking and exploring avenues for collaboration and innovation in applied research.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Applied Research",
+                                     "IGSTC",
+                                     "Indo-German",
+                                     "Fellow",
+                                     "Germany"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pecfar",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmecrg",
+                        "source_id":  "OaE9GJgBXu-iUKXqBnkY",
+                        "slug":  "pmecrg",
+                        "name":  "Prime Minister Early Career Research Grant",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme is initiated by the Anusandhan National Research Foundation (ANRF) to assist researchers to initiate their research career in a new institution with a flexible budget and progressive initiatives for ease of doing research.",
+                        "tags":  [
+                                     "Research Grant",
+                                     "Researcher",
+                                     "ANRF",
+                                     "Research",
+                                     "PhD",
+                                     "Science",
+                                     "Engineering"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmecrg",
+                        "min_age":  "Not specified",
+                        "max_age":  42,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmfdr",
+                        "source_id":  "cBe4F5gB5uF80_MGM5Bp",
+                        "slug":  "pmfdr",
+                        "name":  "Prime Ministerâs Fellowship for Doctoral Research",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Prime Ministerâs Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board (SERB), Department of Science \u0026 Technology, Government of India towards the advancement of university research engagements in line with industry requirement.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Doctoral",
+                                     "Research",
+                                     "SERB",
+                                     "PhD",
+                                     "Fellow"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmfdr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prism-c2-fwmpkhttptt",
+                        "source_id":  "_qKMAJ0BXu-iUKXq2UyW",
+                        "slug":  "prism-c2-fwmpkhttptt",
+                        "name":  "PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs): Category-2: Fabrication of Working Model/Process Know-how/Testing \u0026 Trial/Patenting/Technology Transfer",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote innovations in individuals, start-ups, and Micro, Small and Medium Enterprises (PRISM). It offers financial support (up to â¹20,00,000/-) for Indian Citizens working on innovation projects requiring fabrication of working models, patenting, or technology transfer.",
+                        "tags":  [
+                                     "Innovation",
+                                     "Patent",
+                                     "Invention",
+                                     "Prototype",
+                                     "Technology"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prism-c2-fwmpkhttptt",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "dot-pli-scheme",
+                        "source_id":  "zRe1F5gB5uF80_MGK4_b",
+                        "slug":  "dot-pli-scheme",
+                        "name":  "Production Linked Incentive Scheme (PLI) For Promoting Telecom \u0026 Networking Products Manufacturing In India",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Production Linked Incentive (PLI) Scheme aims to boost domestic manufacturing, investments and export in the telecom and networking products The PLI Scheme will be implemented within the overall financial limits of â¹ 12,195 Crores only (Rupees Twelve Thousand One Hundred and Ninety-Five Crore only) ",
+                        "tags":  [
+                                     "Production Linked Incentive Scheme",
+                                     "Telecom Equipments",
+                                     "Networking Products",
+                                     "Electronic Manufacturing",
+                                     "Make In India"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dot-pli-scheme",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "r-cf",
+                        "source_id":  "UhjS9ZwB5uF80_MGtmJB",
+                        "slug":  "r-cf",
+                        "name":  "Raman-Charpak Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âRaman-Charpak Fellowship Programmeâ is in honour of two Nobel Laureates in Physics, Prof C.V. Raman, Indian Nobel Laureate (1930) \u0026 Prof Georges Charpak, French Nobel Laureate (1992). The Fellowship was launched during the State visit of the President of France to India in February, 2013.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Raman",
+                                     "Charpak",
+                                     "France",
+                                     "Student"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/r-cf",
+                        "min_age":  "Not specified",
+                        "max_age":  30,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "rf",
+                        "source_id":  "Lhhk9ZwB5uF80_MGoWKK",
+                        "slug":  "rf",
+                        "name":  "Ramanujan Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Ramanujan Fellowship\" was started by the Science and Engineering Research Board, Govt. of India for brilliant Indian scientists and engineers from outside India to take up scientific research positions in India, those Indian scientists/engineers who want to return to India from abroad.",
+                        "tags":  [
+                                     "Ramanujan",
+                                     "Fellowship",
+                                     "Scientist",
+                                     "Engineer",
+                                     "Fellow",
+                                     "Science"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "rvp",
+                        "source_id":  "MqKx9ZwBXu-iUKXqMEyu",
+                        "slug":  "rvp",
+                        "name":  "Rashtriya Vigyan Puraskar ",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The objective of the Rashtriya Vigyan Puraskar (RVP) is to recognise the notable and inspiring contribution made by the scientists, technologists and innovators individually or in teams in various fields of science, technology and technology- led innovation. ",
+                        "tags":  [
+                                     "Science",
+                                     "Technology",
+                                     "Scientists",
+                                     "Awards",
+                                     "Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rvp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serbpowerf",
+                        "source_id":  "Jseh9ZwB0AGc0F0iSwgK",
+                        "slug":  "serbpowerf",
+                        "name":  "SERB - POWER Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The SERB - POWER Fellowship is designed to identify and reward excellent women researchers in Indian academic institutions and R\u0026D laboratories, holding Ph.D. degrees in any branch of science and engineering.",
+                        "tags":  [
+                                     "SERB",
+                                     "POWER",
+                                     "Fellowship",
+                                     "Woman",
+                                     "Research",
+                                     "Science"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serbpowerf",
+                        "min_age":  35,
+                        "max_age":  55,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serbpowerrg",
+                        "source_id":  "C8dW9ZwB0AGc0F0ifgiT",
+                        "slug":  "serbpowerrg",
+                        "name":  "SERB - POWER Research Grants",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The aim of the âSERB - POWER Research Grantsâ is to encourage emerging and eminent women researchers for individual-centric and competitive mode of research funding to undertake R\u0026D activities in frontier areas of science and engineering.",
+                        "tags":  [
+                                     "SERB",
+                                     "Research Grant",
+                                     "POWER",
+                                     "Woman Researcher",
+                                     "Investigator",
+                                     "Woman Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serbpowerrg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sire",
+                        "source_id":  "O8fG9ZwB0AGc0F0iOwh5",
+                        "slug":  "sire",
+                        "name":  "SERB International Research Experience",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Science and Engineering Research Board (SERB), a statutory body under the Department of Science and Technology, Government of India has launched \"SERB International Research Experience (SIRE)\".",
+                        "tags":  [
+                                     "SERB",
+                                     "International Research",
+                                     "SIRE",
+                                     "Fellowship",
+                                     "Fellow"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sire",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serbrss",
+                        "source_id":  "SKLc9ZwBXu-iUKXqx0wk",
+                        "slug":  "serbrss",
+                        "name":  "SERB Research Scientist Scheme ",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "SERB Board has launched a new âSERB Research Scientist (SRS) Schemeâ for the awardees of INSPIRE Faculty and Ramanujan Fellowships, who fail to secure regular positions after completion of the regular tenure of five years in the respective schemes.",
+                        "tags":  [
+                                     "SERB",
+                                     "Research Scientist",
+                                     "INSPIRE",
+                                     "Faculty",
+                                     "Ramanujan",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serbrss",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serb-tetra",
+                        "source_id":  "9aJE9ZwBXu-iUKXqBEvm",
+                        "slug":  "serb-tetra",
+                        "name":  "SERB-Technology Translation Award",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âSERB-Technology Translation Award (SERB-TETRA)â is a new scheme launched by the Science and Engineering Research Board, Government of India for catalyzing technology translation in academic settings. ",
+                        "tags":  [
+                                     "SERB",
+                                     "Technology Translation",
+                                     "Award",
+                                     "Research",
+                                     "TETRA",
+                                     "Principal Inventor"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serb-tetra",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "snas",
+                        "source_id":  "_BimHZwB5uF80_MGFlyI",
+                        "slug":  "snas",
+                        "name":  "Sukhatme National Award in Statistics",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Statistics and Programme Implementation",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to recognise excellence in statistical research and official statistics. Through this scheme, national recognition is provided to eligible Indian statisticians for lifetime or young achiever contributions.",
+                        "tags":  [
+                                     "Award",
+                                     "Research",
+                                     "Young Statistician",
+                                     "Statistics",
+                                     "Data Management System",
+                                     "Data Intergration"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/snas",
+                        "min_age":  45,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sjfs",
+                        "source_id":  "38bVF5gB0AGc0F0iqjbb",
+                        "slug":  "sjfs",
+                        "name":  "Swarnajayanti Fellowships Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Under this scheme, a selected number of young scientists, with proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology.",
+                        "tags":  [
+                                     "Swarnajayanti",
+                                     "Fellowship",
+                                     "Young Scientist",
+                                     "Research",
+                                     "PhD"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sjfs",
+                        "min_age":  30,
+                        "max_age":  40,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tare",
+                        "source_id":  "TqLe9ZwBXu-iUKXqREzZ",
+                        "slug":  "tare",
+                        "name":  "Teachers Associateship for Research Excellence",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âTeachers Associateship for Research Excellence (TARE)â was launched by Science \u0026 Engineering Research Board, Department of Science \u0026 Technology, Government of India which aims to facilitate mobility of faculty members working in State Universities /Colleges/Private Academic institutions.",
+                        "tags":  [
+                                     "TARE",
+                                     "Teacher",
+                                     "Research",
+                                     "Faculty",
+                                     "Fellowship",
+                                     "SERB"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tare",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tecis",
+                        "source_id":  "5aH9F5gBXu-iUKXqwHgl",
+                        "slug":  "tecis",
+                        "name":  "TEC Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âTEC Internship Schemeâ intends to engage 25 Interns in order to study/formulate/operationalize/assess various works/projects/policies etc. The internship will provide an opportunity for young scholars to contribute to the TEC work and have insight into the related technical work.",
+                        "tags":  [
+                                     "Internship",
+                                     "Student",
+                                     "Telecommunication",
+                                     "Research",
+                                     "Graduation",
+                                     "Postgraduation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tecis",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tdupw",
+                        "source_id":  "2qG0F5gBXu-iUKXqHXQQ",
+                        "slug":  "tdupw",
+                        "name":  "Technology Development And Utilization Programme For Women",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "In order to meet the specific needs of women and to enhance the contribution of women towards technology capability building, the âTechnology Development \u0026 Utilization Programme for Women (TDUPW)â has been formulated by the Department of Scientific and Industrial Research (DSIR). ",
+                        "tags":  [
+                                     "Women",
+                                     "Technology",
+                                     "Research",
+                                     "Science",
+                                     "Capacity Building"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tdupw",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ttdf",
+                        "source_id":  "hBe5F5gB5uF80_MGSpAa",
+                        "slug":  "ttdf",
+                        "name":  "Telecom Technology Development Fund",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Telecom Technology Development Fund Scheme (hereinafter referred to as âSchemeâ) has been\nnotified for domestic companies and institutions involved in technology design, development,\ncommercialization of telecommunication products and solutions to enable affordable broadband and mobile services.",
+                        "tags":  [
+                                     "Domestic Companies",
+                                     "Startups",
+                                     "Telecom In Rural",
+                                     "IPR Creation Mentoring",
+                                     "Pilot",
+                                     "Chipset",
+                                     "Grants",
+                                     "Atmanirbhar Bharat",
+                                     "Telecom In Remote Areas",
+                                     "MSMEs",
+                                     "Academic Institutions"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ttdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vaibhav",
+                        "source_id":  "4Bf-F5gB5uF80_MGSJNC",
+                        "slug":  "vaibhav",
+                        "name":  "VAIshwik BHArtiya Vaigyanik (VAIBHAV) Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "VAIBHAV Fellowship envisages collaboration between scientists of Indian Diaspora with\nIndian Higher Educational Institutions/Universities/Public Funded Scientific\nInstitutions. Fellow would identify an Indian Institution for collaboration \u0026\nmay spend upto two months in a year for a max. of 3 years.",
+                        "tags":  [
+                                     "VAIBHAV",
+                                     "Fellowship",
+                                     "Fellow",
+                                     "Research",
+                                     "Science"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vaibhav",
+                        "min_age":  5,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vajra",
+                        "source_id":  "LKKm9ZwBXu-iUKXqX0xI",
+                        "slug":  "vajra",
+                        "name":  "Visiting Advanced Joint Research Faculty Scheme",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "VAJRA Faculty Scheme is a dedicated program exclusively for overseas scientists and academicians with emphasis on NRI and Persons of Indian Origin/Overseas Citizen of India to work as adjunct/visiting faculty for a specific period of time in Indian Public funded academic and research institutions.",
+                        "tags":  [
+                                     "Visiting",
+                                     "Joint Research",
+                                     "Faculty",
+                                     "VAJRA",
+                                     "Overseas",
+                                     "NRI",
+                                     "OCI",
+                                     "SERB"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vajra",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vphdseitftphdc",
+                        "source_id":  "Psb7k5kB0AGc0F0iuznQ",
+                        "slug":  "vphdseitftphdc",
+                        "name":  "Visvesvaraya PhD Scheme for Electronics and IT: Full Time PhD Candidates",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims at generating a total of 1000 Full-time PhD Candidates in emerging research areas of Electronic System Design and Manufacturing (ESDM) and IT/IT Enabled Services (ITES) sectors over a period of 5 years.",
+                        "tags":  [
+                                     "Visvesvaraya PhD",
+                                     "Electronics And IT",
+                                     "Full Time PhD",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vphdseitftphdc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vphdseitptphdc",
+                        "source_id":  "MKFVlJkBXu-iUKXq3Xp3",
+                        "slug":  "vphdseitptphdc",
+                        "name":  "Visvesvaraya PhD Scheme for Electronics and IT: Part Time PhD Candidates",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims at generating a total of 150 Part-time PhDs in emerging research areas of Electronics System Design \u0026 Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors over a period of 5 years.",
+                        "tags":  [
+                                     "Visvesvaraya PhD",
+                                     "Electronics And IT",
+                                     "Part Time PhD",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vphdseitptphdc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vphdseitpdf",
+                        "source_id":  "HxeelJkB5uF80_MGOZV_",
+                        "slug":  "vphdseitpdf",
+                        "name":  "Visvesvaraya PhD Scheme for Electronics and IT: Post-Doctoral Fellowships (PDF)",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This fellowship is meant for those who have a proven track record as evident from their research publications \u0026 recognitions. Support is provided for 225 Post-Doctoral Fellowships for candidates for a period of 1 year, to encourage specialized research in emerging area.",
+                        "tags":  [
+                                     "Visvesvaraya PhD",
+                                     "Electronics And IT",
+                                     "Post-Doctoral",
+                                     "Fellowship",
+                                     "Fellow",
+                                     "Research",
+                                     "PDF"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vphdseitpdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "yfrf",
+                        "source_id":  "QMZZlJkB0AGc0F0iCTno",
+                        "slug":  "yfrf",
+                        "name":  "Visvesvaraya PhD Scheme for Electronics and IT: Young Faculty Research Fellowships ",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This fellowship is meant for Young Faculty having regular position at their institution and proven track record in research. Support is provisioned for 50 candidates, for an initial period of support of 2 years, extendible till 5 years based on performance review.",
+                        "tags":  [
+                                     "Visvesvaraya PhD",
+                                     "Electronics And IT",
+                                     "Young Faculty",
+                                     "Research",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/yfrf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-phd",
+                        "source_id":  "WBjU9ZwB5uF80_MGjGKz",
+                        "slug":  "wise-phd",
+                        "name":  "WISE Fellowship for Ph.D.",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"WISE Fellowship for Ph.D. (WISE-PhD)\" of the Department of Science and Technology aims to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields.",
+                        "tags":  [
+                                     "WISE",
+                                     "Fellowship",
+                                     "PhD",
+                                     "KIRAN",
+                                     "Woman"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-phd",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-pdf",
+                        "source_id":  "K8ek9ZwB0AGc0F0i2Ajo",
+                        "slug":  "wise-pdf",
+                        "name":  "WISE Post-Doctoral Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âWISE Post-Doctoral Fellowshipâ is a new programme of the Department of Science \u0026 Technology that aims to provide opportunities to women scientists \u0026 technologists between the age group of 27-60 years who want to continue their research as bench-level scientists in basic and applied sciences.",
+                        "tags":  [
+                                     "WISE",
+                                     "Post-Doctoral",
+                                     "Fellowship",
+                                     "KIRAN",
+                                     "Woman",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-pdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-scope-fellowship",
+                        "source_id":  "yca4F5gB0AGc0F0iLzRS",
+                        "slug":  "wise-scope-fellowship",
+                        "name":  "Women In Science and Engineering-Societal Challenges with Opportunities Fellowship",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âWISE-SCOPE Fellowshipâ Program was started by the Department of Science \u0026 Technology, Government of India with the aims to provide opportunity to Women Scientists and Technologists who have completed Ph.D. and want to utilize their S\u0026T knowledge and expertise for the benefit of society.",
+                        "tags":  [
+                                     "WISE",
+                                     "SCOPE",
+                                     "Fellowship",
+                                     "Woman",
+                                     "Research",
+                                     "Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-a",
+                        "source_id":  "YRezF5gB5uF80_MGKI-X",
+                        "slug":  "wos-a",
+                        "name":  "Women Scientist Scheme-A",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment, to explore possibility of re-entry into the profession.\n",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Technology",
+                                     "Science",
+                                     "Empowerment",
+                                     "Fellowship",
+                                     "Education",
+                                     "Unemployed"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-a",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-b",
+                        "source_id":  "MRezF5gB5uF80_MGGo-D",
+                        "slug":  "wos-b",
+                        "name":  "Women Scientist Scheme-B",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S\u0026T interventions. Women scientists who wish to apply under this scheme are required to develop their own project/proposals for scientific and technological solutions",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Female",
+                                     "Technology",
+                                     "Science",
+                                     "Research",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-b",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-c",
+                        "source_id":  "usazF5gB0AGc0F0iKDMj",
+                        "slug":  "wos-c",
+                        "name":  "Women Scientist Scheme-C",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S\u0026T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright.",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Science",
+                                     "Technology",
+                                     "Post-graduation",
+                                     "Skill"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-c",
+                        "min_age":  27,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "widushi",
+                        "source_id":  "1qHVF5gBXu-iUKXqq3c_",
+                        "slug":  "widushi",
+                        "name":  "Womenâs Instinct for Developing and Ushering in Scientific Heights \u0026 Innovation",
+                        "level":  "Central",
+                        "category":  "Science, IT \u0026 Communications",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\u0027WIDUSHI\u0027 programme aims to encourage and support senior women scientists to conduct research in interdisciplinary areas of Science and Technology.",
+                        "tags":  [
+                                     "WIDUSHI",
+                                     "Woman",
+                                     "KIRAN",
+                                     "Scientist",
+                                     "Retired",
+                                     "Fellowship",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/widushi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

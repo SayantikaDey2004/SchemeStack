@@ -1,0 +1,2461 @@
+﻿{
+    "category":  "Skills \u0026 Employment",
+    "level":  "Central",
+    "expected_count":  379,
+    "extracted_count":  78,
+    "schemes":  [
+                    {
+                        "id":  "ay",
+                        "source_id":  "j6GzF5gBXu-iUKXqIHSI",
+                        "slug":  "ay",
+                        "name":  "Agnipath Yojana",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A welfare scheme by the Department of Military Affairs, MoD under which rigorous military training will be imparted to the youth aged between 17.5 to 23 years and meeting other educational, physical, and medical criteria, who are aspirational to be a part of the armed forces.",
+                        "tags":  [
+                                     "Youth",
+                                     "Armed Forces",
+                                     "Military",
+                                     "Agniveer",
+                                     "Employment",
+                                     "Indian Navy",
+                                     "Indian Air Force",
+                                     "Indian Army"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ay",
+                        "min_age":  17.5,
+                        "max_age":  23,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "acandabc",
+                        "source_id":  "s8azF5gB0AGc0F0iITMl",
+                        "slug":  "acandabc",
+                        "name":  "Agri-Clinics And Agri-Business Centres Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A welfare scheme by the Ministry of Agriculture and Farmers\u0027 Welfare was launched in 2002. AC\u0026ABC aims at agricultural development, supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model.",
+                        "tags":  [
+                                     "Business",
+                                     "Entrepreneur",
+                                     "Student",
+                                     "Training",
+                                     "Agriculture",
+                                     "Employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/acandabc",
+                        "min_age":  18,
+                        "max_age":  60,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "adps",
+                        "source_id":  "MqG7F5gBXu-iUKXqW3ZW",
+                        "slug":  "adps",
+                        "name":  "AlCTE - Distinguished Professional Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "AICTE-Distinguished Professionals Scheme has been launched by the All India Council for Technical Education, Ministry of Education to improve the quality of Technical Education in India by utilizing the expertise of Professionals, Emeritus professors \u0026 Eminent Personalities to share their knowledge.",
+                        "tags":  [
+                                     "AICTE",
+                                     "Student",
+                                     "Honorarium",
+                                     "Technical Education",
+                                     "Professors"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/adps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "asiim",
+                        "source_id":  "3MYkupoB0AGc0F0iPqr1",
+                        "slug":  "asiim",
+                        "name":  "Ambedkar Social Innovation and Incubation Mission (ASIIM)",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to boost entrepreneurship and innovation among SC students and SC differently-abled youth by providing focused support to translate innovative, technology-oriented business ideas into successful commercial enterprises. It offers equity funding and hand-holding support.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Innovation",
+                                     "Youth",
+                                     "Scheduled Caste",
+                                     "Student",
+                                     "Incubation",
+                                     "Startup"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asiim",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "atuf",
+                        "source_id":  "paLH-pwBXu-iUKXqwEwh",
+                        "slug":  "atuf",
+                        "name":  "Amended Technology Upgradation Fund",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality and import and export substitution in the textile industry. ",
+                        "tags":  [
+                                     "Investment",
+                                     "Employment",
+                                     "Productivity",
+                                     "Import",
+                                     "Export"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/atuf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ati",
+                        "source_id":  "Fhe3F5gB5uF80_MGMpCZ",
+                        "slug":  "ati",
+                        "name":  "Assistance to Training Institutions Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Under the scheme, assistance would be provided to the training institutions under the Ministry of MSME for creation, strengthening and expansion of infrastructure, including setting-up of new branches and centres.",
+                        "tags":  [
+                                     "Training",
+                                     "ATI",
+                                     "MSME",
+                                     "EDI",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ati",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "avowwobc",
+                        "source_id":  "VBfmF5gB5uF80_MG0ZNJ",
+                        "slug":  "avowwobc",
+                        "name":  "Assistance to Voluntary Organizations Working for Welfare of OBCs ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Assistance to Voluntary Organizations Working for Welfare of OBCs\" scheme aims to involve the voluntary sector in improving the educational and socio-economic conditions of the target group i.e. OBCs to upgrade skills to enable them to start income-generating activities on their own.",
+                        "tags":  [
+                                     "Empowerment",
+                                     "Other Backward Class",
+                                     "NGO",
+                                     "Empolyment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/avowwobc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The beneficiary\u0026#39;s annual family income should not exceed â¹1,00,000/-.."
+                    },
+                    {
+                        "id":  "bfa",
+                        "source_id":  "eaG9F5gBXu-iUKXqYnZW",
+                        "slug":  "bfa",
+                        "name":  "Buti Foundation Award",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science \u0026 Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contribution",
+                        "tags":  [
+                                     "Award",
+                                     "Scientist",
+                                     "Engineer",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bfa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cbsp-ep",
+                        "source_id":  "fKGEMZgBXu-iUKXq43n-",
+                        "slug":  "cbsp-ep",
+                        "name":  "Capacity Building For Service Providers - Entrepreneurship Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The scheme \"Entrepreneurship Programme\" is a Suo-Moto Sub-Scheme of the Ministry of Tourism under the Umbrella Scheme of \"Capacity Building for Service Providers\". In this scheme financial assistance is provided to the institutes (given below) to conduct entrepreneurship development programs.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Training",
+                                     "Skill"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cbsp-ep",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cbsp-stc",
+                        "source_id":  "mRe0F5gB5uF80_MGEY9y",
+                        "slug":  "cbsp-stc",
+                        "name":  "Capacity Building For Service Providers - Skill Testing \u0026 Certification",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme \"Skill Testing \u0026 Certification\" is a Suo-Moto Sub-Category of Programmes under the Umbrella Scheme of \"Capacity Building for Service Providers\", Ministry of Tourism. In this scheme, financial assistance is provided to conduct Skilling and Re-Skilling Programmes.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Skill",
+                                     "Training",
+                                     "Employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cbsp-stc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "otsdfpc",
+                        "source_id":  "LRezF5gB5uF80_MGGY9Z",
+                        "slug":  "otsdfpc",
+                        "name":  "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister\u0027s Development Package",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Housing \u0026 Shelter",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu \u0026 Kashmir. The amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer.",
+                        "tags":  [
+                                     "Rehabilitation",
+                                     "Displaced",
+                                     "Business",
+                                     "Farming",
+                                     "Jammu",
+                                     "Kashmir",
+                                     "Family"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/otsdfpc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cvy-citus",
+                        "source_id":  "UaG3F5gBXu-iUKXqM3VU",
+                        "slug":  "cvy-citus",
+                        "name":  "Coir Vikas Yojana- Coir Industry Technology Upgradation Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âCoir Industry Technology Upgradation Scheme (CITUS)â is a component of âCoir Vikas Yojanaâ and the scheme was launched by Ministry of Micro, Small \u0026 Medium Enterprises, Government of India. ",
+                        "tags":  [
+                                     "Coir",
+                                     "Coir Industry",
+                                     "Technology Upgradation",
+                                     "MSME",
+                                     "CITUS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cvy-citus",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cvy-sumcy",
+                        "source_id":  "YKG3F5gBXu-iUKXqNXWb",
+                        "slug":  "cvy-sumcy",
+                        "name":  "Coir Vikas Yojana-Skill Upgradation and Mahila Coir Yojana",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âSkill Upgradation and Mahila Coir Yojanaâ is a component of âCoir Vikas Yojanaâ and the scheme was launched by the Ministry of Micro, Small \u0026 Medium Enterprises, Government of India.",
+                        "tags":  [
+                                     "Coir",
+                                     "Skill Upgradation",
+                                     "Mahila",
+                                     "MSME",
+                                     "Stipend",
+                                     "Training",
+                                     "Entrepreneur",
+                                     "Self-employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cvy-sumcy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "chcdp",
+                        "source_id":  "SxeFMZgB5uF80_MGjZRR",
+                        "slug":  "chcdp",
+                        "name":  "Comprehensive Handicrafts Cluster Development Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The Comprehensive Handicrafts Cluster Development Scheme was launched to create a world-class infrastructure that will cater to the business needs of local artisans \u0026 SMEs in order to boost production and export. ",
+                        "tags":  [
+                                     "Local Artisans",
+                                     "Infrastructural Support",
+                                     "Technology Upgradation",
+                                     "Market Access"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/chcdp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cts-msde",
+                        "source_id":  "vxdVCpkB5uF80_MGh5QM",
+                        "slug":  "cts-msde",
+                        "name":  "Craftsmen Training Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to ensure steady flow of skilled workers in different trades for domestic industry and reduce unemployment among educated youth. It provides systematic vocational training through Industrial Training Institutes and National Skill Training Institutes across India.",
+                        "tags":  [
+                                     "Craftsmen",
+                                     "Training",
+                                     "Skill",
+                                     "Employment",
+                                     "Youth"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cts-msde",
+                        "min_age":  14,
+                        "max_age":  40,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ddugku",
+                        "source_id":  "RKJX35sBXu-iUKXq-kXb",
+                        "slug":  "ddugku",
+                        "name":  "Deen Dayal Upadhyay Grameen Kaushalya Yojana",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "DDU-GKY focuses on the rural poor youth and its emphasis on sustainable employment through the prominence and incentives given to post-placement tracking, retention, and career progression. DDU-GKY is designed to provide high-quality skill training opportunities to the rural poor.",
+                        "tags":  [
+                                     "Skill",
+                                     "Training",
+                                     "Education",
+                                     "Placement",
+                                     "Youth",
+                                     "Employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ddugku",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "day-nrlm",
+                        "source_id":  "kRe0F5gB5uF80_MGEI-c",
+                        "slug":  "day-nrlm",
+                        "name":  "Deendayal Antyodaya Yojana - National Rural Livelihoods Mission",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "DAY-NRLM is the flagship program of MoRD for promoting poverty reduction through building strong institutions for the poor, particularly women, and enabling these institutions to access a range of financial services and livelihoods. States are enabled to formulate their poverty reduction plans.",
+                        "tags":  [
+                                     "Loan",
+                                     "Skill",
+                                     "Employment",
+                                     "SHG"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/day-nrlm",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "deswinternship",
+                        "source_id":  "5ReGPpkB5uF80_MGPpQ6",
+                        "slug":  "deswinternship",
+                        "name":  "DESW Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to engage Indian Youth as interns to gain firsthand experience and understanding of welfare, healthcare, resettlement, and administrative schemes meant for Ex-Servicemen.",
+                        "tags":  [
+                                     "Ex-Servicemen",
+                                     "Research",
+                                     "Graduate",
+                                     "Postgraduate",
+                                     "Students",
+                                     "Indian Youth",
+                                     "Interns"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/deswinternship",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "mdiis",
+                        "source_id":  "26G0F5gBXu-iUKXqHnRQ",
+                        "slug":  "mdiis",
+                        "name":  "Digital India Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "An opportunity for a student to secure practical work experience under the guidance of a qualified and experienced Supervisor/Mentor in Ministry of Electronics and Information Technology (MeitY) in the form of Digital India Internship Scheme.",
+                        "tags":  [
+                                     "Internship",
+                                     "E-Governance",
+                                     "Opportunity",
+                                     "Stipend"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mdiis",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "dky",
+                        "source_id":  "MRhXRpwB5uF80_MGbF3d",
+                        "slug":  "dky",
+                        "name":  "Divyangjan Kaushal Yojana",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to ensure dignified livelihood opportunities for Persons with Disabilities (PwDs) by providing industry-relevant and customized training specific to each group. The scheme provides skill development in high-growth sectors such as Information Technology, Animation, Visual Effect, etc.",
+                        "tags":  [
+                                     "Disability",
+                                     "PwD",
+                                     "Divyangjan",
+                                     "Training",
+                                     "Skilling",
+                                     "Livelihood"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dky",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "eps",
+                        "source_id":  "vKIO-5wBXu-iUKXq20z-",
+                        "slug":  "eps",
+                        "name":  "Employees\u0027 Pension Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Labour and Employment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme ensures retirement security for employees covered under the EPF Act, offering monthly pensions, family pensions, and withdrawal benefits. It targets workers in organised sectors, providing financial support post-retirement, during disability, or to dependents after the memberâs death.",
+                        "tags":  [
+                                     "Employment",
+                                     "Pension",
+                                     "Retirement",
+                                     "Senior Citizen",
+                                     "EPFO"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/eps",
+                        "min_age":  10,
+                        "max_age":  58,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "esdp",
+                        "source_id":  "LBe3F5gB5uF80_MGNpCM",
+                        "slug":  "esdp",
+                        "name":  "Entrepreneurship and Skill Development Programme ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The O/o DC-MSME under \"Development of MSMEs\" vertical has launched the \"Entrepreneurship and Skill Development Programme (ESDP)\". The Programme is being organized regularly to nurture the talent of youth by enlightening them on various aspects of industrial/business activity required for setting up ",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Skill Development",
+                                     "MSME",
+                                     "ESDP",
+                                     "Self-employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/esdp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "fanf-pwd",
+                        "source_id":  "nMazF5gB0AGc0F0iHjP8",
+                        "slug":  "fanf-pwd",
+                        "name":  "Financial Assistance Under The National Fund For Persons With Disabilities",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A scheme by DoEPwDs for providing financial assistance to the Persons with Disabilities (PwDs) in support of various livelihood activities. The objective of these guidelines is to provide a framework to support financial assistance under the Fund for relevant core areas  for empowerment of PwDs.",
+                        "tags":  [
+                                     "Disability",
+                                     "PwD",
+                                     "Differently Abled",
+                                     "Empowerment",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fanf-pwd",
+                        "min_age":  2,
+                        "max_age":  "Not specified",
+                        "income_limit":  "The Total Annual Income of Family (from all sources) of the applicant must not exceed - â¹ 3.00 Lakh per Annum (if participating in National Events and National IT Challenge);"
+                    },
+                    {
+                        "id":  "fspip",
+                        "source_id":  "TaG3F5gBXu-iUKXqM3UM",
+                        "slug":  "fspip",
+                        "name":  "FutureSkills Prime Incentive Program",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote a novel skilling ecosystem in the country, the programme/scheme would incentivize the cost of the eligible course(s) concerned, providing authentic and accredited certifications that are acceptable in the industry.",
+                        "tags":  [
+                                     "Skill",
+                                     "Training",
+                                     "Learning",
+                                     "Education",
+                                     "Course"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fspip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The incentive program is open to all Indian citizens, regardless of their age, educational qualification, or income level."
+                    },
+                    {
+                        "id":  "icar-ep",
+                        "source_id":  "-Ma0F5gB0AGc0F0iFTOC",
+                        "slug":  "icar-ep",
+                        "name":  "ICAR Emeritus Professor",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2023-03-03",
+                        "priority":  1,
+                        "description":  "The ICAR floated the Scheme of Emeritus Professor in order to provide an opportunity to the superannuated teachers/ Scientists of universities, colleges and institutions under ICAR-AU System. \n",
+                        "tags":  [
+                                     "ICAR",
+                                     "Emeritus",
+                                     "Professor",
+                                     "Retired"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/icar-ep",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "icar-es",
+                        "source_id":  "w6G0F5gBXu-iUKXqEHQ0",
+                        "slug":  "icar-es",
+                        "name":  "ICAR Emeritus Scientist",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2021-10-31",
+                        "priority":  1,
+                        "description":  "The ICAR Emeritus Scientist Scheme is a structural method of tapping the Brain and skill bank of the outstanding superannuated professionals of NARS by allowing them to complete the work in hand for its fruitful conclusion, and utilize their talent in teaching specialized courses. ",
+                        "tags":  [
+                                     "Emeritus",
+                                     "Scientist",
+                                     "Retirement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/icar-es",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ibps",
+                        "source_id":  "dsd69pwB0AGc0F0i2ghl",
+                        "slug":  "ibps",
+                        "name":  "India BPO Promotion Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to create employment opportunities and promote investment in the IT/ITeS sector by establishing BPO/ITeS units in smaller cities. Through this scheme, financial support in the form of Viability Gap Funding is provided to eligible companies.",
+                        "tags":  [
+                                     "Women Employees",
+                                     "Employement Generation",
+                                     "Entrepreneur",
+                                     "Training",
+                                     "BPO"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ibps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "isdmtpp",
+                        "source_id":  "hca3F5gB0AGc0F0iNTRR",
+                        "slug":  "isdmtpp",
+                        "name":  "Institutional Support for Development and Marketing of Tribal Products/Produce ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tribal Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âInstitutional Support for development and Marketing of Tribal Products/Produceâ was introduced in 2014-15 by the Ministry of Tribal Affairs, Government of India. ",
+                        "tags":  [
+                                     "Tribal Products",
+                                     "Marketing",
+                                     "TRIFED",
+                                     "Empowerment",
+                                     "Livelihood",
+                                     "Scheduled Tribe"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/isdmtpp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jrcpc",
+                        "source_id":  "Fxe3F5gB5uF80_MGMpC_",
+                        "slug":  "jrcpc",
+                        "name":  "Jute Resource-Cum-Production Centre",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Jute Resource-Cum-Production Centre (JRCPC) will be set up in the local clusters and localities across the country in collaboration with bonafide Agencies who have adequate experience in training and skilling programs and have required training cum-production infrastructure.",
+                        "tags":  [
+                                     "Training Skilling Program",
+                                     "Production",
+                                     "Resource",
+                                     "Sales",
+                                     "Marketing"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jrcpc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "llbip",
+                        "source_id":  "bca2F5gB0AGc0F0iIDRZ",
+                        "slug":  "llbip",
+                        "name":  "LLB Internship Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Law and Justice",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Department of Justice introduced an Internship Programme for young law students. The purpose is to well acquaint law students in the field of research \u0026 referencing work, in various specialized areas of justice delivery, such as Tele-Law, Nyaya Bandhu etc.",
+                        "tags":  [
+                                     "Internship",
+                                     "Law Students",
+                                     "Research",
+                                     "Access To Justice"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/llbip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "mgnrega",
+                        "source_id":  "mcazF5gB0AGc0F0iHDP7",
+                        "slug":  "mgnrega",
+                        "name":  "Mahatma Gandhi National Rural Employment Guarantee Act",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "An employment scheme by the MoRD, providing provide at least 100 days of guaranteed wage employment in a financial year to every rural household whose adult members volunteer to do unskilled work. Any Indian citizen above the age of 18 years and residing in a rural area can apply to this scheme.",
+                        "tags":  [
+                                     "Employment",
+                                     "Labour",
+                                     "Unskilled",
+                                     "Panchayat",
+                                     "Job"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mgnrega",
+                        "min_age":  18,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nap-sdp",
+                        "source_id":  "KRe3F5gB5uF80_MGNpA0",
+                        "slug":  "nap-sdp",
+                        "name":  "National Action Plan for Skill Development of Persons with Disabilities",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A dedicated skill development program aimed at providing high-quality vocational training with a focus on PwDs. The objective is to enhance the skills of PwDs by providing quality vocational skill training, enabling them to gain meaningful employment and become contributing members of society.",
+                        "tags":  [
+                                     "Skill",
+                                     "Training",
+                                     "Employment",
+                                     "Person With Disability",
+                                     "PwD",
+                                     "Citizen Empowerment",
+                                     "DBT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nap-sdp",
+                        "min_age":  15,
+                        "max_age":  59,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "naps",
+                        "source_id":  "iKGzF5gBXu-iUKXqH3S1",
+                        "slug":  "naps",
+                        "name":  "National Apprenticeship Promotion Scheme-2",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "To promote apprenticeship training in the country, by providing partial stipend support\nto the apprentices engaged under the Apprentice Act, 1961, undertaking capacity building of the apprenticeship ecosystem, and providing advocacy assistance to the stakeholders.",
+                        "tags":  [
+                                     "Apprenticeship Training",
+                                     "Skilled Workforce",
+                                     "Up-skilling Opportunities",
+                                     "Skill India Programme"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/naps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ncscscst",
+                        "source_id":  "McfmRpwB0AGc0F0i-gO3",
+                        "slug":  "ncscscst",
+                        "name":  "National Career Service Centers For SC/STs (erstwhile Coaching-cum-Guidance Centre for SC/STs)",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Labour and Employment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides vocational guidance, confidence-building programmes, personality development sessions, practice in typing and shorthand, special coaching for competitive exams, and computer training courses. The applicant must be an educated, unemployed SC/ST jobseeker.",
+                        "tags":  [
+                                     "Student",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Coaching",
+                                     "Training",
+                                     "Counselling",
+                                     "Stipend"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ncscscst",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "- The family annual income of the applicant should not be more than â¹3,00,000/- per annum."
+                    },
+                    {
+                        "id":  "nccsra",
+                        "source_id":  "4cYXDpkB0AGc0F0i6jiJ",
+                        "slug":  "nccsra",
+                        "name":  "National Centre for Communication Security (NCCS) Research Associates Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "#N/A",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "NCCS engages young scholars as Research Associates  to contribute in development of Telecom Security eco system with in India by providing an opportunity to them to work in areas like Telecom Security Standard development, Lab recognition and Security Certification of telecom products.",
+                        "tags":  [
+                                     "Cybersecurity",
+                                     "Research",
+                                     "Telecommunications",
+                                     "Bengaluru",
+                                     "ITSAR",
+                                     "DoT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nccsra",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-iandts-emporia",
+                        "source_id":  "hhezF5gB5uF80_MGkI9N",
+                        "slug":  "nhdp-iandts-emporia",
+                        "name":  "National Handicrafts Development Programme: Infrastructure And Technology Support: EMPORIA",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "In the scheme \"Infrastructure and Technology Support: EMPORIA\" assistance would be provided for the setting up of emporia. These would be set up in commercially viable locations in the implementing agencies\u0027 own/rented buildings.",
+                        "tags":  [
+                                     "Artisan",
+                                     "Weaver",
+                                     "Entrepreneurship",
+                                     "Business",
+                                     "Exhibition"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-iandts-emporia",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-iandts-uh",
+                        "source_id":  "08azF5gB0AGc0F0ijzMp",
+                        "slug":  "nhdp-iandts-uh",
+                        "name":  "National Handicrafts Development Programme: Infrastructure And Technology Support: URBAN HAAT",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme \"Infrastructure \u0026 Technology Support: URBAN HAAT\" is introduced is to set up a permanent marketing infrastructure in towns/ metropolitan cities to provide direct marketing facilities to handicrafts artisans/handloom weavers, enabling them to sell their products to wider target audience.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Artisan",
+                                     "Handloom",
+                                     "Handicraft",
+                                     "Weaver",
+                                     "Infrastructure",
+                                     "Technology Support",
+                                     "Urban Haat"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-iandts-uh",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-randds",
+                        "source_id":  "vqGzF5gBXu-iUKXqkHQr",
+                        "slug":  "nhdp-randds",
+                        "name":  "National Handicrafts Development Programme: Research \u0026 Development Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The \"NHDP: Research \u0026 Development Scheme\" is introduced to generate feedback on economic, social, aesthetic, and promotional aspects of various crafts and artisans in the handicraft sector. The surveys and studies are sponsored/conducted to generate suitable inputs for planning purposes.",
+                        "tags":  [
+                                     "Handicraft",
+                                     "Textile",
+                                     "Research",
+                                     "Grant-in-Aid"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-randds",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nsat",
+                        "source_id":  "FBe3F5gB5uF80_MGMZCz",
+                        "slug":  "nsat",
+                        "name":  "National Scheme of Apprenticeship Training",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The primary goal of this scheme is to bridge the gap in practical experience for fresh Graduate Engineers, Diploma holders, and 10+2 Vocational pass-outs in approximately 10,000 industrial establishments. The apprentices undergo a one-year training period, receiving a monthly stipend.",
+                        "tags":  [
+                                     "Skill",
+                                     "Training",
+                                     "Apprentice",
+                                     "Student"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nsat",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nyc",
+                        "source_id":  "c6GzF5gBXu-iUKXqGnR3",
+                        "slug":  "nyc",
+                        "name":  "National Youth Corps",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A volunteership scheme by Ministry of Youth Affairs And Sports to tap the potential of the disciplined and dedicated youth In the age group of 18 to 29 years who have the inclination and spirit to engage in nation building exercises, to serve up to two years in Nation Building activities.",
+                        "tags":  [
+                                     "Youth",
+                                     "Sports",
+                                     "Volunteer",
+                                     "IT",
+                                     "Media",
+                                     "Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nyc",
+                        "min_age":  18,
+                        "max_age":  29,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nebps",
+                        "source_id":  "hKK89pwBXu-iUKXqAUyn",
+                        "slug":  "nebps",
+                        "name":  "Northeast BPO Promotion Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "Arunachal Pradesh",
+                                                  "Sikkim",
+                                                  "Mizoram",
+                                                  "Tripura",
+                                                  "Manipur",
+                                                  "Meghalaya",
+                                                  "Nagaland",
+                                                  "Assam"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote the establishment of BPO and Information Technology Enabled Services units in the North-Eastern region. Through the scheme, financial assistance in the form of Viability Gap Funding is provided to eligible companies.",
+                        "tags":  [
+                                     "Employment",
+                                     "Viability Gap Funding",
+                                     "Youth",
+                                     "Investment",
+                                     "Information Technology",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nebps",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-svanidhi",
+                        "source_id":  "jqGzF5gBXu-iUKXqIHRu",
+                        "slug":  "pm-svanidhi",
+                        "name":  "PM Street Vendorâs AtmaNirbhar Nidhi (PM SVANidhi)",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PM SVANidhi is a micro-credit scheme launched on 1st June 2020 by the MoHUA to provide handholding support to street vendors. The scheme facilitates a working capital collateral-free loan of â¹10,000, with subsequent loans of â¹20,000 and â¹50,000 with a 7% interest subsidy.",
+                        "tags":  [
+                                     "Street Vendors",
+                                     "Working Capital Loan",
+                                     "Enhanced Livelihood",
+                                     "Digital Empowerment",
+                                     "Affordable Credit"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-svanidhi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmv",
+                        "source_id":  "4Rh5-5wB5uF80_MGmWLa",
+                        "slug":  "pmv",
+                        "name":  "PM Vishwakarma",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"PM Vishwakarma \" by the Ministry of Micro, Small \u0026 Medium Enterprises, is a new scheme that envisages providing end-to-end holistic support to traditional artisans and craftspeople in scaling up their conventional products and services.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Craftspeople",
+                                     "Skill Upgradation",
+                                     "Toolkit Incentive"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmv",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmstgc",
+                        "source_id":  "7MbGFJkB0AGc0F0i9Th9",
+                        "slug":  "pmstgc",
+                        "name":  "PM-Special Training of Geriatric Caregivers",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to train and create a professional cadre of geriatric caregivers to meet the increasing demand for specialized care for senior citizens. It offers skill development and certification in geriatric care job roles to Indian citizens, ensuring professional services for the elderly.",
+                        "tags":  [
+                                     "Training",
+                                     "Skill",
+                                     "Health",
+                                     "Certification"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmstgc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmbjp",
+                        "source_id":  "-8a0F5gB0AGc0F0iFTPL",
+                        "slug":  "pmbjp",
+                        "name":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Health \u0026 Wellness",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Chemicals And Fertilizers",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana was launched by the Department of Pharmaceuticals, in November 2008. Under the scheme, dedicated outlets known as Janaushadhi Kendras are opened to make quality generic medicines available to all at affordable prices.",
+                        "tags":  [
+                                     "Medicine",
+                                     "Pharmaceutical",
+                                     "Healthcare",
+                                     "Entrepreneur",
+                                     "Janaushadhi",
+                                     "Generic Drugs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmbjp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-daksh",
+                        "source_id":  "oBe0F5gB5uF80_MGFI_6",
+                        "slug":  "pm-daksh",
+                        "name":  "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"PM-DAKSH\", launched by the Ministry of Social Justice \u0026 Empowerment (MoSJ\u0026E), aims to empower socially, educationally, and economically marginalized groups like SCs, OBCs, EWS, DNTs, Safai Mitras, and Waste Pickers by enhancing their skills through high-quality training.",
+                        "tags":  [
+                                     "Skill",
+                                     "Training",
+                                     "Employment",
+                                     "Stipend",
+                                     "Scheduled Caste",
+                                     "Other Backward Class",
+                                     "Economically Weaker Section"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-daksh",
+                        "min_age":  18,
+                        "max_age":  45,
+                        "income_limit":  "No income limit"
+                    },
+                    {
+                        "id":  "pmgdisha",
+                        "source_id":  "_Ma0F5gB0AGc0F0iFTPU",
+                        "slug":  "pmgdisha",
+                        "name":  "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, across States/UTs, are digitally literate, reaching around 40% of rural households.",
+                        "tags":  [
+                                     "Digital",
+                                     "Education",
+                                     "Skill",
+                                     "Rural Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmgdisha",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmkvy-rpl",
+                        "source_id":  "SRezF5gB5uF80_MGII8e",
+                        "slug":  "pmkvy-rpl",
+                        "name":  "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A skill development scheme by Ministry of Skill Development and Entrepreneurship that enables Indian youth with prior learning experience or skills to obtain industry-relevant skill certification.",
+                        "tags":  [
+                                     "Kaushal",
+                                     "Vikas",
+                                     "Skill",
+                                     "Industry Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmkvy-rpl",
+                        "min_age":  18,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmkvy-stt",
+                        "source_id":  "o6GzF5gBXu-iUKXqLXTE",
+                        "slug":  "pmkvy-stt",
+                        "name":  "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A skill development scheme by Ministry of Skill Development and Entrepreneurship for school/college dropouts/unemployed aged 15-45 at PMKVY Training Centres (TCs). ",
+                        "tags":  [
+                                     "Placement",
+                                     "Counselling",
+                                     "Training",
+                                     "Dropout",
+                                     "Unemployed",
+                                     "Skill",
+                                     "Vikas",
+                                     "Kaushal"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+                        "min_age":  15,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmkvy-sp",
+                        "source_id":  "scazF5gB0AGc0F0iIDP3",
+                        "slug":  "pmkvy-sp",
+                        "name":  "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A skill development scheme by Ministry of Skill Development and Entrepreneurship for Marginalized or vulnerable groups which may not meet all the parameters as laid down in the Guidelines of ShortTerm Training (STT) of PMKVY 3.0",
+                        "tags":  [
+                                     "Marginalized Groups",
+                                     "Vulnerable Groups",
+                                     "Kaushal",
+                                     "Vikas",
+                                     "Skill",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "PVTG",
+                                     "Women",
+                                     "Transgender",
+                                     "Economically Backward Section",
+                                     "Person With Disabilities",
+                                     "LWE"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmkvy-sp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmvbry-pa",
+                        "source_id":  "qMcq_psB0AGc0F0iwgGv",
+                        "slug":  "pmvbry-pa",
+                        "name":  "Pradhan Mantri Viksit Bharat Rozgar Yojana: Part A- Support for First-Time Employees",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Labour and Employment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This component of scheme provides an incentive to assist first-timer employees in navigating their learning curve before they become fully productive with completing their financial literacy course over EPO portal. It provides one time incentive of upto â¹15,000/- to assist first timer employees.",
+                        "tags":  [
+                                     "Viksit Bharat",
+                                     "Rozgar",
+                                     "EPFO",
+                                     "Employment",
+                                     "First Time Employee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmvbry-pa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmvbry-pb",
+                        "source_id":  "rccr_psB0AGc0F0i5gEl",
+                        "slug":  "pmvbry-pb",
+                        "name":  "Pradhan Mantri Viksit Bharat Rozgar Yojana: Part B- Support to Employers with Focus on Manufacturing Sector",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Labour and Employment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "This component is an employer-focused Part of the scheme that supports creation of sustained additional employment in all sectors. It incentivizes employers for 2 years for creation of additional employment. For establishments engaged in manufacturing sector, incentives will be provided for 4 years.",
+                        "tags":  [
+                                     "Viksit Bharat",
+                                     "Rozgar",
+                                     "EPFO",
+                                     "Employment",
+                                     "Establishment",
+                                     "Manufacturing Sector"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmvbry-pb",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-vikas",
+                        "source_id":  "Zcdc9pwB0AGc0F0i0ghQ",
+                        "slug":  "pm-vikas",
+                        "name":  "Pradhan Mantri Virasat ka Samvardhan",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Minority Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PM VIKAS is a Central sector scheme that focuses on socio-economic empowerment of six notified minorities in the country through skilling \u0026 training, women leadership \u0026 empowerment and education. The scheme integrates erstwhile skilling \u0026 education schemes of the Ministry of Minority Affairs.",
+                        "tags":  [
+                                     "Skill Development",
+                                     "Women Entrepeneurship",
+                                     "Education Of School Dropouts",
+                                     "Socio-economic Empowerment",
+                                     "Minorities"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-vikas",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmis",
+                        "source_id":  "LBfAF5gB5uF80_MGb5Io",
+                        "slug":  "pmis",
+                        "name":  "Prime Ministerâs Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Corporate Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide internship opportunities to one crore youth in top 500 companies in five years. Through this Scheme, youth will gain exposure for 12 months to real-life business environment, across varied professions and employment opportunities.",
+                        "tags":  [
+                                     "Internship",
+                                     "Youth",
+                                     "Employment Opportunities",
+                                     "Training",
+                                     "Monthly Assistance",
+                                     "Skill Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmis",
+                        "min_age":  21,
+                        "max_age":  24,
+                        "income_limit":  "The candidate family income should not exceed â¹8,00,000/-."
+                    },
+                    {
+                        "id":  "pmrdfs",
+                        "source_id":  "JqGWeZkBXu-iUKXqM3pv",
+                        "slug":  "pmrdfs",
+                        "name":  "Prime Ministerâs Rural Development Fellows Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide short term catalytic support to the District Administration in backward districts to improve programme delivery and simultaneously develop a cadre of Development Facilitators. Fellows receive professional experience, structured learning, and a monthly stipend.",
+                        "tags":  [
+                                     "Youth",
+                                     "Professional",
+                                     "Fellowship",
+                                     "Rural",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmrdfs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmegp",
+                        "source_id":  "pxe0F5gB5uF80_MGFY_X",
+                        "slug":  "pmegp",
+                        "name":  "Prime Minister\u0027s Employment Generation Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in August 2008, Prime Minister\u0027s Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in ",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Loan",
+                                     "Entrepreneur",
+                                     "Projects",
+                                     "Micro Enterprises"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmegp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "There will be no income ceiling for assistance in setting up projects under PMEGP."
+                    },
+                    {
+                        "id":  "rgsaip",
+                        "source_id":  "1Be6F5gB5uF80_MGRJAa",
+                        "slug":  "rgsaip",
+                        "name":  "Rashtriya Gram Swaraj Abhiyan - Internship Program",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Panchayati Raj",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \u0027Internship Program\u0027 as part of the Framework for Implementation of Centrally Sponsored Scheme of Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) (2022-23 to 2025-26) of the Ministry of Panchayati Raj (MoPR), Government of India (Gol), seeks to engage \u0027Students\u0027.",
+                        "tags":  [
+                                     "Internship",
+                                     "Research Scolars",
+                                     "Students"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rgsaip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ra",
+                        "source_id":  "aqG3F5gBXu-iUKXqOHUi",
+                        "slug":  "ra",
+                        "name":  "Research Associates (RA) ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Research Associates (RAs) of the Department of Biotechnology (DBT) in India are individuals who engage in research work under the DBT-Research Associateship Program in Biotechnology and its was started in 1999. ",
+                        "tags":  [
+                                     "Education",
+                                     "Employment",
+                                     "Bio-Technology"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ra",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sip",
+                        "source_id":  "iKG3F5gBXu-iUKXqsnUx",
+                        "slug":  "sip",
+                        "name":  "SAHAKAR MITRA: NCDCâs Scheme on Internship Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The programme aims at providing an opportunity to professional graduates to get experience in areas of functioning of NCDC and related aspects of cooperatives.",
+                        "tags":  [
+                                     "Internship",
+                                     "Student",
+                                     "Professional",
+                                     "Intern",
+                                     "Graduate",
+                                     "SIP"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sdesdm",
+                        "source_id":  "9qIkAJ0BXu-iUKXqA0yy",
+                        "slug":  "sdesdm",
+                        "name":  "Scheme for âSkill Development in ESDM for Digital Indiaâ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to skill 3,28,000 candidates in the ESDM sector. Through this scheme, training and certification benefits are provided to students and unemployed youth.",
+                        "tags":  [
+                                     "Students",
+                                     "Polytechnic",
+                                     "Under Graduates",
+                                     "Graduates",
+                                     "ITI",
+                                     "Training",
+                                     "Certification"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sdesdm",
+                        "min_age":  17,
+                        "max_age":  "Not specified",
+                        "income_limit":  "\u003e **Reservation / Preference:** - 60% seats: General Category - 40% seats: Reserved Categories - SC: 15% - ST: 7.5% - EWS: 17.5% - EWS Criteria: - The applicantâs family income should not exceed â¹2,00,000/- annually."
+                    },
+                    {
+                        "id":  "sarsjr",
+                        "source_id":  "FhdghZkB5uF80_MGjJVM",
+                        "slug":  "sarsjr",
+                        "name":  "Scheme for Action Research and Studies on Judicial Reforms",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Law and Justice",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial assistance for undertaking action research, evaluation studies, monitoring studies, capacity building, publishing reports, and promoting innovative programmes in the areas of Justice Delivery, Legal Research, and Judicial Reforms.",
+                        "tags":  [
+                                     "Research",
+                                     "Judicial",
+                                     "Financial",
+                                     "Academy",
+                                     "Evaluation",
+                                     "Monitoring"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sarsjr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "safaew-bcew",
+                        "source_id":  "b6GzF5gBXu-iUKXqGXRB",
+                        "slug":  "safaew-bcew",
+                        "name":  "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers â Pre \u0026 Post-Matric",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Labour and Employment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment wherein financial assistance for education is provided to the Wards of Beedi/IOMC/LSDM Workers, varying from â¹1,000/- to â¹25,000/- per student per annum. The benefits are transferred through the DBT system.",
+                        "tags":  [
+                                     "Student",
+                                     "Scholarship",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/safaew-bcew",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The total monthly Income of the Workerâs family from all sources should not exceed under:- Beedi Workers - â¹10,000/-;"
+                    },
+                    {
+                        "id":  "sutsesdm",
+                        "source_id":  "7seFAJ0B0AGc0F0iywhU",
+                        "slug":  "sutsesdm",
+                        "name":  "Scheme for Financial Assistance to select States/UTs for Skill Development in Electronics System Design and Manufacturing (ESDM) sector",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to enhance skill development capacity in the ESDM sector. Through this scheme, financial assistance and industry-relevant training are provided to students and unemployed youth.",
+                        "tags":  [
+                                     "Skill Development Program",
+                                     "Skill Upgradation",
+                                     "Students",
+                                     "Unemployed Youth",
+                                     "Capacity Building",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sutsesdm",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "srms",
+                        "source_id":  "_ca0F5gB0AGc0F0iFjNZ",
+                        "slug":  "srms",
+                        "name":  "Self Employment Scheme For Rehabilitation Of Manual Scavengers",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January 2017 by the Ministry of Social Justice and Empowerment, to assist the identified manual scavengers and their dependants in rehabilitation in alternative occupations.",
+                        "tags":  [
+                                     "Employment",
+                                     "Rehabilitation",
+                                     "Scavengers",
+                                     "Financial Assistance",
+                                     "Loan",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/srms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sga",
+                        "source_id":  "LaHAF5gBXu-iUKXqb3cn",
+                        "slug":  "sga",
+                        "name":  "Shilp Guru Award",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The âShilp Guru Awardâ for master craftspersons was introduced by the Ministry of Textiles to honor legendary master craftspersons of handicrafts whose work and dedication have contributed not only to the preservation but also to the promotion of the rich and diverse craft heritage of the country.",
+                        "tags":  [
+                                     "Award",
+                                     "Master Craftperson",
+                                     "Handicrafts",
+                                     "National Awardee",
+                                     "State Awardee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sga",
+                        "min_age":  55,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sitare-ag",
+                        "source_id":  "cMdw9pwB0AGc0F0ixwgh",
+                        "slug":  "sitare-ag",
+                        "name":  "SITARE-Appreciation Grant",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "SITARE-Appreciation Grant: Residential workshops called as Biotech Innovation Ignition School (BIIS) for undergraduate students are organized to provide hands-on technical training and mentorship for problem identification in 3-4 weeks duration.",
+                        "tags":  [
+                                     "SITARE",
+                                     "Appreciation",
+                                     "Grant",
+                                     "Residential Workshop",
+                                     "BIIS",
+                                     "Undergraduate Student"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sitare-ag",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sl",
+                        "source_id":  "msazF5gB0AGc0F0iHTN4",
+                        "slug":  "sl",
+                        "name":  "Skill Loan Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Skill loan scheme by Ministry of Skill Development and Entrepreneurship to provide loan upto Rs. 1,50,000 to student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affil",
+                        "tags":  [
+                                     "Skill Development",
+                                     "Student",
+                                     "Industrial Training Institutes (ITIs)",
+                                     "Polytechnics"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "smile-skill-and-training",
+                        "source_id":  "m6GzF5gBXu-iUKXqIXSN",
+                        "slug":  "smile-skill-and-training",
+                        "name":  "SMILE - Comprehensive Rehabilitation For Welfare Of Transgender Persons â Skill Development And Training",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Finance",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide employment opportunities to the person belonging to transgender person community by providing them market-oriented skills.",
+                        "tags":  [
+                                     "Transgender",
+                                     "Skill Developemnt",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/smile-skill-and-training",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "- There is no income criterion for selection in the skill development programme."
+                    },
+                    {
+                        "id":  "secoii",
+                        "source_id":  "YKG8F5gBXu-iUKXqUHam",
+                        "slug":  "secoii",
+                        "name":  "Solar Energy Corporation of India (SECI) Internship",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of New and Renewable Energy",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The SECI Internship Policy is designed to provide practical experience to students in the renewable energy sector. The program aims to give interns exposure to SECI\u0027s various divisions, helping them understand the renewable energy sector.",
+                        "tags":  [
+                                     "Stipend",
+                                     "Internship",
+                                     "Student",
+                                     "Graduate",
+                                     "Post-Graduate"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/secoii",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tip",
+                        "source_id":  "iqK44ZwBXu-iUKXqBUtX",
+                        "slug":  "tip",
+                        "name":  "Technical Internship Programme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide practical technical experience through live projects. Under this programme, a 6-month internship with a stipend of â¹20,000/- per month is offered to eligible engineering students.",
+                        "tags":  [
+                                     "Internship",
+                                     "Live Projects",
+                                     "Stipend",
+                                     "Engineering Students",
+                                     "NeGD Projects",
+                                     "Internship Certificate"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ipiwai",
+                        "source_id":  "rRfTF5gB5uF80_MGLZK6",
+                        "slug":  "ipiwai",
+                        "name":  "The Inland Waterways Authority of India Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Ports,Shipping and Waterways",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The purpose of this scheme is to provide with Selected Candidatesâ short term exposure to different verticals/ divisions/ units of IWAI as âInternsâ. An intern may be required to work at Head Office or Project Office depending upon the requirement of the Authority.",
+                        "tags":  [
+                                     "Internship",
+                                     "Student",
+                                     "Stipend"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ipiwai",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tloiis",
+                        "source_id":  "i8a8F5gB0AGc0F0iVDU_",
+                        "slug":  "tloiis",
+                        "name":  "The Lokpal of India Internship Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "The Lokpal of India",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Lokpal of India launched the Internship Scheme for the interns to learn about the implementation of the Lokpal \u0026 Lokayuktas Act, the Prevention of Corruption Act, the Central Vigilance Commission Act, \u0026 they can contribute towards the effective functioning of the Lokpal of India with fresh ideas",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Student",
+                                     "Internship",
+                                     "Stipend"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tloiis",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tnsfdcis",
+                        "source_id":  "YMa7F5gB0AGc0F0i0DWq",
+                        "slug":  "tnsfdcis",
+                        "name":  "The NSFDC Internship Scheme ",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"The NSFDC Internship Scheme 2024\" is implemented by the National Scheduled Castes Finance \u0026 Development Corporation, Ministry of Social Justice \u0026 Empowerment, Govt. of India. The internship will expose students to various programs \u0026 schemes undertaken by NSFDC, offering them hands-on experience in",
+                        "tags":  [
+                                     "Internship",
+                                     "Opportunity",
+                                     "Student",
+                                     "Skill Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tnsfdcis",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vetls",
+                        "source_id":  "cMbkF5gB0AGc0F0ipjdK",
+                        "slug":  "vetls",
+                        "name":  "Vocational Education and Training Loan Scheme",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Vocational Education and Training Loan Scheme provides financial assistance to youth of the target group to enhance their skills \u0026 employability.",
+                        "tags":  [
+                                     "Education",
+                                     "Training",
+                                     "Loan",
+                                     "Skill"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vetls",
+                        "min_age":  18,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vtcta",
+                        "source_id":  "a6G3F5gBXu-iUKXqOHUt",
+                        "slug":  "vtcta",
+                        "name":  "Vocational Training in Tribal Areas",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tribal Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme will be implemented for the benefit of the Scheduled Tribes as well as PTGs and can be taken up anywhere in the country but priority will be given to remote tribal areas, areas inhabited by particularly vulnerable tribes, and areas affected by extremist activities.",
+                        "tags":  [
+                                     "Vocational Training",
+                                     "Tribal Areas",
+                                     "Scheduled Tribe",
+                                     "VTC",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vtcta",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-a",
+                        "source_id":  "YRezF5gB5uF80_MGKI-X",
+                        "slug":  "wos-a",
+                        "name":  "Women Scientist Scheme-A",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment, to explore possibility of re-entry into the profession.\n",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Technology",
+                                     "Science",
+                                     "Empowerment",
+                                     "Fellowship",
+                                     "Education",
+                                     "Unemployed"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-a",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-b",
+                        "source_id":  "MRezF5gB5uF80_MGGo-D",
+                        "slug":  "wos-b",
+                        "name":  "Women Scientist Scheme-B",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S\u0026T interventions. Women scientists who wish to apply under this scheme are required to develop their own project/proposals for scientific and technological solutions",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Female",
+                                     "Technology",
+                                     "Science",
+                                     "Research",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-b",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-c",
+                        "source_id":  "usazF5gB0AGc0F0iKDMj",
+                        "slug":  "wos-c",
+                        "name":  "Women Scientist Scheme-C",
+                        "level":  "Central",
+                        "category":  "Skills \u0026 Employment",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S\u0026T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright.",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Science",
+                                     "Technology",
+                                     "Post-graduation",
+                                     "Skill"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-c",
+                        "min_age":  27,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

@@ -1,0 +1,678 @@
+﻿{
+    "category":  "Sports \u0026 Culture",
+    "level":  "Central",
+    "expected_count":  256,
+    "extracted_count":  22,
+    "schemes":  [
+                    {
+                        "id":  "asyadcf",
+                        "source_id":  "rBfTF5gB5uF80_MGLJIM",
+                        "slug":  "asyadcf",
+                        "name":  "Award Of Scholarships To Young Artists In Different Cultural Fields",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âAward of Scholarships to Young Artists in Different Cultural Fieldsâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Young Artists",
+                                     "Culture",
+                                     "Advanced Training",
+                                     "Music",
+                                     "Dance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asyadcf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "bydbta",
+                        "source_id":  "TBeFMZgB5uF80_MGyJTq",
+                        "slug":  "bydbta",
+                        "name":  "Bima Yojana - Direct Benefit to Artisan",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "Launched on 15th August 2022, the scheme \"Bima Yojana - Direct Benefit to Artisan (BYDBTA)\" is a Social Welfare Scheme by the Ministry of Textiles, Government of India.\n",
+                        "tags":  [
+                                     "Artisans",
+                                     "Insurance",
+                                     "Handicrafts",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bydbta",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "- The applicantâs annual income should not exceed â¹1,00,000."
+                    },
+                    {
+                        "id":  "cfpgs",
+                        "source_id":  "pBfTF5gB5uF80_MGKJI9",
+                        "slug":  "cfpgs",
+                        "name":  "Cultural Function And Production Grant Scheme",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âCultural Function and Production Grant Schemeâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Cultural Function",
+                                     "Cultural Production",
+                                     "Financial Assistance",
+                                     "Grant",
+                                     "NGO",
+                                     "Society"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cfpgs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "faaca",
+                        "source_id":  "qxfTF5gB5uF80_MGK5KX",
+                        "slug":  "faaca",
+                        "name":  "Financial Assistance For Allied Cultural Activities",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âFinancial Assistance for Allied Cultural Activitiesâ was launched by the Ministry of Culture, Government of India. ",
+                        "tags":  [
+                                     "Culture",
+                                     "Financial Assistance",
+                                     "Audio-visual",
+                                     "Equipment",
+                                     "NGO"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/faaca",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "facapabgist",
+                        "source_id":  "uMbTF5gB0AGc0F0iKzbC",
+                        "slug":  "facapabgist",
+                        "name":  "Financial Assistance For Cultural Activities In Performing Arts For Building Grants Including Studio Theatres",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âFinancial Assistance for Cultural Activities in Performing Arts for Building Grants Including Studio Theatresâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Arts",
+                                     "Culture",
+                                     "Theatres",
+                                     "Studio",
+                                     "Financial Assistance",
+                                     "Grants"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/facapabgist",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "fadbtac",
+                        "source_id":  "qBfTF5gB5uF80_MGK5If",
+                        "slug":  "fadbtac",
+                        "name":  "Financial Assistance For Development Of Buddhist/Tibetan Arts And Culture",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âFinancial Assistance for Development of Buddhist/Tibetan Arts and Cultureâ was launched by the Ministry of Culture, Government of India to provide financial assistance to voluntary Buddhist/Tibetan organizations including Monasteries.",
+                        "tags":  [
+                                     "Buddhist",
+                                     "Tibetan",
+                                     "Monasteries",
+                                     "Culture",
+                                     "Art",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fadbtac",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "fapgsprg",
+                        "source_id":  "tsbTF5gB0AGc0F0iKzaT",
+                        "slug":  "fapgsprg",
+                        "name":  "Financial Assistance For Promotion Of Guru-Shishya Parampara (Repertory Grant)",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âFinancial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant)â was launched by the Ministry of Culture, Government of India. ",
+                        "tags":  [
+                                     "Guru",
+                                     "Shishya",
+                                     "Parampara",
+                                     "Financial Assistance",
+                                     "Grant",
+                                     "Theatre",
+                                     "Culture"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fapgsprg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "faconp",
+                        "source_id":  "q6HTF5gBXu-iUKXqL3dF",
+                        "slug":  "faconp",
+                        "name":  "Financial Assistance To Cultural Organizations With National Presence",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âFinancial Assistance to Cultural Organizations with National Presenceâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Cultural Organization",
+                                     "National Presence",
+                                     "Financial Assistance",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/faconp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "fesmwpnie",
+                        "source_id":  "vsc4_psB0AGc0F0iOAEd",
+                        "slug":  "fesmwpnie",
+                        "name":  "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme of \"Free Education for Sports Medal Winners / Participants of National/ International Events\" is introduced by UGC, to provide financial assistance to the medal winners\\ elite sports persons studying in universities/colleges leading to all the full-time regular courses.",
+                        "tags":  [
+                                     "Sports",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fesmwpnie",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ipiccr",
+                        "source_id":  "4aH9F5gBXu-iUKXqv3iK",
+                        "slug":  "ipiccr",
+                        "name":  "Internship Policy Of Indian Council For Cultural Relations (ICCR)",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of External Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "ICCR provides an excellent opportunity for budding scholars to familiarise themselves with the role of soft power in foreign policy formulation in the Govt of India. These âInternsâ would be expected to supplement the process of analysis in various fields (creative writing, cultural mapping, etc).",
+                        "tags":  [
+                                     "Internship",
+                                     "Student",
+                                     "Culture",
+                                     "Stipend",
+                                     "Honorarium"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ipiccr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-dba-saic",
+                        "source_id":  "76HXF5gBXu-iUKXqOXcF",
+                        "slug":  "nhdp-dba-saic",
+                        "name":  "National Handicrafts Development Programme: Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances\" is designed to give a boost to the handicraft sector in India. Assistance of upto â¹8,000/- per month is granted to the Artisans in Indigent Circumstances in the form of monthly allowance/lump sum grant/ both.",
+                        "tags":  [
+                                     "Pension",
+                                     "Artisan",
+                                     "Handicraft",
+                                     "Senior Citizen",
+                                     "Financial Assistance",
+                                     "Social Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-dba-saic",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "- The annual income of the artisan should not exceed â¹1,00,000/- in the preceding financial year."
+                    },
+                    {
+                        "id":  "nhdp-randds",
+                        "source_id":  "vqGzF5gBXu-iUKXqkHQr",
+                        "slug":  "nhdp-randds",
+                        "name":  "National Handicrafts Development Programme: Research \u0026 Development Scheme",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The \"NHDP: Research \u0026 Development Scheme\" is introduced to generate feedback on economic, social, aesthetic, and promotional aspects of various crafts and artisans in the handicraft sector. The surveys and studies are sponsored/conducted to generate suitable inputs for planning purposes.",
+                        "tags":  [
+                                     "Handicraft",
+                                     "Textile",
+                                     "Research",
+                                     "Grant-in-Aid"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-randds",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nssc",
+                        "source_id":  "Zce6R5wB0AGc0F0ijAOI",
+                        "slug":  "nssc",
+                        "name":  "National Service Scheme",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The objective of the National Service Scheme (NSS) is to develop the personality and character of students through voluntary community service. The scheme aims to promote social responsibility, leadership, national integration, and a spirit of selfless service among youth.",
+                        "tags":  [
+                                     "National",
+                                     "Sports",
+                                     "Student",
+                                     "Youth",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nssc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pdunwfs",
+                        "source_id":  "g6GzF5gBXu-iUKXqH3RL",
+                        "slug":  "pdunwfs",
+                        "name":  "Pandit Deendayal Upadhyay National Welfare Fund For Sportspersons",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme of PDUNWFS is being implemented with the objective of providing financial assistance to outstanding sportspersons/family members living in indigent circumstances for various purposes like ameliorate condition, medical treatment, injuries, procurement of sports equipment etc.",
+                        "tags":  [
+                                     "Sportsperson",
+                                     "Welfare",
+                                     "Social Empowerment",
+                                     "Medical Treatment",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pdunwfs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sasjfopfc",
+                        "source_id":  "qhfTF5gB5uF80_MGK5J1",
+                        "slug":  "sasjfopfc",
+                        "name":  "Scheme For Award Of Senior/Junior Fellowships To Outstanding Persons In The Fields Of Culture",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âScheme for Award of Senior/Junior Fellowships to Outstanding Persons in the Fields of Cultureâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Fellowship",
+                                     "Culture",
+                                     "Arts",
+                                     "Junior Fellows",
+                                     "Senior Fellows"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sasjfopfc",
+                        "min_age":  25,
+                        "max_age":  40,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfava",
+                        "source_id":  "TxezF5gB5uF80_MGII-P",
+                        "slug":  "sfava",
+                        "name":  "Scheme For Financial Assistance For Veteran Artists",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A pension scheme by MoC improves the financial and socio-economic status of the old artists and scholars who have contributed significantly in their specialized fields. Still, due to old age, they have to lead a miserable life or are in penury condition.",
+                        "tags":  [
+                                     "Artists",
+                                     "Pension",
+                                     "Veteran",
+                                     "Culture",
+                                     "Senior Citizen",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfava",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The personal income of the applicant (including the income of the spouse) must not exceed â¹4,000/- per month or an annual income of â¹48,000/-."
+                    },
+                    {
+                        "id":  "itsp",
+                        "source_id":  "bse9R5wB0AGc0F0i5gNX",
+                        "slug":  "itsp",
+                        "name":  "Scheme of Cash Incentive to Medal Winners in International Sports Events and their Coaches ",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The objective of the scheme is to reward outstanding sportspersons for their achievements at the global level. It aims to simplify eligibility, improve the award process, motivate athletes to achieve higher, and inspire young people to take up sports.",
+                        "tags":  [
+                                     "Medal",
+                                     "Sports",
+                                     "Events",
+                                     "Awards"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/itsp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfapdchh",
+                        "source_id":  "o6HTF5gBXu-iUKXqKnfm",
+                        "slug":  "sfapdchh",
+                        "name":  "Scheme Of Financial Assistance For The Preservation And Development Of Cultural Heritage Of The Himalayas",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âScheme of Financial Assistance for the Preservation and Development of Cultural Heritage of the Himalayasâ was launched by the Ministry of Culture, Government of India.",
+                        "tags":  [
+                                     "Culture",
+                                     "Heritage",
+                                     "Himalayas",
+                                     "Financial Assistance",
+                                     "Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfapdchh",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sby",
+                        "source_id":  "qqHTF5gBXu-iUKXqLneN",
+                        "slug":  "sby",
+                        "name":  "Seva Bhoj Yojna",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âSeva Bhoj Yojnaâ was launched by the Ministry of Culture, Government of India and it has been made operational with effect from the 1st of August, 2018. The scheme shall be applicable within the territorial jurisdiction of India and will remain open from the 1st to 15th of every month.",
+                        "tags":  [
+                                     "Seva",
+                                     "Bhoj",
+                                     "Charitable Institutions",
+                                     "Religious Institutions",
+                                     "Free Food",
+                                     "Prasad"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sby",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "A Public Trust or society or body corporate or organization, or institution covered under the provisions of section 10 (23BBA) of the Income Tax Act, 1961 (as amended from time to time) or registered under the provisions of section 12AA of the Income Tax Act, 1961, for charitable/religious purposes, or a company formed and registered under the provisions of section 8 of the Companies Act, 2013 or section 25 of the Companies Act, 1956, as the case may be, for charitable/ religious purposes or a Public Trust registered as such for charitable/religious purposes under any Law for the time being in force, or a society registered under the Societies Registration Act, 1860, for charitable/religious purposes."
+                    },
+                    {
+                        "id":  "tnfcr",
+                        "source_id":  "WaG3F5gBXu-iUKXqNHUL",
+                        "slug":  "tnfcr",
+                        "name":  "Tagore National Fellowship for Cultural Research",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Scheme has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture and other identified cultural institutions in the country, by encouraging Fellows/academicians to affiliate themselves with these institutions to work on projects of mutual interest.",
+                        "tags":  [
+                                     "Tagore",
+                                     "Fellowship",
+                                     "Research",
+                                     "Cultural",
+                                     "Fellow"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tnfcr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tnscr",
+                        "source_id":  "XaG3F5gBXu-iUKXqNHVg",
+                        "slug":  "tnscr",
+                        "name":  "Tagore National Scholarship for Cultural Research",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Culture",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Scheme has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture and other identified cultural institutions in the country, by encouraging Scholars/academicians to affiliate themselves with these institutions to work on projects of mutual interest.",
+                        "tags":  [
+                                     "Tagore",
+                                     "Scholarship",
+                                     "Cultural Research",
+                                     "Culture",
+                                     "Scholar"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tnscr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tnnaa",
+                        "source_id":  "nhe0F5gB5uF80_MGFI-f",
+                        "slug":  "tnnaa",
+                        "name":  "Tenzing Norgay National Adventure Award",
+                        "level":  "Central",
+                        "category":  "Sports \u0026 Culture",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "MYAS confers the Tenzing Norgay National Adventure Award in order to recognize the achievements of persons associated with the field of adventure and to encourage young people to develop the spirit of endurance, risk-taking, cooperative teamwork, and quick, ready, and effective reflexes.",
+                        "tags":  [
+                                     "Youth",
+                                     "Sports",
+                                     "Award"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tnnaa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

@@ -1,0 +1,449 @@
+﻿{
+    "category":  "Housing \u0026 Shelter",
+    "level":  "Central",
+    "expected_count":  130,
+    "extracted_count":  14,
+    "schemes":  [
+                    {
+                        "id":  "avyay-napsc-hssc",
+                        "source_id":  "IBcklZkB5uF80_MG-5UA",
+                        "slug":  "avyay-napsc-hssc",
+                        "name":  "AVYAY - National Action Plan for Senior Citizens: Health and Shelter for Senior Citizens",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to improve the quality of life of Senior Citizens, particularly those who are indigent, by providing basic amenities like shelter, food, medical care and entertainment opportunities. The scheme provides financial assistance for projects such as maintenance of Senior Citizen Homes.",
+                        "tags":  [
+                                     "Shelter",
+                                     "Healthcare",
+                                     "Welfare",
+                                     "Senior Citizen",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/avyay-napsc-hssc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "otsdfpc",
+                        "source_id":  "LRezF5gB5uF80_MGGY9Z",
+                        "slug":  "otsdfpc",
+                        "name":  "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister\u0027s Development Package",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Housing \u0026 Shelter",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu \u0026 Kashmir. The amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer.",
+                        "tags":  [
+                                     "Rehabilitation",
+                                     "Displaced",
+                                     "Business",
+                                     "Farming",
+                                     "Jammu",
+                                     "Kashmir",
+                                     "Family"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/otsdfpc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "chobcbg",
+                        "source_id":  "K8Y9GJgB0AGc0F0iBTgU",
+                        "slug":  "chobcbg",
+                        "name":  "Construction of Hostels for OBC Boys and Girls",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Scheme aims at providing hostel facilities to students belonging to socially and educationally backward classes, especially from rural areas, to enable them to pursue secondary and higher education.",
+                        "tags":  [
+                                     "Construction Of Hostels",
+                                     "OBC",
+                                     "Central Universities",
+                                     "Funding For Construction"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/chobcbg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Other things, being equal preference will be given to OBC students hailing from low-income families."
+                    },
+                    {
+                        "id":  "clssmig",
+                        "source_id":  "Gxe3F5gB5uF80_MGM5BU",
+                        "slug":  "clssmig",
+                        "name":  "Credit Linked Subsidy Scheme for Middle Income Group",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "Under Credit Linked Subsidy Scheme, beneficiaries of Middle-Income Group (MIG) can seek housing loans from Banks, Housing Finance Companies and other such institutions for acquisition/ construction of house (including re-purchase).",
+                        "tags":  [
+                                     "Credit Linked",
+                                     "Subsidy",
+                                     "Loan",
+                                     "House",
+                                     "MIG",
+                                     "CLSS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/clssmig",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "In in case of a married couple, either of the spouses or both together in joint ownership will be eligible for a single house, subject to the income eligibility of the household under the Scheme."
+                    },
+                    {
+                        "id":  "dddrs",
+                        "source_id":  "SaG3F5gBXu-iUKXqMnW7",
+                        "slug":  "dddrs",
+                        "name":  "Deen Dayal Disabled Rehabilitation Scheme",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The umbrella Central Sector Scheme of this Ministry called the \"Scheme to Promote Voluntary Action for Persons with Disabilities\" was revised w.e.f. 01.04.2003 and was renamed as the \"Deendayal Disabled Rehabilitation Scheme (DDRS)\"",
+                        "tags":  [
+                                     "Training",
+                                     "Pre-School",
+                                     "Special Schools"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dddrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "faishl",
+                        "source_id":  "b8YXCpoB0AGc0F0irTne",
+                        "slug":  "faishl",
+                        "name":  "Financial Assistance as Interest Subsidy on Home Loan",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide 50% reimbursement of interest on home loans up to â¹1,00,000 for eligible war widows, war bereaved families, war disabled personnel, and attributable peacetime casualties.",
+                        "tags":  [
+                                     "Housing",
+                                     "Loan",
+                                     "Ex-servicemen",
+                                     "Disabled"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/faishl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "smile",
+                        "source_id":  "YaGzF5gBXu-iUKXqFnRc",
+                        "slug":  "smile",
+                        "name":  "Garima Greh Shelter Homes For Transgender Persons",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Garima Greh aims to provide shelter to Destitute \u0026 abandoned Transgender persons with basic amenities like shelter, food, medical care and recreational facilities.\n",
+                        "tags":  [
+                                     "Transgender",
+                                     "Shelter Home",
+                                     "Accomodation",
+                                     "Rehabilitation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/smile",
+                        "min_age":  "Not specified",
+                        "max_age":  60,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "icwf",
+                        "source_id":  "kKGzF5gBXu-iUKXqIHSJ",
+                        "slug":  "icwf",
+                        "name":  "Indian Community Welfare Fund",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of External Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A scheme by Ministry of External Affairs (MEA) for the welfare of Overseas Indians; assisting them in distress situations. ICWF has also been a critical support in emergency evacuation of Indian nationals from conflict zones, countries affected by natural disasters and other challenging situations.",
+                        "tags":  [
+                                     "Non Resident Indian",
+                                     "Overseas Indian",
+                                     "Welfare",
+                                     "Student",
+                                     "Legal Assistance",
+                                     "Medical Assistance",
+                                     "Disability",
+                                     "PwD",
+                                     "Artist",
+                                     "Shelter"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/icwf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-janman",
+                        "source_id":  "DBcPepkB5uF80_MGsJUQ",
+                        "slug":  "pm-janman",
+                        "name":  "PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tribal Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to improve the socio-economic status of PVTGs by saturating families and habitations with basic facilities and services. It provides 11 critical infrastructure and welfare interventions, including housing, water, electricity, and connectivity.",
+                        "tags":  [
+                                     "Tribal",
+                                     "PVTG",
+                                     "Infrastructure",
+                                     "Housing",
+                                     "Health",
+                                     "Education",
+                                     "Livelihood",
+                                     "Skilling"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-janman",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmay-g",
+                        "source_id":  "psazF5gB0AGc0F0iHzO3",
+                        "slug":  "pmay-g",
+                        "name":  "Pradhan Mantri Awaas Yojana - Gramin",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "Launch on 1st April 2016, Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre\u0027s flagship mission by the Ministry of Rural Development (MoRD), implemented by the Ministry of Housing and Urban Affairs (MoHUA). PMAY-G addresses the rural housing shortage and bridges the housing deficit in rural areas",
+                        "tags":  [
+                                     "Rural Development",
+                                     "Housing",
+                                     "Loan",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-g",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Landless Households deriving the major part of their income from manual casual labor vi."
+                    },
+                    {
+                        "id":  "pmay-u",
+                        "source_id":  "h6GzF5gBXu-iUKXqH3Su",
+                        "slug":  "pmay-u",
+                        "name":  "Pradhan Mantri Awas Yojana - Urban",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022.",
+                        "tags":  [
+                                     "Housing",
+                                     "Urban",
+                                     "Rehabilitation",
+                                     "Loan",
+                                     "Sanitation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-u",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The family identifies as one of the following - a) Economically Weaker Section (EWS): households with annual income up to â¹ 3,00,000."
+                    },
+                    {
+                        "id":  "rraslrrc",
+                        "source_id":  "Lxe3F5gB5uF80_MGN5Al",
+                        "slug":  "rraslrrc",
+                        "name":  "Relief and Rehabilitation Assistance to Sri Lankan Refugees in the Refugee Camps",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme provides relief materials, which among other things include Feeding Charges, Subsidized Rice, Clothing Materials, Utensils, Transportation Charges (on arrival), Porterage and Transport (on repatriation), Cash Doles, Infrastructure Facilities (at camps), Electricity, Drinking Water, etc.",
+                        "tags":  [
+                                     "Refugee",
+                                     "Rehabilitation",
+                                     "Shelter",
+                                     "Security",
+                                     "Food"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rraslrrc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sre-randr",
+                        "source_id":  "gsa3F5gB0AGc0F0iNDQU",
+                        "slug":  "sre-randr",
+                        "name":  "Security Related Expenditure (Relief and Rehabilitation)",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to support the relief and rehabilitation of the Kashmiri migrants who have been uprooted from the Valley during the militancy period besides other relief \u0026 rehabilitation measures. \"SRE (R\u0026R) Scheme\" is a component of the Umbrella scheme, \u0027Modernization of Police Forces (MPF)\". ",
+                        "tags":  [
+                                     "Reimbursement",
+                                     "Migrant",
+                                     "Shelter",
+                                     "Rehabilitation",
+                                     "Relief"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sre-randr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "yhs",
+                        "source_id":  "qcfP-pwB0AGc0F0iTAjX",
+                        "slug":  "yhs",
+                        "name":  "Youth Hostel Scheme",
+                        "level":  "Central",
+                        "category":  "Housing \u0026 Shelter",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Youth Hostel Scheme is a joint venture of the Central and State Governments of India. It was launched in the early 1960s to promote youth travel within the country by providing low-cost budget accommodation and facilities to students and youth groups traveling on excursions or study tours.",
+                        "tags":  [
+                                     "Shelter",
+                                     "Youth Hostel",
+                                     "Residence"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/yhs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

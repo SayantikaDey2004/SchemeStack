@@ -1,0 +1,616 @@
+﻿{
+    "category":  "Utility \u0026 Sanitation",
+    "level":  "Central",
+    "expected_count":  58,
+    "extracted_count":  19,
+    "schemes":  [
+                    {
+                        "id":  "amrut",
+                        "source_id":  "sMazF5gB0AGc0F0iIDPU",
+                        "slug":  "amrut",
+                        "name":  "Atal Mission For Rejuvenation And Urban Transformation",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Transport \u0026 Infrastructure",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Providing basic services (e.g. water supply, sewerage, urban transport) to households and building amenities in cities which will improve the quality of life for all, especially the poor and the disadvantaged is a national priority. \n\n",
+                        "tags":  [
+                                     "Basic Services",
+                                     "Parks",
+                                     "Green Space",
+                                     "Urban Transport",
+                                     "Non-Motorized",
+                                     "Sewerage",
+                                     "Septage Management",
+                                     "Storm Water",
+                                     "Drainage"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/amrut",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gobardhan",
+                        "source_id":  "nxe0F5gB5uF80_MGFI_b",
+                        "slug":  "gobardhan",
+                        "name":  "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "GOBARdhan Scheme was launched in April 2018 as a part of the Solid and Liquid Waste Management component under Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean.",
+                        "tags":  [
+                                     "Solid Waste Management",
+                                     "Agriculture",
+                                     "Renewable Energy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gobardhan",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gstecs",
+                        "source_id":  "Ihe3F5gB5uF80_MGNJAo",
+                        "slug":  "gstecs",
+                        "name":  "GST Exemption Certificate Scheme",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry of Heavy Industries",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"GST Exemption Certificate Scheme\" has been introduced by the Dept. of Heavy Industries, for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of car.",
+                        "tags":  [
+                                     "GST",
+                                     "Person With Disability",
+                                     "PwD",
+                                     "Concession",
+                                     "Certificate",
+                                     "Car"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gstecs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "i-mesa-cssu",
+                        "source_id":  "PRcQBpoB5uF80_MGWpXv",
+                        "slug":  "i-mesa-cssu",
+                        "name":  "Information, Monitoring, Evaluation and Social Audit (I-MESA): Central Smart Surveillance Unit (CSSU)",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Utility \u0026 Sanitation",
+                                               "Public Safety,Law \u0026 Justice"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The component aims to establish a Central Smart Surveillance Unit for continuous remote supervision of all Central Government-funded Grant-in-aid institutions and Training and Coaching centres using Closed-Circuit Television cameras and electronic devices.",
+                        "tags":  [
+                                     "Institution",
+                                     "Surveillance",
+                                     "Monitoring",
+                                     "Supervision",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/i-mesa-cssu",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jjm",
+                        "source_id":  "i6GzF5gBXu-iUKXqIHQD",
+                        "slug":  "jjm",
+                        "name":  "Jal Jeevan Mission",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "Jal Jeevan Mission, is envisioned to provide safe and adequate drinking water through individual household tap connections by 2024 to all households in rural India. ",
+                        "tags":  [
+                                     "Rural Household",
+                                     "Water Supply",
+                                     "Household Tap"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jjm",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssk-spuct",
+                        "source_id":  "Qxd9MJgB5uF80_MGVZQ6",
+                        "slug":  "lbssk-spuct",
+                        "name":  "Loan based Scheme for Pay and Use Community Toilets",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The âPay and Useâ Community Toilets Scheme under Swachhta Udyami Yojana by NSKFDC offers concessional loans to Safai Karamcharis and their dependents for setting up public toilet units, promoting sanitation, livelihood, and dignity.",
+                        "tags":  [
+                                     "Pay And Use Toilets",
+                                     "Toilet Construction Loan",
+                                     "Safai Karamchari"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssk-spuct",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssf-gtl",
+                        "source_id":  "MBezF5gB5uF80_MGGo-A",
+                        "slug":  "lbssf-gtl",
+                        "name":  "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependants aged 18 years and above. \n",
+                        "tags":  [
+                                     "Safai Karamcharis",
+                                     "Entrepreneurship",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssf-gtl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssk-sms",
+                        "source_id":  "ThezF5gB5uF80_MGII-O",
+                        "slug":  "lbssk-sms",
+                        "name":  "Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A  contributory Loan scheme by Ministry of Social justice and Empowerment for individual beneficiaries/self help groups of Liberated Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above, for setting up A Sanitary Marts (SM) is a one-stop-shop for all things for sanitation",
+                        "tags":  [
+                                     "Sanitary Mart",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers",
+                                     "Safai Karamcharis"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssk-sms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssk-suy",
+                        "source_id":  "PRezF5gB5uF80_MGHo-y",
+                        "slug":  "lbssk-suy",
+                        "name":  "Loan Based Schemes For Safai Karamchari - Swachhta Udyami Yojana â Swachhta Se Sampannta Ki Aur",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above for procurement of sanitation-related vehicles.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers",
+                                     "Safai Karamcharis"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssk-suy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "namaste-ersufaf",
+                        "source_id":  "fMdI4ZwB0AGc0F0ivAeL",
+                        "slug":  "namaste-ersufaf",
+                        "name":  "National Action for Mechanised Sanitation Ecosystem (NAMASTE) - \"Emergency Response Sanitation Unit (ERSU) Formation and Functionalisation\" ",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to establish professional, well-trained, motivated and adequately equipped workforce for maintenance and management of sewers and septic tanks, addressing the critical need to eliminate fatalities resulting from workers entering sewers and septic tanks without proper safety measures.",
+                        "tags":  [
+                                     "Sanitation",
+                                     "Emergency",
+                                     "Worker",
+                                     "Safety",
+                                     "Sewer",
+                                     "Septic",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/namaste-ersufaf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-janman",
+                        "source_id":  "DBcPepkB5uF80_MGsJUQ",
+                        "slug":  "pm-janman",
+                        "name":  "PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tribal Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to improve the socio-economic status of PVTGs by saturating families and habitations with basic facilities and services. It provides 11 critical infrastructure and welfare interventions, including housing, water, electricity, and connectivity.",
+                        "tags":  [
+                                     "Tribal",
+                                     "PVTG",
+                                     "Infrastructure",
+                                     "Housing",
+                                     "Health",
+                                     "Education",
+                                     "Livelihood",
+                                     "Skilling"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-janman",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmay-u",
+                        "source_id":  "h6GzF5gBXu-iUKXqH3Su",
+                        "slug":  "pmay-u",
+                        "name":  "Pradhan Mantri Awas Yojana - Urban",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022.",
+                        "tags":  [
+                                     "Housing",
+                                     "Urban",
+                                     "Rehabilitation",
+                                     "Loan",
+                                     "Sanitation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-u",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The family identifies as one of the following - a) Economically Weaker Section (EWS): households with annual income up to â¹ 3,00,000."
+                    },
+                    {
+                        "id":  "pm-kusum",
+                        "source_id":  "7sa0F5gB0AGc0F0iEjNP",
+                        "slug":  "pm-kusum",
+                        "name":  "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers.",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of New and Renewable Energy",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "Jammu and Kashmir"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Scheme) was launched in March 2019 by the Ministry of New and Renewable Energy (MNRE), to subsidize farmers to install solar irrigation pumps for cultivation. Each farmer will receive a 60% subsidy.",
+                        "tags":  [
+                                     "Solar",
+                                     "Farmer",
+                                     "Infrastructure",
+                                     "Utility"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-kusum",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmmvy",
+                        "source_id":  "lcapLpoB0AGc0F0iJjlN",
+                        "slug":  "pmmvy",
+                        "name":  "Pradhan Mantri Matru Vandana Yojana",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. For first child the maternity benefit of â¹5,000 is provided in two instalments under PMMVY and second child, it is â¹6,000 is to be provided subject to second child is girl.",
+                        "tags":  [
+                                     "Maternity Benefit Programme",
+                                     "Financial Assistance",
+                                     "Pregnant Women",
+                                     "Cash Incentive",
+                                     "Good Nutrition"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
+                        "min_age":  19,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Women whose net family income is less than Rs."
+                    },
+                    {
+                        "id":  "pmuy",
+                        "source_id":  "ocazF5gB0AGc0F0iHzNY",
+                        "slug":  "pmuy",
+                        "name":  "Pradhan Mantri Ujjwala Yojana",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Petroleum and Natural Gas",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2021-09-30",
+                        "priority":  2,
+                        "description":  "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connections to women belonging to the Below Poverty Line (BPL) households.\n",
+                        "tags":  [
+                                     "Ujjwala",
+                                     "Women",
+                                     "BPL",
+                                     "Gas Cylinder",
+                                     "LPG Cylinder"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmuy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pahal-dbtl",
+                        "source_id":  "iBe0F5gB5uF80_MGD49m",
+                        "slug":  "pahal-dbtl",
+                        "name":  "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Petroleum and Natural Gas",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PAHAL (DBTL) has been introduced to curb the diversion of subsidized LPG. Under the scheme, Consumers will pay the market price for the domestic cylinder and the subsidy will be transferred directly to their bank account",
+                        "tags":  [
+                                     "Cylinder",
+                                     "LPG",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pahal-dbtl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "- The combined taxable income of the applicant and their spouse should not exceed â¹10,00,000 in the previous financial year, as per the Income Tax Act, 1961."
+                    },
+                    {
+                        "id":  "sbm-g-ii",
+                        "source_id":  "uhhgdJwB5uF80_MG-l3u",
+                        "slug":  "sbm-g-ii",
+                        "name":  "Swachh Bharat Mission (Grameen) Phase II",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A sanitation scheme for Visual cleanliness through Open Defecation Free (ODF) sustainability and effective management of solid and liquid waste in villages.",
+                        "tags":  [
+                                     "Swachh Bharat",
+                                     "Toilet",
+                                     "Sanitation",
+                                     "Rural",
+                                     "Grameen"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-g-ii",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sbm-g-i",
+                        "source_id":  "2cfRdJwB0AGc0F0iDQMI",
+                        "slug":  "sbm-g-i",
+                        "name":  "Swachh Bharat Mission â Grameen PHASE I",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to eliminate open defecation and improve rural sanitation by supporting toilet construction and promoting usage among poor and marginalized rural households.",
+                        "tags":  [
+                                     "Sanitation",
+                                     "Toilet",
+                                     "Grameen",
+                                     "Swachh Bharat"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-g-i",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sbm-u",
+                        "source_id":  "r8djdJwB0AGc0F0ivQPN",
+                        "slug":  "sbm-u",
+                        "name":  "Swachh Bharat Mission â Urban 2.0",
+                        "level":  "Central",
+                        "category":  "Utility \u0026 Sanitation",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households.",
+                        "tags":  [
+                                     "Toilet",
+                                     "Sanitation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-u",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

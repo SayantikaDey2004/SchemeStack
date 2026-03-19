@@ -1,0 +1,134 @@
+﻿{
+    "category":  "Travel \u0026 Tourism",
+    "level":  "Central",
+    "expected_count":  94,
+    "extracted_count":  4,
+    "schemes":  [
+                    {
+                        "id":  "ai-tgses",
+                        "source_id":  "oscp_psB0AGc0F0iXgGe",
+                        "slug":  "ai-tgses",
+                        "name":  "AICTE-INAE Travel Grant Scheme For Engineering Students From AICTE Approved Engineering College/Institution",
+                        "level":  "Central",
+                        "category":  "Travel \u0026 Tourism",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Travel Grant Scheme by the All India Council for Technical Education (AICTE) and by the Indian National Academy of Engineering (INAE), for the students from AICTE approved Engineering College/institutions. The scheme aims at enhancing the quality of engineering education in the country.",
+                        "tags":  [
+                                     "Travel",
+                                     "Grant",
+                                     "Student"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ai-tgses",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nya",
+                        "source_id":  "Uhe3F5gB5uF80_MGsZD8",
+                        "slug":  "nya",
+                        "name":  "National Youth Award ",
+                        "level":  "Central",
+                        "category":  "Travel \u0026 Tourism",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their potential as good citizens.",
+                        "tags":  [
+                                     "Youth",
+                                     "Purashkar",
+                                     "National",
+                                     "Social Service",
+                                     "Good Citizens"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nya",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prashad",
+                        "source_id":  "56G5F5gBXu-iUKXqw3WU",
+                        "slug":  "prashad",
+                        "name":  "Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASHAD)",
+                        "level":  "Central",
+                        "category":  "Travel \u0026 Tourism",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in 2014â2015, the scheme \"Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASAD)\" is a Central Sector Scheme by the Ministry of Tourism, Government of India. The scheme focuses on developing and identifying pilgrimage sites across India to enrich the religious tourism experience.",
+                        "tags":  [
+                                     "Pilgrimage",
+                                     "Rejuvenation",
+                                     "Heritage",
+                                     "Infrastructure",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prashad",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfaifiinp",
+                        "source_id":  "Mca1epkB0AGc0F0i_TkL",
+                        "slug":  "sfaifiinp",
+                        "name":  "Scheme of Financial Assistance to IHMs/FCIs/IITTM/ICI/NCHMCT/PSUs",
+                        "level":  "Central",
+                        "category":  "Travel \u0026 Tourism",
+                        "all_categories":  [
+                                               "Travel \u0026 Tourism",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to provide Central Financial Assistance for setting up, expanding, upgrading, and replacing equipment for institutions involved in tourism and hospitality education and capacity building. Benefits include capital grants for construction and equipment.",
+                        "tags":  [
+                                     "Institute",
+                                     "Society",
+                                     "Construction",
+                                     "Upgradation",
+                                     "Equipment",
+                                     "Hospitality",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfaifiinp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

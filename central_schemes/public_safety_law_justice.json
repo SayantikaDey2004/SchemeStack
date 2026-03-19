@@ -1,0 +1,198 @@
+﻿{
+    "category":  "Public Safety,Law \u0026 Justice",
+    "level":  "Central",
+    "expected_count":  29,
+    "extracted_count":  6,
+    "schemes":  [
+                    {
+                        "id":  "i-mesa-cssu",
+                        "source_id":  "PRcQBpoB5uF80_MGWpXv",
+                        "slug":  "i-mesa-cssu",
+                        "name":  "Information, Monitoring, Evaluation and Social Audit (I-MESA): Central Smart Surveillance Unit (CSSU)",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Utility \u0026 Sanitation",
+                                               "Public Safety,Law \u0026 Justice"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The component aims to establish a Central Smart Surveillance Unit for continuous remote supervision of all Central Government-funded Grant-in-aid institutions and Training and Coaching centres using Closed-Circuit Television cameras and electronic devices.",
+                        "tags":  [
+                                     "Institution",
+                                     "Surveillance",
+                                     "Monitoring",
+                                     "Supervision",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/i-mesa-cssu",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "llbip",
+                        "source_id":  "bca2F5gB0AGc0F0iIDRZ",
+                        "slug":  "llbip",
+                        "name":  "LLB Internship Programme",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Law and Justice",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Department of Justice introduced an Internship Programme for young law students. The purpose is to well acquaint law students in the field of research \u0026 referencing work, in various specialized areas of justice delivery, such as Tele-Law, Nyaya Bandhu etc.",
+                        "tags":  [
+                                     "Internship",
+                                     "Law Students",
+                                     "Research",
+                                     "Access To Justice"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/llbip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nari-adalat",
+                        "source_id":  "kKJk-pwBXu-iUKXqIkyG",
+                        "slug":  "nari-adalat",
+                        "name":  "Nari Adalat",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\n\n\nThe scheme aims to provide an alternative grievance redressal mechanism for women at the grassroots level through mediation, counselling, and awareness of rights and entitlements.",
+                        "tags":  [
+                                     "Nari Adalat",
+                                     "Nyaya Sakhi",
+                                     "Women Grievance Redressal",
+                                     "Affordable Justice",
+                                     "Women Rights Awareness",
+                                     "Counselling"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nari-adalat",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nya",
+                        "source_id":  "Uhe3F5gB5uF80_MGsZD8",
+                        "slug":  "nya",
+                        "name":  "National Youth Award ",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their potential as good citizens.",
+                        "tags":  [
+                                     "Youth",
+                                     "Purashkar",
+                                     "National",
+                                     "Social Service",
+                                     "Good Citizens"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nya",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sarsjr",
+                        "source_id":  "FhdghZkB5uF80_MGjJVM",
+                        "slug":  "sarsjr",
+                        "name":  "Scheme for Action Research and Studies on Judicial Reforms",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Law and Justice",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial assistance for undertaking action research, evaluation studies, monitoring studies, capacity building, publishing reports, and promoting innovative programmes in the areas of Justice Delivery, Legal Research, and Judicial Reforms.",
+                        "tags":  [
+                                     "Research",
+                                     "Judicial",
+                                     "Financial",
+                                     "Academy",
+                                     "Evaluation",
+                                     "Monitoring"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sarsjr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "uhmmept",
+                        "source_id":  "eBduTZoB5uF80_MGs5Wo",
+                        "slug":  "uhmmept",
+                        "name":  "Union Home Ministerâs Medal for Excellence in Police Training",
+                        "level":  "Central",
+                        "category":  "Public Safety,Law \u0026 Justice",
+                        "all_categories":  [
+                                               "Public Safety,Law \u0026 Justice"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to recognize the crucial role of trainers and support staff in police organizations, making training a respectable assignment and promoting high quality in police training institutes. It provides recognition, a Certificate (Scroll), and a cash reward of â¹25,000/- to trainers.",
+                        "tags":  [
+                                     "Police",
+                                     "Award",
+                                     "Training",
+                                     "Medal",
+                                     "Officer"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/uhmmept",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

@@ -1,0 +1,1338 @@
+﻿{
+    "category":  "Women and Child",
+    "level":  "Central",
+    "expected_count":  463,
+    "extracted_count":  42,
+    "schemes":  [
+                    {
+                        "id":  "biocare",
+                        "source_id":  "the1F5gB5uF80_MGJY9j",
+                        "slug":  "biocare",
+                        "name":  "Biotechnology Career Advancement And Re-orientation (BioCARe) Programme For Women Scientists",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Biotechnology Career Advancement and Re-orientation (BioCARe) Programme, a special scheme of the Department of Biotechnology (DBT), Ministry of Science \u0026 Technology, the government of India aims to enhance the participation of women scientists in India towards research in Biotechnology.",
+                        "tags":  [
+                                     "Bio-Technology",
+                                     "Research",
+                                     "PhD",
+                                     "Women",
+                                     "Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/biocare",
+                        "min_age":  5,
+                        "max_age":  55,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "msssgc",
+                        "source_id":  "jBe0F5gB5uF80_MGEI8G",
+                        "slug":  "msssgc",
+                        "name":  "CBSE Merit Scholarship Scheme For Single Girl Child",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scholarship scheme by the Ministry of Education for meritorious Single Girl Students, who are the only child of their parents; and have passed the CBSE Class 10th Examination with 60% or more marks and are continuing their further school education of Class 11th and 12th.",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Girl Child"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/msssgc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ignwps",
+                        "source_id":  "06JedJwBXu-iUKXqoEfo",
+                        "slug":  "ignwps",
+                        "name":  "Indira Gandhi National Widow Pension Scheme",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Banking,Financial Services and Insurance",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A non-contributory pension scheme to provide social security to widows of poor family (BPL)  of the society.\n",
+                        "tags":  [
+                                     "Widow",
+                                     "Pension",
+                                     "Below Poverty Line - BPL"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ignwps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prowis-i",
+                        "source_id":  "HMdq9ZwB0AGc0F0iLwis",
+                        "slug":  "prowis-i",
+                        "name":  "Indo-French Postdoctoral Research Programme for Women in Science",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme will provide a platform for women candidates to engage \u0026 work with Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science \u0026 Technology.",
+                        "tags":  [
+                                     "Postdoctoral",
+                                     "Research",
+                                     "Woman",
+                                     "Science",
+                                     "French",
+                                     "Fellowship",
+                                     "CEFIPRA"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prowis-i",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prowis-ii",
+                        "source_id":  "Icdx9ZwB0AGc0F0iogjH",
+                        "slug":  "prowis-ii",
+                        "name":  "Indo-French Visiting/Mobility Programme for Women in Science",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This programme will encourage women candidates to work with the Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science \u0026 Technology.",
+                        "tags":  [
+                                     "French",
+                                     "Mobility",
+                                     "Woman",
+                                     "Science",
+                                     "France",
+                                     "Scientist",
+                                     "Researcher"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prowis-ii",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ipmwcd",
+                        "source_id":  "NRe3F5gB5uF80_MGrpBE",
+                        "slug":  "ipmwcd",
+                        "name":  "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Ministry of Women and Child Development launched the Internship Programme aims to harness the talent of the trainees, giving them an opportunity to work towards bringing more efficiency in the implementation of the schemes. ",
+                        "tags":  [
+                                     "Internship Programme",
+                                     "Women Student",
+                                     "Teachers",
+                                     "Scholars",
+                                     "Opportunity",
+                                     "Social Activist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ipmwcd",
+                        "min_age":  21,
+                        "max_age":  40,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jssk",
+                        "source_id":  "NBezF5gB5uF80_MGGo-v",
+                        "slug":  "jssk",
+                        "name":  "Janani Shishu Suraksha Karyakram",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme by Ministry of MoHFW for pregnant women who access government health facilities for their delivery. to absolutely free and no expense delivery, including caesarean section. Essential care is provided to the mother and her neonate within 48 hours. ",
+                        "tags":  [
+                                     "Pregnant",
+                                     "Newborn",
+                                     "Medicine",
+                                     "Free Diet",
+                                     "Woman"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jssk",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jsy1",
+                        "source_id":  "3cZ9BJkB0AGc0F0ifThZ",
+                        "slug":  "jsy1",
+                        "name":  "Janani Suraksha Yojana (JSY)",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "Jammu and Kashmir",
+                                                  "Rajasthan",
+                                                  "Uttar Pradesh",
+                                                  "Uttarakhand",
+                                                  "Bihar",
+                                                  "Jharkhand",
+                                                  "Madhya Pradesh",
+                                                  "Chhattisgarh",
+                                                  "Assam",
+                                                  "Odisha"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to reduce maternal and neonatal mortality by promoting institutional deliveries among poor pregnant women. It offers cash assistance for institutional and home deliveries, along with antenatal and postnatal care support, primarily benefiting poor pregnant women across India.",
+                        "tags":  [
+                                     "Pregnancy",
+                                     "Woman",
+                                     "Female",
+                                     "Delivery",
+                                     "Child",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jsy1",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "mssc",
+                        "source_id":  "eaG3F5gBXu-iUKXqr3X6",
+                        "slug":  "mssc",
+                        "name":  "Mahila Samman Savings Certificate",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Finance",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âMahila Samman Savings Certificateâ was launched by the Department of Economic Affairs, Ministry of Finance to provide financial security to every girl and woman in India. ",
+                        "tags":  [
+                                     "Mahila",
+                                     "Woman",
+                                     "Girl",
+                                     "Saving",
+                                     "Investment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mssc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cbssc-msy",
+                        "source_id":  "bKGzF5gBXu-iUKXqGXQm",
+                        "slug":  "cbssc-msy",
+                        "name":  "Mahila Samriddhi Yojana",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This is a micro-financing programme aiming towards the empowerment of women from underprivileged backgrounds or economically backward areas. Through this scheme, these women can apply for a loan at a nominal interest rate to fulfil their dreams and goals and gain financial independence.",
+                        "tags":  [
+                                     "Empowerment",
+                                     "SHG Women",
+                                     "Financial Inclusion Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-msy",
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Applicable to Women from low-income families or women who belong to SC/ST/OBC categories as notified by the Central/State Government and whose family income is less than Rupees three lakhs per annum."
+                    },
+                    {
+                        "id":  "mvcppsacws",
+                        "source_id":  "WcecR5wB0AGc0F0iiAMu",
+                        "slug":  "mvcppsacws",
+                        "name":  "Mission Vatsalya (Child Protection Services and Child Welfare Services)",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This scheme aims to ensure, sustain, and strengthen child protection at the family and community levels, promote family-based non-institutional care, and provide financial support to children in need.",
+                        "tags":  [
+                                     "Childcare",
+                                     "Childhood",
+                                     "Vatsalya",
+                                     "Child Protection"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mvcppsacws",
+                        "min_age":  "Not specified",
+                        "max_age":  18,
+                        "income_limit":  "The applicant caregiver family shall be eligible for financial support if the annual family income is below â¹8 lakh per annum or as prescribed by the Ministry of WCD from time to time."
+                    },
+                    {
+                        "id":  "cnspnaw",
+                        "source_id":  "8Me7H5wB0AGc0F0iyQJY",
+                        "slug":  "cnspnaw",
+                        "name":  "Nari Shakti Puraskar - National Award for Women",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The award aims to acknowledge the achievements of women \u0026 recognize their contributions to society and the nation. The award is conferred annually on individuals in recognition of their exceptional service towards the cause of womenâs empowerment, particularly for vulnerable and marginalized women.",
+                        "tags":  [
+                                     "Woman",
+                                     "Nari Shakti",
+                                     "Puraskar",
+                                     "Award",
+                                     "Women Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cnspnaw",
+                        "min_age":  25,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nassvsim",
+                        "source_id":  "5KG1F5gBXu-iUKXqJHRE",
+                        "slug":  "nassvsim",
+                        "name":  "National Award For Senior Citizens (vayoshreshtha Samman): Iconic Mother",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The award is conferred to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Honâble President of India",
+                        "tags":  [
+                                     "Mother",
+                                     "Award",
+                                     "Social Welfare",
+                                     "Senior Citizen"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nassvsim",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nsigse",
+                        "source_id":  "16G0F5gBXu-iUKXqGXTG",
+                        "slug":  "nsigse",
+                        "name":  "National Scheme Of Incentive To Girls For Secondary Education",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The National Scheme of Incentive to Girls for Secondary Education promotes the girl child\u0027s enrolment of 14-18 years age group at secondary stage, who passes class 8th and subsequently drops out for various socio-economic reasons. ",
+                        "tags":  [
+                                     "Incentive",
+                                     "Education",
+                                     "Girl Child",
+                                     "Pre-Matric"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nsigse",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nssw",
+                        "source_id":  "jMazF5gB0AGc0F0iGTMz",
+                        "slug":  "nssw",
+                        "name":  "New Swarnima Scheme For Women",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to â¹2,00,000/- @ 5% per annum, thereby providing them social \u0026 financial security.",
+                        "tags":  [
+                                     "Entrepreneur",
+                                     "Women",
+                                     "Business",
+                                     "Empowerment",
+                                     "Backward Class",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nssw",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The Total Annual **Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
+                    },
+                    {
+                        "id":  "pg-igssgc",
+                        "source_id":  "NxezF5gB5uF80_MGHI-h",
+                        "slug":  "pg-igssgc",
+                        "name":  "Post Graduate Indira Gandhi Scholarship For Single Girl Child",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scholarship scheme by the University Grants Commission for Girl students who are admitted in the first year of PG courses in any designated university or a postgraduate college, and happen to be the only girl child in the family. The amount of fellowship is â¹ 36,200/- per annum.",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Girl Child"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pg-igssgc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmmvy",
+                        "source_id":  "lcapLpoB0AGc0F0iJjlN",
+                        "slug":  "pmmvy",
+                        "name":  "Pradhan Mantri Matru Vandana Yojana",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. For first child the maternity benefit of â¹5,000 is provided in two instalments under PMMVY and second child, it is â¹6,000 is to be provided subject to second child is girl.",
+                        "tags":  [
+                                     "Maternity Benefit Programme",
+                                     "Financial Assistance",
+                                     "Pregnant Women",
+                                     "Cash Incentive",
+                                     "Good Nutrition"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
+                        "min_age":  19,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Women whose net family income is less than Rs."
+                    },
+                    {
+                        "id":  "pmrbp",
+                        "source_id":  "n8a3F5gB0AGc0F0irzQ1",
+                        "slug":  "pmrbp",
+                        "name":  "Pradhan Mantri Rashtriya Bal Puraskar",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the energy, determination, ability, zeal, and enthusiasm of our children.",
+                        "tags":  [
+                                     "Bal Puraskar",
+                                     "Child Development",
+                                     "Achievement",
+                                     "Child Rights"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmrbp",
+                        "min_age":  "Not specified",
+                        "max_age":  18,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmsma",
+                        "source_id":  "vBe_CJkB5uF80_MGyJQ_",
+                        "slug":  "pmsma",
+                        "name":  "Pradhan Mantri Surakshit Matritva Abhiyan",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide fixed-day assured, comprehensive and quality antenatal care universally to all pregnant women in 2nd and 3rd trimester on the 9th of every month. It offers free comprehensive antenatal care services at government health facilities.",
+                        "tags":  [
+                                     "Maternal",
+                                     "Health",
+                                     "Antenatal",
+                                     "Pregnancy",
+                                     "Government",
+                                     "Women",
+                                     "Medical"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmsma",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmuy",
+                        "source_id":  "ocazF5gB0AGc0F0iHzNY",
+                        "slug":  "pmuy",
+                        "name":  "Pradhan Mantri Ujjwala Yojana",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Petroleum and Natural Gas",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2021-09-30",
+                        "priority":  2,
+                        "description":  "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connections to women belonging to the Below Poverty Line (BPL) households.\n",
+                        "tags":  [
+                                     "Ujjwala",
+                                     "Women",
+                                     "BPL",
+                                     "Gas Cylinder",
+                                     "LPG Cylinder"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmuy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmuy2",
+                        "source_id":  "q8bTF5gB0AGc0F0iKTZz",
+                        "slug":  "pmuy2",
+                        "name":  "Pradhan Mantri Ujjwala Yojana 2.0",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Petroleum and Natural Gas",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Ministry of Petroleum and Natural Gas (MOPNG), introduced the â\"Pradhan Mantri Ujjawala Yojana 2.0\" in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line.",
+                        "tags":  [
+                                     "LPG",
+                                     "Cooking Fuel",
+                                     "Household",
+                                     "Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmuy2",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "psgs-deg",
+                        "source_id":  "VBezF5gB5uF80_MGII_J",
+                        "slug":  "psgs-deg",
+                        "name":  "Pragati Scholarship Scheme For Girl Students (Technical Degree)",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scholarship scheme by MoE for Girl Students admitted in 1st or 2nd Year of the technical degree course in an AICTE approved institution. The benefits are provided for max. 4 years for first-year admitted students and max. 3 years for second-year admitted students through lateral entry.",
+                        "tags":  [
+                                     "Female",
+                                     "Scholarship",
+                                     "Degree",
+                                     "Student",
+                                     "Education",
+                                     "College Fee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-deg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000/- per annum** during the current financial year.1."
+                    },
+                    {
+                        "id":  "psgs-dip",
+                        "source_id":  "NRezF5gB5uF80_MGGo-5",
+                        "slug":  "psgs-dip",
+                        "name":  "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scholarship scheme by AICTE for Girl Students admitted in 1st or 2nd Year of the technical diploma course in an AICTE approved institution. The benefits are provided for a period of max. of 3 years for first-year students and a max. of 2 years for second-year admitted students (later entry).",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Girl",
+                                     "Diploma",
+                                     "Education",
+                                     "Student",
+                                     "Higher Education",
+                                     "College Fee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-dip",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000 per annum** during the current financial year.1."
+                    },
+                    {
+                        "id":  "rmewf-faocesm",
+                        "source_id":  "XaERCpoBXu-iUKXqaXrf",
+                        "slug":  "rmewf-faocesm",
+                        "name":  "RMEWF- Financial Assistance to Orphan Children of ESM",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Under this scheme, â¹3,000 per month (paid annually) is provided to eligible orphan children of ex-servicemen for educational and settlement support.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Orphan",
+                                     "Children",
+                                     "Ex-servicemen"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rmewf-faocesm",
+                        "min_age":  "Not specified",
+                        "max_age":  21,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "rmewf-vocational-training",
+                        "source_id":  "OhezF5gB5uF80_MGHY91",
+                        "slug":  "rmewf-vocational-training",
+                        "name":  "RMEWF-Financial Assistance For Vocational Training Of Widows Of Ex-Servicemen",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme to provide financial assistance to a widow of Ex-Servicemen to settle in life through vocational training.\n",
+                        "tags":  [
+                                     "Widows Of Ex-Servicemen",
+                                     "Vocational Training",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rmewf-vocational-training",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sjpfsgc",
+                        "source_id":  "nRe0F5gB5uF80_MGE49i",
+                        "slug":  "sjpfsgc",
+                        "name":  "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Savitribai Jyotirao Phule Fellowship for Single Girl Child (SJSGC) is a Fellowship Scheme by the University Grants Commission (UGC), Department of Higher Education, for pursuing research work leading to the award of a Ph.D. degree. The target group of this scheme is the âsingle girl child\u0027.",
+                        "tags":  [
+                                     "Girl Child",
+                                     "Fellowship",
+                                     "Ph.D."
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sjpfsgc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sag",
+                        "source_id":  "qMazF5gB0AGc0F0iIDML",
+                        "slug":  "sag",
+                        "name":  "Scheme For Adolescent Girls",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A support scheme by Ministry of Women \u0026 Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health \u0026 hygiene  status. All out-of-school adolescent girls in the 11 to 14 years age group are eligible for this scheme.",
+                        "tags":  [
+                                     "Female",
+                                     "Health",
+                                     "Medicine",
+                                     "Free Meal",
+                                     "Nutrition",
+                                     "Youth",
+                                     "Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sag",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfsmttpotc",
+                        "source_id":  "GxfZF5gB5uF80_MGWZOM",
+                        "slug":  "sfsmttpotc",
+                        "name":  "Scheme for Supportive Money to the Parents of Transgender Children",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The \"Scheme for Supportive Money to the Parents of Transgender Children\" aims to provide financial assistance of â¹1,000/- to the parents of transgender children. Transgender persons face stigma and discrimination in almost every sphere of their life including within the group, health facilities.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Transgender",
+                                     "Child"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfsmttpotc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ssfgcojmmw",
+                        "source_id":  "TReGMZgB5uF80_MGc5T6",
+                        "slug":  "ssfgcojmmw",
+                        "name":  "Scholarship Scheme for Girl Children of Jute Mills / MSMEs Workers ",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "National Jute Board Act, 2008 provides to âsecure better working conditions and provisions and improve amenities and incentives for workers engaged in the jute industry.â",
+                        "tags":  [
+                                     "Scholarship",
+                                     "Worker Children",
+                                     "Girl",
+                                     "Education",
+                                     "Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ssfgcojmmw",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serbpowerf",
+                        "source_id":  "Jseh9ZwB0AGc0F0iSwgK",
+                        "slug":  "serbpowerf",
+                        "name":  "SERB - POWER Fellowship",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The SERB - POWER Fellowship is designed to identify and reward excellent women researchers in Indian academic institutions and R\u0026D laboratories, holding Ph.D. degrees in any branch of science and engineering.",
+                        "tags":  [
+                                     "SERB",
+                                     "POWER",
+                                     "Fellowship",
+                                     "Woman",
+                                     "Research",
+                                     "Science"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serbpowerf",
+                        "min_age":  35,
+                        "max_age":  55,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "serbpowerrg",
+                        "source_id":  "C8dW9ZwB0AGc0F0ifgiT",
+                        "slug":  "serbpowerrg",
+                        "name":  "SERB - POWER Research Grants",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The aim of the âSERB - POWER Research Grantsâ is to encourage emerging and eminent women researchers for individual-centric and competitive mode of research funding to undertake R\u0026D activities in frontier areas of science and engineering.",
+                        "tags":  [
+                                     "SERB",
+                                     "Research Grant",
+                                     "POWER",
+                                     "Woman Researcher",
+                                     "Investigator",
+                                     "Woman Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/serbpowerrg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "suman",
+                        "source_id":  "qRe0F5gB5uF80_MGHI-w",
+                        "slug":  "suman",
+                        "name":  "Surakshit Matritva Aashwasan Yojana",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "SUMAN Yojana is a maternity benefit initiative by MoH\u0026FW. This program provides affordable and quality healthcare solutions to pregnant women and newborns. The scheme provides zero expense access up to six months after delivery. Upto antenatal check-ups during the 1st trimester are provided.",
+                        "tags":  [
+                                     "Pregnant",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/suman",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tdupw",
+                        "source_id":  "2qG0F5gBXu-iUKXqHXQQ",
+                        "slug":  "tdupw",
+                        "name":  "Technology Development And Utilization Programme For Women",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "In order to meet the specific needs of women and to enhance the contribution of women towards technology capability building, the âTechnology Development \u0026 Utilization Programme for Women (TDUPW)â has been formulated by the Department of Scientific and Industrial Research (DSIR). ",
+                        "tags":  [
+                                     "Women",
+                                     "Technology",
+                                     "Research",
+                                     "Science",
+                                     "Capacity Building"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tdupw",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-phd",
+                        "source_id":  "WBjU9ZwB5uF80_MGjGKz",
+                        "slug":  "wise-phd",
+                        "name":  "WISE Fellowship for Ph.D.",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"WISE Fellowship for Ph.D. (WISE-PhD)\" of the Department of Science and Technology aims to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields.",
+                        "tags":  [
+                                     "WISE",
+                                     "Fellowship",
+                                     "PhD",
+                                     "KIRAN",
+                                     "Woman"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-phd",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-pdf",
+                        "source_id":  "K8ek9ZwB0AGc0F0i2Ajo",
+                        "slug":  "wise-pdf",
+                        "name":  "WISE Post-Doctoral Fellowship",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âWISE Post-Doctoral Fellowshipâ is a new programme of the Department of Science \u0026 Technology that aims to provide opportunities to women scientists \u0026 technologists between the age group of 27-60 years who want to continue their research as bench-level scientists in basic and applied sciences.",
+                        "tags":  [
+                                     "WISE",
+                                     "Post-Doctoral",
+                                     "Fellowship",
+                                     "KIRAN",
+                                     "Woman",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-pdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "whl-181",
+                        "source_id":  "O6E9GJgBXu-iUKXqB3kO",
+                        "slug":  "whl-181",
+                        "name":  "Women Helpline",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Women Helpline provides 24X7 emergency and non-emergency response through telephonic short-code 181 to women",
+                        "tags":  [
+                                     "181",
+                                     "Emergency",
+                                     "Safety",
+                                     "Response",
+                                     "Violence",
+                                     "ERSS 112",
+                                     "Pyscho-social Counselling",
+                                     "Integrated Helplines",
+                                     "One Stop Centres",
+                                     "Scheme Information"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/whl-181",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wise-scope-fellowship",
+                        "source_id":  "yca4F5gB0AGc0F0iLzRS",
+                        "slug":  "wise-scope-fellowship",
+                        "name":  "Women In Science and Engineering-Societal Challenges with Opportunities Fellowship",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âWISE-SCOPE Fellowshipâ Program was started by the Department of Science \u0026 Technology, Government of India with the aims to provide opportunity to Women Scientists and Technologists who have completed Ph.D. and want to utilize their S\u0026T knowledge and expertise for the benefit of society.",
+                        "tags":  [
+                                     "WISE",
+                                     "SCOPE",
+                                     "Fellowship",
+                                     "Woman",
+                                     "Research",
+                                     "Scientist"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wiser",
+                        "source_id":  "wsa4F5gB0AGc0F0iLjTh",
+                        "slug":  "wiser",
+                        "name":  "Women Involvement in Science and Engineering Research",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âWomen Involvement in Science and Engineering Research (WISER)â aims to build scientific capacity, retain and promote women researchers in India \u0026 Germany by utilizing complementary expertise in science, technology, innovation and research partnerships. ",
+                        "tags":  [
+                                     "Woman",
+                                     "WISER",
+                                     "Germany",
+                                     "IGSTC",
+                                     "STEM"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wiser",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-a",
+                        "source_id":  "YRezF5gB5uF80_MGKI-X",
+                        "slug":  "wos-a",
+                        "name":  "Women Scientist Scheme-A",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment, to explore possibility of re-entry into the profession.\n",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Technology",
+                                     "Science",
+                                     "Empowerment",
+                                     "Fellowship",
+                                     "Education",
+                                     "Unemployed"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-a",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-b",
+                        "source_id":  "MRezF5gB5uF80_MGGo-D",
+                        "slug":  "wos-b",
+                        "name":  "Women Scientist Scheme-B",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S\u0026T interventions. Women scientists who wish to apply under this scheme are required to develop their own project/proposals for scientific and technological solutions",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Female",
+                                     "Technology",
+                                     "Science",
+                                     "Research",
+                                     "Fellowship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-b",
+                        "min_age":  27,
+                        "max_age":  57,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "wos-c",
+                        "source_id":  "usazF5gB0AGc0F0iKDMj",
+                        "slug":  "wos-c",
+                        "name":  "Women Scientist Scheme-C",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Science, IT \u0026 Communications",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S\u0026T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright.",
+                        "tags":  [
+                                     "Women",
+                                     "Scientist",
+                                     "Science",
+                                     "Technology",
+                                     "Post-graduation",
+                                     "Skill"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wos-c",
+                        "min_age":  27,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "widushi",
+                        "source_id":  "1qHVF5gBXu-iUKXqq3c_",
+                        "slug":  "widushi",
+                        "name":  "Womenâs Instinct for Developing and Ushering in Scientific Heights \u0026 Innovation",
+                        "level":  "Central",
+                        "category":  "Women and Child",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\u0027WIDUSHI\u0027 programme aims to encourage and support senior women scientists to conduct research in interdisciplinary areas of Science and Technology.",
+                        "tags":  [
+                                     "WIDUSHI",
+                                     "Woman",
+                                     "KIRAN",
+                                     "Scientist",
+                                     "Retired",
+                                     "Fellowship",
+                                     "Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/widushi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

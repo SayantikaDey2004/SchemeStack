@@ -1,0 +1,1080 @@
+﻿{
+    "category":  "Health \u0026 Wellness",
+    "level":  "Central",
+    "expected_count":  283,
+    "extracted_count":  34,
+    "schemes":  [
+                    {
+                        "id":  "affdf-serious-disease-treatment",
+                        "source_id":  "osazF5gB0AGc0F0iHzN5",
+                        "slug":  "affdf-serious-disease-treatment",
+                        "name":  "AFFDF-Financial Assistance For Treatment Of Serious Diseases To Non Pensioner Ex-Servicemen (All Ranks)/Widows",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme to provide financial assistance to a non-pensioner Ex-Servicemen of all ranks and widows to meet medical expenses related to treatment of approved serious diseases like cancer, renal failure, knee replacement and heart surgery.",
+                        "tags":  [
+                                     "Ex-Servicemen",
+                                     "Widow Of Ex-Servicemen",
+                                     "Serious Disease Treatment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/affdf-serious-disease-treatment",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "amrut",
+                        "source_id":  "sMazF5gB0AGc0F0iIDPU",
+                        "slug":  "amrut",
+                        "name":  "Atal Mission For Rejuvenation And Urban Transformation",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Transport \u0026 Infrastructure",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Providing basic services (e.g. water supply, sewerage, urban transport) to households and building amenities in cities which will improve the quality of life for all, especially the poor and the disadvantaged is a national priority. \n\n",
+                        "tags":  [
+                                     "Basic Services",
+                                     "Parks",
+                                     "Green Space",
+                                     "Urban Transport",
+                                     "Non-Motorized",
+                                     "Sewerage",
+                                     "Septage Management",
+                                     "Storm Water",
+                                     "Drainage"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/amrut",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "avyay-napsc-hssc",
+                        "source_id":  "IBcklZkB5uF80_MG-5UA",
+                        "slug":  "avyay-napsc-hssc",
+                        "name":  "AVYAY - National Action Plan for Senior Citizens: Health and Shelter for Senior Citizens",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to improve the quality of life of Senior Citizens, particularly those who are indigent, by providing basic amenities like shelter, food, medical care and entertainment opportunities. The scheme provides financial assistance for projects such as maintenance of Senior Citizen Homes.",
+                        "tags":  [
+                                     "Shelter",
+                                     "Healthcare",
+                                     "Welfare",
+                                     "Senior Citizen",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/avyay-napsc-hssc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "asyaph",
+                        "source_id":  "waLEUZwBXu-iUKXqM0fV",
+                        "slug":  "asyaph",
+                        "name":  "Ayurswasthya Yojana: AYUSH and Public Health",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Ayush",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme-component aims to promote AYUSH-based interventions to improve community health outcomes by supporting preventive, promotive, curative, and rehabilitative healthcare services.",
+                        "tags":  [
+                                     "AYUSH",
+                                     "Public Health Intervention",
+                                     "Community Health Care"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asyaph",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "asyasm",
+                        "source_id":  "hMfDUZwB0AGc0F0iVAPE",
+                        "slug":  "asyasm",
+                        "name":  "Ayurswasthya Yojana: AYUSH for Sports Medicine",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Ayush",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme-component aims to promote AYUSH interventions for the treatment and rehabilitation of sports injuries and to enhance health and fitness among sports persons.",
+                        "tags":  [
+                                     "Sports Medicine",
+                                     "AYUSH Intervention",
+                                     "Athlete Health",
+                                     "Sports Injury Treatment",
+                                     "Rehabilitation",
+                                     "Fitness Promotion"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asyasm",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "asycoe",
+                        "source_id":  "lxjBUZwB5uF80_MG8F3w",
+                        "slug":  "asycoe",
+                        "name":  "Ayurswasthya Yojana: Up-gradation of Facilities to Centre of Excellence (CoE)",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Ayush",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme-component aims to support the establishment and up-gradation of reputed institutions to Centres of Excellence for strengthening AYUSH education, research, innovation, and advanced healthcare services.",
+                        "tags":  [
+                                     "Centre Of Excellence",
+                                     "AYUSH Infrastructure",
+                                     "Tertiary Healthcare",
+                                     "Institutional Upgradation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asycoe",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ab-pmjay",
+                        "source_id":  "Bcc9iZwB0AGc0F0iRASU",
+                        "slug":  "ab-pmjay",
+                        "name":  "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "AB PM-JAY is a health insurance scheme for low-income families in rural and urban areas. The scheme aims to provide affordable healthcare facilities to the Poor. It is the largest health assurance scheme in the world which aims at providing a health cover of â¹5,00,000/- per family per year.",
+                        "tags":  [
+                                     "Health",
+                                     "Insurance",
+                                     "Cashless Treatment",
+                                     "Hospitalization Cover"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ab-pmjay",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Landless households deriving a major part of their income from manual casual labour - Automatically includedHouseholds without shelter 1."
+                    },
+                    {
+                        "id":  "affdf",
+                        "source_id":  "ORezF5gB5uF80_MGHY8g",
+                        "slug":  "affdf",
+                        "name":  "Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen (All Ranks)",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial assistance of a maximum of â¹ 1,00,000 from the Armed Forces Flag Day Fund (AFFDF) for the procurement of modified scooters, crutches and wheelchairs for Ex-Servicemen who are disabled after their retirement from service with a disability of 50% or more.",
+                        "tags":  [
+                                     "Ex-Servicemen",
+                                     "Person With Disability",
+                                     "Sainik",
+                                     "Handicapped",
+                                     "ESM"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/affdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ffs",
+                        "source_id":  "3aL9IpsBXu-iUKXq5UHP",
+                        "slug":  "ffs",
+                        "name":  "Fund of Funds for Startups",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Science, IT \u0026 Communications",
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in January 2016 under Startup India, the Fund of Funds for Startups is managed by SIDBI. It supports DPIIT-recognized startups indirectly by investing in SEBI-registered AIFs, which must invest at least twice the FFS contribution.",
+                        "tags":  [
+                                     "DPIIT",
+                                     "Startup India",
+                                     "Startups",
+                                     "AIF",
+                                     "Equity"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "hmdg",
+                        "source_id":  "KBezF5gB5uF80_MGF49S",
+                        "slug":  "hmdg",
+                        "name":  "Health Ministerâs Discretionary Grant",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A health scheme by Ministry of Health \u0026 Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals,for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities aren\u0027t there.",
+                        "tags":  [
+                                     "Health",
+                                     "Disease",
+                                     "Hospital",
+                                     "Medical Facility",
+                                     "Patient"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/hmdg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The Total Annual Family Income of the applicant must not exceed â¹1,00,000/- per annum."
+                    },
+                    {
+                        "id":  "icwf",
+                        "source_id":  "kKGzF5gBXu-iUKXqIHSJ",
+                        "slug":  "icwf",
+                        "name":  "Indian Community Welfare Fund",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of External Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A scheme by Ministry of External Affairs (MEA) for the welfare of Overseas Indians; assisting them in distress situations. ICWF has also been a critical support in emergency evacuation of Indian nationals from conflict zones, countries affected by natural disasters and other challenging situations.",
+                        "tags":  [
+                                     "Non Resident Indian",
+                                     "Overseas Indian",
+                                     "Welfare",
+                                     "Student",
+                                     "Legal Assistance",
+                                     "Medical Assistance",
+                                     "Disability",
+                                     "PwD",
+                                     "Artist",
+                                     "Shelter"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/icwf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jssk",
+                        "source_id":  "NBezF5gB5uF80_MGGo-v",
+                        "slug":  "jssk",
+                        "name":  "Janani Shishu Suraksha Karyakram",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme by Ministry of MoHFW for pregnant women who access government health facilities for their delivery. to absolutely free and no expense delivery, including caesarean section. Essential care is provided to the mother and her neonate within 48 hours. ",
+                        "tags":  [
+                                     "Pregnant",
+                                     "Newborn",
+                                     "Medicine",
+                                     "Free Diet",
+                                     "Woman"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jssk",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jsy1",
+                        "source_id":  "3cZ9BJkB0AGc0F0ifThZ",
+                        "slug":  "jsy1",
+                        "name":  "Janani Suraksha Yojana (JSY)",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "Jammu and Kashmir",
+                                                  "Rajasthan",
+                                                  "Uttar Pradesh",
+                                                  "Uttarakhand",
+                                                  "Bihar",
+                                                  "Jharkhand",
+                                                  "Madhya Pradesh",
+                                                  "Chhattisgarh",
+                                                  "Assam",
+                                                  "Odisha"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to reduce maternal and neonatal mortality by promoting institutional deliveries among poor pregnant women. It offers cash assistance for institutional and home deliveries, along with antenatal and postnatal care support, primarily benefiting poor pregnant women across India.",
+                        "tags":  [
+                                     "Pregnancy",
+                                     "Woman",
+                                     "Female",
+                                     "Delivery",
+                                     "Child",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jsy1",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "namaste-ersufaf",
+                        "source_id":  "fMdI4ZwB0AGc0F0ivAeL",
+                        "slug":  "namaste-ersufaf",
+                        "name":  "National Action for Mechanised Sanitation Ecosystem (NAMASTE) - \"Emergency Response Sanitation Unit (ERSU) Formation and Functionalisation\" ",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to establish professional, well-trained, motivated and adequately equipped workforce for maintenance and management of sewers and septic tanks, addressing the critical need to eliminate fatalities resulting from workers entering sewers and septic tanks without proper safety measures.",
+                        "tags":  [
+                                     "Sanitation",
+                                     "Emergency",
+                                     "Worker",
+                                     "Safety",
+                                     "Sewer",
+                                     "Septic",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/namaste-ersufaf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "essb",
+                        "source_id":  "fsbmF5gB0AGc0F0i3zev",
+                        "slug":  "essb",
+                        "name":  "National Livestock Mission: Establishment of State Semen Bank ",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "\"Establishment of State Semen Bank (Genetic Improvement of Sheep and Goat breeds)\" aims at the genetic improvement of sheep/goat breeds through selective breeding by propagation of superior male germplasm through artificial insemination. ",
+                        "tags":  [
+                                     "Gene",
+                                     "Sheep",
+                                     "Goat",
+                                     "Buffalo",
+                                     "Semen",
+                                     "Bank"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/essb",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nya",
+                        "source_id":  "Uhe3F5gB5uF80_MGsZD8",
+                        "slug":  "nya",
+                        "name":  "National Youth Award ",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Public Safety,Law \u0026 Justice",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Youth Affairs \u0026 Sports",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their potential as good citizens.",
+                        "tags":  [
+                                     "Youth",
+                                     "Purashkar",
+                                     "National",
+                                     "Social Service",
+                                     "Good Citizens"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nya",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nikshay",
+                        "source_id":  "iRe0F5gB5uF80_MGD4-8",
+                        "slug":  "nikshay",
+                        "name":  "Nikshay Poshan Yojana",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Ministry of Health and Family Welfare, Government of India has announced the scheme for incentives for nutritional support to TB patients. This scheme will be called âNikshay Poshan Yojanaâ. ",
+                        "tags":  [
+                                     "Tuberculosis",
+                                     "Health",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nikshay",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhis",
+                        "source_id":  "6KHVF5gBXu-iUKXqt3dC",
+                        "slug":  "nhis",
+                        "name":  "Niramaya Health Insurance Scheme",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Niramaya Health Insurance Scheme ,launched by the Department of Empowerment of Persons with Disabilities, aims to provide affordable health insurance to the Persons with Disabilities (PwDs).",
+                        "tags":  [
+                                     "Person With Disability",
+                                     "Insurance",
+                                     "Financial Assistance",
+                                     "Autism",
+                                     "Cerebral Palsy",
+                                     "Mental Retardation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhis",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-janman",
+                        "source_id":  "DBcPepkB5uF80_MGsJUQ",
+                        "slug":  "pm-janman",
+                        "name":  "PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tribal Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to improve the socio-economic status of PVTGs by saturating families and habitations with basic facilities and services. It provides 11 critical infrastructure and welfare interventions, including housing, water, electricity, and connectivity.",
+                        "tags":  [
+                                     "Tribal",
+                                     "PVTG",
+                                     "Infrastructure",
+                                     "Housing",
+                                     "Health",
+                                     "Education",
+                                     "Livelihood",
+                                     "Skilling"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-janman",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-poshan",
+                        "source_id":  "VRezF5gB5uF80_MGII_8",
+                        "slug":  "pm-poshan",
+                        "name":  "PM POSHAN - Prime Minister\u0027s Overarching Scheme For Holistic Nourishment",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PM POSHAN is a centrally sponsored scheme by the Department of School Education \u0026 Literacy, Ministry of Education. Under this scheme, one hot cooked meal will be provided to the children studying in Government and Government â aided schools. The Scheme is implemented by the Ministry of Education.",
+                        "tags":  [
+                                     "School",
+                                     "Children",
+                                     "Health",
+                                     "Govt Scheme",
+                                     "Nutrition India"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-poshan",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmstgc",
+                        "source_id":  "7MbGFJkB0AGc0F0i9Th9",
+                        "slug":  "pmstgc",
+                        "name":  "PM-Special Training of Geriatric Caregivers",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to train and create a professional cadre of geriatric caregivers to meet the increasing demand for specialized care for senior citizens. It offers skill development and certification in geriatric care job roles to Indian citizens, ensuring professional services for the elderly.",
+                        "tags":  [
+                                     "Training",
+                                     "Skill",
+                                     "Health",
+                                     "Certification"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmstgc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmbjp",
+                        "source_id":  "-8a0F5gB0AGc0F0iFTPL",
+                        "slug":  "pmbjp",
+                        "name":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Health \u0026 Wellness",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Chemicals And Fertilizers",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana was launched by the Department of Pharmaceuticals, in November 2008. Under the scheme, dedicated outlets known as Janaushadhi Kendras are opened to make quality generic medicines available to all at affordable prices.",
+                        "tags":  [
+                                     "Medicine",
+                                     "Pharmaceutical",
+                                     "Healthcare",
+                                     "Entrepreneur",
+                                     "Janaushadhi",
+                                     "Generic Drugs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmbjp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmgkp",
+                        "source_id":  "rcazF5gB0AGc0F0iIDOS",
+                        "slug":  "pmgkp",
+                        "name":  "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19\" by the Ministry of Health and Family Welfare, Government of India aims to offer financial protection to healthcare workers involved in COVID-19 duties.",
+                        "tags":  [
+                                     "Life Insurance",
+                                     "Health Workers",
+                                     "COVID-19"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmgkp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmmvy",
+                        "source_id":  "lcapLpoB0AGc0F0iJjlN",
+                        "slug":  "pmmvy",
+                        "name":  "Pradhan Mantri Matru Vandana Yojana",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. For first child the maternity benefit of â¹5,000 is provided in two instalments under PMMVY and second child, it is â¹6,000 is to be provided subject to second child is girl.",
+                        "tags":  [
+                                     "Maternity Benefit Programme",
+                                     "Financial Assistance",
+                                     "Pregnant Women",
+                                     "Cash Incentive",
+                                     "Good Nutrition"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
+                        "min_age":  19,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Women whose net family income is less than Rs."
+                    },
+                    {
+                        "id":  "pmsma",
+                        "source_id":  "vBe_CJkB5uF80_MGyJQ_",
+                        "slug":  "pmsma",
+                        "name":  "Pradhan Mantri Surakshit Matritva Abhiyan",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide fixed-day assured, comprehensive and quality antenatal care universally to all pregnant women in 2nd and 3rd trimester on the 9th of every month. It offers free comprehensive antenatal care services at government health facilities.",
+                        "tags":  [
+                                     "Maternal",
+                                     "Health",
+                                     "Antenatal",
+                                     "Pregnancy",
+                                     "Government",
+                                     "Women",
+                                     "Medical"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmsma",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "hmcpf",
+                        "source_id":  "lcazF5gB0AGc0F0iGjPS",
+                        "slug":  "hmcpf",
+                        "name":  "Rastriya Arogya Nidhi - Health Ministerâs Cancer Patient Fund",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme to provide financial assistance to poor patients living below poverty line and suffering from cancer, for their treatment at 27 Regional cancer centers (RCCs).",
+                        "tags":  [
+                                     "BPL",
+                                     "Cancer Treatment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/hmcpf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "rmewf",
+                        "source_id":  "VxezF5gB5uF80_MGIY8p",
+                        "slug":  "rmewf",
+                        "name":  "RMEWF-Financial Assistance For Medical Treatment Of Ex-Servicemen",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A scheme to provide financial assistance to a non-pensioner Ex-Servicemen/widows of ranks up to Havildar/equivalent to meet routine medical expenses.\n",
+                        "tags":  [
+                                     "Ex-Servicemen",
+                                     "Health Checkup",
+                                     "Medical Expenses",
+                                     "Health Treatment",
+                                     "Widow Of Ex-Servicemen"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rmewf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sag",
+                        "source_id":  "qMazF5gB0AGc0F0iIDML",
+                        "slug":  "sag",
+                        "name":  "Scheme For Adolescent Girls",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry of Women and Child Development",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A support scheme by Ministry of Women \u0026 Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health \u0026 hygiene  status. All out-of-school adolescent girls in the 11 to 14 years age group are eligible for this scheme.",
+                        "tags":  [
+                                     "Female",
+                                     "Health",
+                                     "Medicine",
+                                     "Free Meal",
+                                     "Nutrition",
+                                     "Youth",
+                                     "Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sag",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "jiyo-parsi",
+                        "source_id":  "oMapSJoB0AGc0F0iDjm4",
+                        "slug":  "jiyo-parsi",
+                        "name":  "Scheme for Containing Population Decline of Small Minority Communities ",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Minority Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The objective of the scheme is to reverse the declining trend of Parsi population by adopting a scientific protocol and structured interventions, stabilize their population and increase the population of Parsis in India.",
+                        "tags":  [
+                                     "Parsi",
+                                     "Jiyo Parsi",
+                                     "Population",
+                                     "Medical",
+                                     "Health Of Community"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jiyo-parsi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "(ii) For Medical component annual family income should be less than Rs 30 lakh."
+                    },
+                    {
+                        "id":  "cmhtp-crwtp-smile",
+                        "source_id":  "P8YVlJkB0AGc0F0iuzkU",
+                        "slug":  "cmhtp-crwtp-smile",
+                        "name":  "Support for Marginalized Individuals for Livelihood and Enterprise (SMILE): Composite Medical Health for Transgender Persons",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide health Insurance coverage to all Transgender persons living in India to improve their health condition through proper treatment including sex re-assignment surgeries as well as medical support. The scheme provides health insurance in the form of Ayushman Bharat Plus.",
+                        "tags":  [
+                                     "Transgender",
+                                     "Healthcare",
+                                     "Insurance",
+                                     "Surgery",
+                                     "Medical",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cmhtp-crwtp-smile",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "suman",
+                        "source_id":  "qRe0F5gB5uF80_MGHI-w",
+                        "slug":  "suman",
+                        "name":  "Surakshit Matritva Aashwasan Yojana",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Health \u0026 Family Welfare",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "SUMAN Yojana is a maternity benefit initiative by MoH\u0026FW. This program provides affordable and quality healthcare solutions to pregnant women and newborns. The scheme provides zero expense access up to six months after delivery. Upto antenatal check-ups during the 1st trimester are provided.",
+                        "tags":  [
+                                     "Pregnant",
+                                     "Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/suman",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sbm-g-ii",
+                        "source_id":  "uhhgdJwB5uF80_MG-l3u",
+                        "slug":  "sbm-g-ii",
+                        "name":  "Swachh Bharat Mission (Grameen) Phase II",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A sanitation scheme for Visual cleanliness through Open Defecation Free (ODF) sustainability and effective management of solid and liquid waste in villages.",
+                        "tags":  [
+                                     "Swachh Bharat",
+                                     "Toilet",
+                                     "Sanitation",
+                                     "Rural",
+                                     "Grameen"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-g-ii",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sbm-g-i",
+                        "source_id":  "2cfRdJwB0AGc0F0iDQMI",
+                        "slug":  "sbm-g-i",
+                        "name":  "Swachh Bharat Mission â Grameen PHASE I",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Jal Shakti",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to eliminate open defecation and improve rural sanitation by supporting toilet construction and promoting usage among poor and marginalized rural households.",
+                        "tags":  [
+                                     "Sanitation",
+                                     "Toilet",
+                                     "Grameen",
+                                     "Swachh Bharat"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-g-i",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sbm-u",
+                        "source_id":  "r8djdJwB0AGc0F0ivQPN",
+                        "slug":  "sbm-u",
+                        "name":  "Swachh Bharat Mission â Urban 2.0",
+                        "level":  "Central",
+                        "category":  "Health \u0026 Wellness",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households.",
+                        "tags":  [
+                                     "Toilet",
+                                     "Sanitation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sbm-u",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

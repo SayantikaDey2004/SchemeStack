@@ -1,0 +1,2757 @@
+﻿{
+    "category":  "Business \u0026 Entrepreneurship",
+    "level":  "Central",
+    "expected_count":  723,
+    "extracted_count":  87,
+    "schemes":  [
+                    {
+                        "id":  "ctms",
+                        "source_id":  "dKG3F5gBXu-iUKXqr3Vm",
+                        "slug":  "ctms",
+                        "name":  " Consortia \u0026 Tender Marketing Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Micro \u0026 Small Enterprise in their Individual Capacity faces problems to procure and execute large order, which inhibit and\nrestrict their growth. NSIC accordingly, adopts Consortia approach and forms consortia of units manufacturing the same\nproducts, thereby easing out marketing problems of MSEs.",
+                        "tags":  [
+                                     "Goods And Services Marketing",
+                                     "Turnkey Projects",
+                                     "Machinery And Technology",
+                                     "NSIC"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ctms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "kvyoj",
+                        "source_id":  "r6LAS5wBXu-iUKXqDkfO",
+                        "slug":  "kvyoj",
+                        "name":  " Khadi Gramodyog Vikas Yojana: Khadi Vikas Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to increase productivity and wages of Khadi artisans, improve production infrastructure, boost employment and sales, revive traditional rural skills, modernize sales outlets, and promote marketing and exports.",
+                        "tags":  [
+                                     "Khadi",
+                                     "Gramodyog",
+                                     "Khadi Production",
+                                     "Village Industries",
+                                     "Khadi Artisans",
+                                     "Interest Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/kvyoj",
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "mi-hma-nhdp",
+                        "source_id":  "jKGgWpgBXu-iUKXqeHkx",
+                        "slug":  "mi-hma-nhdp",
+                        "name":  "\"Marketing Incentive\" under the \"Handloom Marketing Assistance\" Component of the National Handloom Development Programme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to develop and promote marketing channels for handloom products to bring greater visibility to the sector and ensure commensurate remuneration to weavers. It provides Marketing Incentive to eligible handloom agencies for creating conducive conditions for marketing handloom products.",
+                        "tags":  [
+                                     "Marketing",
+                                     "Incentive",
+                                     "Handloom",
+                                     "Weaver",
+                                     "Textile"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mi-hma-nhdp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "aa",
+                        "source_id":  "6xe6F5gB5uF80_MGSJCP",
+                        "slug":  "aa",
+                        "name":  "Advance Authorisation(AA)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Advance Authorisation scheme enables duty free import of inputs for export production, including replenishment of inputs or duty remission Advance Authorisation covers manufacturer exporters or merchant exporters tied to supporting manufacturer(s).",
+                        "tags":  [
+                                     "Enterpreneurship",
+                                     "SION",
+                                     "DGFTScheme",
+                                     "PAN Based IEC"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/aa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "acandabc",
+                        "source_id":  "s8azF5gB0AGc0F0iITMl",
+                        "slug":  "acandabc",
+                        "name":  "Agri-Clinics And Agri-Business Centres Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A welfare scheme by the Ministry of Agriculture and Farmers\u0027 Welfare was launched in 2002. AC\u0026ABC aims at agricultural development, supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model.",
+                        "tags":  [
+                                     "Business",
+                                     "Entrepreneur",
+                                     "Student",
+                                     "Training",
+                                     "Agriculture",
+                                     "Employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/acandabc",
+                        "min_age":  18,
+                        "max_age":  60,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "asiim",
+                        "source_id":  "3MYkupoB0AGc0F0iPqr1",
+                        "slug":  "asiim",
+                        "name":  "Ambedkar Social Innovation and Incubation Mission (ASIIM)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to boost entrepreneurship and innovation among SC students and SC differently-abled youth by providing focused support to translate innovative, technology-oriented business ideas into successful commercial enterprises. It offers equity funding and hand-holding support.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Innovation",
+                                     "Youth",
+                                     "Scheduled Caste",
+                                     "Student",
+                                     "Incubation",
+                                     "Startup"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/asiim",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ati",
+                        "source_id":  "Fhe3F5gB5uF80_MGMpCZ",
+                        "slug":  "ati",
+                        "name":  "Assistance to Training Institutions Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Under the scheme, assistance would be provided to the training institutions under the Ministry of MSME for creation, strengthening and expansion of infrastructure, including setting-up of new branches and centres.",
+                        "tags":  [
+                                     "Training",
+                                     "ATI",
+                                     "MSME",
+                                     "EDI",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ati",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "aogeusy",
+                        "source_id":  "eRiiR5wB5uF80_MGKV37",
+                        "slug":  "aogeusy",
+                        "name":  "Ayush Oushadhi Gunvatta Evam Uttpadan Samvardhan Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Science, IT \u0026 Communications"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Ayush",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to enhance India\u0027s manufacturing capabilities and exports of traditional medicines and health promotion products under the initiative of Atmanirbhar Bharat.",
+                        "tags":  [
+                                     "Ayush Drugs",
+                                     "Pharmacovigilance",
+                                     "Manufacturing Capabilities",
+                                     "Financial Assistance",
+                                     "Research And Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/aogeusy",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "bgcrs",
+                        "source_id":  "2aHVF5gBXu-iUKXqrHd0",
+                        "slug":  "bgcrs",
+                        "name":  "Bank Guarantee Charges Reimbursement Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Under the Ministry Of Micro, Small \u0026 Medium Enterprises, Bank Guarantee Charges Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Reimbursement",
+                                     "Business",
+                                     "Enterpreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bgcrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "bnpfrs",
+                        "source_id":  "0qHVF5gBXu-iUKXqqnfg",
+                        "slug":  "bnpfrs",
+                        "name":  "Bank Loan Processing Fee Reimbursement Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Bank Loan Processing Fee Reimbursement Scheme comes under the purview of the Ministry of Micro, Small and Medium Enterprises (MSME) of the Government of India.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Entrepreneurship",
+                                     "MSME",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bnpfrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "bsa",
+                        "source_id":  "38eCHpwB0AGc0F0irgL9",
+                        "slug":  "bsa",
+                        "name":  "Bharat Steel Awards",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Steel",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to recognise excellence and outstanding contributions in the Indian steel sector. Through this scheme, awards and incentives are provided to eligible steel companies and individuals.",
+                        "tags":  [
+                                     "Indian Steel Company",
+                                     "Award",
+                                     "Steel Production",
+                                     "Trophy",
+                                     "Cash Prize"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bsa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "big",
+                        "source_id":  "5qHVF5gBXu-iUKXqtndV",
+                        "slug":  "big",
+                        "name":  "Biotechnology Ignition Grant Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âBiotechnology Ignition Grant Scheme (BIG)â is a flagship scheme of BIRAC which recognizes and invests in innovative ideas in the biotech sector. BIG scheme supports individual entrepreneurs/ start-ups from ideation to Proof of Concept.",
+                        "tags":  [
+                                     "Biotechnology",
+                                     "Ignition Grant",
+                                     "BIRAC",
+                                     "BIG",
+                                     "Entrepreneur",
+                                     "Start-up"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/big",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "otsdfpc",
+                        "source_id":  "LRezF5gB5uF80_MGGY9Z",
+                        "slug":  "otsdfpc",
+                        "name":  "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister\u0027s Development Package",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Housing \u0026 Shelter",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Home Affairs",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu \u0026 Kashmir. The amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer.",
+                        "tags":  [
+                                     "Rehabilitation",
+                                     "Displaced",
+                                     "Business",
+                                     "Farming",
+                                     "Jammu",
+                                     "Kashmir",
+                                     "Family"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/otsdfpc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cuy",
+                        "source_id":  "jMY4W5gB0AGc0F0ikzjg",
+                        "slug":  "cuy",
+                        "name":  "Coir Udyami Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Coir Udyami Yojana\" by the Coir Board, Ministry of MSME, Government of India, aims to modernize the coir industry and generate rural employment. It offers credit-linked financial assistance to establish coir units by eligible applicants.",
+                        "tags":  [
+                                     "Credit Linked Subsidy",
+                                     "Coir Production",
+                                     "Enterprises",
+                                     "Coir Board"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cuy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The applicant will not be subject to any income ceiling for receiving assistance under the scheme."
+                    },
+                    {
+                        "id":  "cvy-citus",
+                        "source_id":  "UaG3F5gBXu-iUKXqM3VU",
+                        "slug":  "cvy-citus",
+                        "name":  "Coir Vikas Yojana- Coir Industry Technology Upgradation Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âCoir Industry Technology Upgradation Scheme (CITUS)â is a component of âCoir Vikas Yojanaâ and the scheme was launched by Ministry of Micro, Small \u0026 Medium Enterprises, Government of India. ",
+                        "tags":  [
+                                     "Coir",
+                                     "Coir Industry",
+                                     "Technology Upgradation",
+                                     "MSME",
+                                     "CITUS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cvy-citus",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cvy-emps",
+                        "source_id":  "gca3F5gB0AGc0F0iNDQC",
+                        "slug":  "cvy-emps",
+                        "name":  "Coir Vikas Yojana- Export Market Promotion Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Coir Board is implementing the Central Sector Scheme âExport Market Promotion Schemeâ with a view to improve the export performance of Indian Coir Sector through various export market promotion activities.",
+                        "tags":  [
+                                     "Coir Board",
+                                     "Coir",
+                                     "Export",
+                                     "Promotion",
+                                     "MSME",
+                                     "Entrepreneur",
+                                     "Exporter"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cvy-emps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cvy-sumcy",
+                        "source_id":  "YKG3F5gBXu-iUKXqNXWb",
+                        "slug":  "cvy-sumcy",
+                        "name":  "Coir Vikas Yojana-Skill Upgradation and Mahila Coir Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âSkill Upgradation and Mahila Coir Yojanaâ is a component of âCoir Vikas Yojanaâ and the scheme was launched by the Ministry of Micro, Small \u0026 Medium Enterprises, Government of India.",
+                        "tags":  [
+                                     "Coir",
+                                     "Skill Upgradation",
+                                     "Mahila",
+                                     "MSME",
+                                     "Stipend",
+                                     "Training",
+                                     "Entrepreneur",
+                                     "Self-employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cvy-sumcy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cbssc-tl",
+                        "source_id":  "ncazF5gB0AGc0F0iHzMT",
+                        "slug":  "cbssc-tl",
+                        "name":  "Credit Based Schemes For SC - Term Loan (TL)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A loan scheme by Ministry of Social justice and Empowerment for Entrepreneur of Scheduled Caste Category.  ",
+                        "tags":  [
+                                     "Entrepreneur",
+                                     "Scheduled Caste",
+                                     "Socities",
+                                     "Companies"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-tl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cegssc",
+                        "source_id":  "gqGzF5gBXu-iUKXqH3QT",
+                        "slug":  "cegssc",
+                        "name":  "Credit Enhancement Guarantee Scheme For The Scheduled Castes",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "a loan scheme by the Ministry of Social justice and Empowerment for Entrepreneurs of Scheduled Caste Category.",
+                        "tags":  [
+                                     "Entrepreneur",
+                                     "Scheduled Caste",
+                                     "Companies",
+                                     "Societies"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cegssc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cgss",
+                        "source_id":  "d8bmIJsB0AGc0F0iWv3q",
+                        "slug":  "cgss",
+                        "name":  "Credit Guarantee Scheme for Startups",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The GoI established the Credit Guarantee Scheme for Startups with a fixed corpus to provide credit guarantees for loans extended to DPIIT recognised startups by Scheduled Commercial Banks, NBFCs, and Venture Debt Funds (VDFs) under SEBI-registered AlFs.",
+                        "tags":  [
+                                     "Startup",
+                                     "Credit Guarantee",
+                                     "Collateral-Free Laon",
+                                     "NCGTC",
+                                     "DPIIT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cgss",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ds",
+                        "source_id":  "WaHkF5gBXu-iUKXqP3hU",
+                        "slug":  "ds",
+                        "name":  "Design Scheme Under MSME Innovative Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Design scheme will help MSMEs to avail advice on all aspects of design. It helps MSMEs realize and achieve their design-related objectives. This specialist advice will be provided by experienced designers for new product development as well as enhancing existing product portfolio.\n",
+                        "tags":  [
+                                     "Product Design",
+                                     "Product Development",
+                                     "Financial Support",
+                                     "Business \u0026 Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ds",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "emcbes",
+                        "source_id":  "y6JQ-5wBXu-iUKXqYkxZ",
+                        "slug":  "emcbes",
+                        "name":  "Electronic Manufacturing Clusters (EMC) Scheme: Common Facility Centres/ Brownfield Electronics Manufacturing Clusters",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to support the upgradation of Brownfield EMCs through Common Facility Centres (CFCs). It provides financial assistance for infrastructure improvement and shared facilities for existing electronics manufacturing units.",
+                        "tags":  [
+                                     "Cluster Based Infrastructure",
+                                     "Electronics Manufacturing",
+                                     "Financial Assistance",
+                                     "Infrastructure",
+                                     "Upgradation Of Brownfield EMCs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/emcbes",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "emcs",
+                        "source_id":  "vsc6-5wB0AGc0F0inQiY",
+                        "slug":  "emcs",
+                        "name":  "Electronic Manufacturing Clusters (EMC) Scheme: Greenfield Electronic Manufacturing Clusters",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The aims to promote electronics manufacturing by providing financial assistance for cluster-based infrastructure. Through this scheme, infrastructure support is provided to electronics manufacturing units in identified clusters.",
+                        "tags":  [
+                                     "Electronics Manufacturing",
+                                     "Financial Assistance",
+                                     "Cluster Based Infrastructure",
+                                     "Infrastructure",
+                                     "Setting Up Greenfield EMCs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/emcs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ecms",
+                        "source_id":  "t6Lq-pwBXu-iUKXqLUzR",
+                        "slug":  "ecms",
+                        "name":  "Electronics Component Manufacturing Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to provide financial incentives for manufacturing electronic components in Bharat. Through this scheme, turnover and capital expenditure-linked incentives are provided to companies and Limited Liability Partnerships.",
+                        "tags":  [
+                                     "Supply Chain",
+                                     "Manufacturing Of Electronics",
+                                     "Incentives",
+                                     "Limited Liability Partnerships",
+                                     "Electronics System Design",
+                                     "Electronics System Manufacturing"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ecms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "esdp",
+                        "source_id":  "LBe3F5gB5uF80_MGNpCM",
+                        "slug":  "esdp",
+                        "name":  "Entrepreneurship and Skill Development Programme ",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The O/o DC-MSME under \"Development of MSMEs\" vertical has launched the \"Entrepreneurship and Skill Development Programme (ESDP)\". The Programme is being organized regularly to nurture the talent of youth by enlightening them on various aspects of industrial/business activity required for setting up ",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Skill Development",
+                                     "MSME",
+                                     "ESDP",
+                                     "Self-employment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/esdp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "epcg",
+                        "source_id":  "Jsa6F5gB0AGc0F0iRDUd",
+                        "slug":  "epcg",
+                        "name":  "Export Promotion Capital Goods Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The objective of the EPCG Scheme is to facilitate import of capital goods for producing quality goods and services and enhance Indiaâs manufacturing competitiveness. EPCG scheme allows import of capital goods for pre-production, production and post-production at zero customs duty.\n",
+                        "tags":  [
+                                     "Manufacturer Exporters",
+                                     "Import",
+                                     "Quality Goods",
+                                     "Services"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/epcg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "epcmrs",
+                        "source_id":  "0xf-F5gB5uF80_MGOJOx",
+                        "slug":  "epcmrs",
+                        "name":  "Export Promotion Council Membership Reimbursement Scheme for Scheduled Caste/Scheduled Tribe",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Export Promotion Council Membership Reimbursement Scheme provides  reimbursement to an SC/ST Micro \u0026 small enterprises(MSEs), on annual membership subscription fee / one-time subscription charges/entry fee charged by various Export Promotion Councils (EPC).",
+                        "tags":  [
+                                     "Reimbursement",
+                                     "Subscription Fee",
+                                     "Membership Fee",
+                                     "Financial Assistance",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Business \u0026 Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/epcmrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ffs",
+                        "source_id":  "3aL9IpsBXu-iUKXq5UHP",
+                        "slug":  "ffs",
+                        "name":  "Fund of Funds for Startups",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Science, IT \u0026 Communications",
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Health \u0026 Wellness",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in January 2016 under Startup India, the Fund of Funds for Startups is managed by SIDBI. It supports DPIIT-recognized startups indirectly by investing in SEBI-registered AIFs, which must invest at least twice the FFS contribution.",
+                        "tags":  [
+                                     "DPIIT",
+                                     "Startup India",
+                                     "Startups",
+                                     "AIF",
+                                     "Equity"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gws",
+                        "source_id":  "c8aGMZgB0AGc0F0iGDiy",
+                        "slug":  "gws",
+                        "name":  "GROUP WORKSHED SCHEME ",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The objective of the scheme is to facilitate the establishment of worksheds for shuttleless looms in an existing or new cluster, which will provide the required scale of economy for business operations.",
+                        "tags":  [
+                                     "New Cluster",
+                                     "Business Operations",
+                                     "Powerloom",
+                                     "Weaving"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gws",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "is",
+                        "source_id":  "j6LH4ZwBXu-iUKXqiksm",
+                        "slug":  "is",
+                        "name":  "Incubation Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Incubation Scheme aims to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level.",
+                        "tags":  [
+                                     "Capital Support",
+                                     "Plant And Machinery",
+                                     "Financial Support",
+                                     "Business \u0026 Entreurprneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/is",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "irdpp-rihrdu",
+                        "source_id":  "6KG1F5gBXu-iUKXqJXQN",
+                        "slug":  "irdpp-rihrdu",
+                        "name":  "Industrial R\u0026D Promotion Programme: Recognition Of In-House R\u0026D Units",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "DSIR is operating a scheme called \"Recognition of In-House R\u0026D Units\" with the objective of granting recognition \u0026 registration to in-house R\u0026D units established by the corporate industry. The In-house R\u0026D units are expected to be engaged in innovative research \u0026 development activities.",
+                        "tags":  [
+                                     "Registration",
+                                     "Research",
+                                     "Development",
+                                     "Industry",
+                                     "Business"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/irdpp-rihrdu",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The applicant should have a regular source of income for at least the last two years to sustain the business and this needs to be elaborated in the application."
+                    },
+                    {
+                        "id":  "idex",
+                        "source_id":  "raG4F5gBXu-iUKXqM3Xu",
+                        "slug":  "idex",
+                        "name":  "Innovations for Defence Excellence",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Aimed at creation of an ecosystem to foster innovation and technology development in Defence and Aerospace by engaging Industries (incl MSMEs, start-ups, individual innovators R\u0026D institutes, academia) and provide them grants and other supports to carry out R\u0026D innovation for adoption in D\u0026A Sector",
+                        "tags":  [
+                                     "Start-ups",
+                                     "MSME",
+                                     "Innovation",
+                                     "R\u0026D",
+                                     "Academia"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/idex",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "isepqisrdceoplccn",
+                        "source_id":  "DRiuhZwB5uF80_MGvV4J",
+                        "slug":  "isepqisrdceoplccn",
+                        "name":  "Integrated Scheme for Export Promotion \u0026 Quality Improvement in Spices and Research and Development of Cardamom: Export Oriented Production: Large Cardamom Certified Nursery (Unit)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Export Oriented Production: Large Cardamom Certified Nursery (Unit)\" is a Sub-Scheme of the Integrated Scheme for Export Promotion \u0026 Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce.",
+                        "tags":  [
+                                     "Farmer",
+                                     "Nursery",
+                                     "Export",
+                                     "Subsidy",
+                                     "Agriculture",
+                                     "DBT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/isepqisrdceoplccn",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ipr",
+                        "source_id":  "8aH-F5gBXu-iUKXqQnhK",
+                        "slug":  "ipr",
+                        "name":  "Intellectual Property Right Scheme Under MSME Innovative Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Intellectual Property Right Scheme offers legal and intellectual property filing support including patents, trademarks, copyrights, designs, geographical indications (GI) etc.",
+                        "tags":  [
+                                     "Patents",
+                                     "Trademarks",
+                                     "Copyrights",
+                                     "Designs",
+                                     "Geographical Indications",
+                                     "Business \u0026 Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ipr",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ics-cbfte",
+                        "source_id":  "58bVF5gB0AGc0F0itzZN",
+                        "slug":  "ics-cbfte",
+                        "name":  "International Cooperation Scheme- Capacity Building of First Time MSE Exporters",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âInternational Cooperation Schemeâ was launched by the MSME, Govt. of India with the aim to capacity build MSMEs for entering export market by providing reimbursement of various costs incurred by first time MSE exporters on export shipments.",
+                        "tags":  [
+                                     "International",
+                                     "Cooperation",
+                                     "Capacity Building",
+                                     "MSE",
+                                     "Exporter",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ics-cbfte",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ics-mda",
+                        "source_id":  "4BfVF5gB5uF80_MGuJLd",
+                        "slug":  "ics-mda",
+                        "name":  "International Cooperation Scheme- Market Development Assistance",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âInternational Cooperation Schemeâ was launched by the MSME, Govt. of India with the aim to capacity build MSMEs for entering the export market by facilitating their participation in international exhibitions/fairs/conferences/seminars/buyer-seller meets abroad.",
+                        "tags":  [
+                                     "International",
+                                     "Cooperation",
+                                     "Market",
+                                     "Development",
+                                     "Industry",
+                                     "Enterpris",
+                                     "MSME"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ics-mda",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gvyoj",
+                        "source_id":  "dMe_S5wB0AGc0F0iFwNv",
+                        "slug":  "gvyoj",
+                        "name":  "Khadi Gramodyog Vikas Yojana: Gramodyog Vikas Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to increase productivity and wages of Khadi artisans, improve production infrastructure, boost employment and sales, revive traditional rural skills, modernize sales outlets, and promote marketing and exports.",
+                        "tags":  [
+                                     "Khadi",
+                                     "Gramodyog",
+                                     "Agarbatti Programme",
+                                     "Leather Footwear Activity",
+                                     "Pottery Activity",
+                                     "Beekeeping Activity"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gvyoj",
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "kkjby",
+                        "source_id":  "oKGzF5gBXu-iUKXqJ3R7",
+                        "slug":  "kkjby",
+                        "name":  "Khadi Karigar Janashree Bima Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death and disability of the insured member.",
+                        "tags":  [
+                                     "Insurance",
+                                     "Entrepreneur",
+                                     "Business",
+                                     "Persons With Disability",
+                                     "Citizen Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/kkjby",
+                        "min_age":  18,
+                        "max_age":  59,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssf-gtl",
+                        "source_id":  "MBezF5gB5uF80_MGGo-A",
+                        "slug":  "lbssf-gtl",
+                        "name":  "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Family",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependants aged 18 years and above. \n",
+                        "tags":  [
+                                     "Safai Karamcharis",
+                                     "Entrepreneurship",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssf-gtl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssk-sms",
+                        "source_id":  "ThezF5gB5uF80_MGII-O",
+                        "slug":  "lbssk-sms",
+                        "name":  "Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A  contributory Loan scheme by Ministry of Social justice and Empowerment for individual beneficiaries/self help groups of Liberated Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above, for setting up A Sanitary Marts (SM) is a one-stop-shop for all things for sanitation",
+                        "tags":  [
+                                     "Sanitary Mart",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers",
+                                     "Safai Karamcharis"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssk-sms",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "lbssk-suy",
+                        "source_id":  "PRezF5gB5uF80_MGHo-y",
+                        "slug":  "lbssk-suy",
+                        "name":  "Loan Based Schemes For Safai Karamchari - Swachhta Udyami Yojana â Swachhta Se Sampannta Ki Aur",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above for procurement of sanitation-related vehicles.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Loan",
+                                     "Financial Assistance",
+                                     "Credit",
+                                     "Sanitation",
+                                     "Manual Scavengers",
+                                     "Waste Pickers",
+                                     "Safai Karamcharis"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbssk-suy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "cbssc-msy",
+                        "source_id":  "bKGzF5gBXu-iUKXqGXQm",
+                        "slug":  "cbssc-msy",
+                        "name":  "Mahila Samriddhi Yojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This is a micro-financing programme aiming towards the empowerment of women from underprivileged backgrounds or economically backward areas. Through this scheme, these women can apply for a loan at a nominal interest rate to fulfil their dreams and goals and gain financial independence.",
+                        "tags":  [
+                                     "Empowerment",
+                                     "SHG Women",
+                                     "Financial Inclusion Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-msy",
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Applicable to Women from low-income families or women who belong to SC/ST/OBC categories as notified by the Central/State Government and whose family income is less than Rupees three lakhs per annum."
+                    },
+                    {
+                        "id":  "mcfnsfdc",
+                        "source_id":  "UxfmF5gB5uF80_MG0JPA",
+                        "slug":  "mcfnsfdc",
+                        "name":  "Micro Credit Finance (NSFDC)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme is implemented by the National Scheduled Castes Finance \u0026 Development Corporation, Ministry of Social Justice \u0026 Empowerment, Govt. of India. Under this scheme, loans are provided to individuals from the SC community for units costing up to â¹1,40,000/- for income-generating activities.",
+                        "tags":  [
+                                     "Micro Credit",
+                                     "NSFDC",
+                                     "Loan",
+                                     "Self-employment",
+                                     "Scheduled Caste"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mcfnsfdc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The applicant\u0026amp;#39;s annual family income should be less than â¹3,00,000/-, both in rural and urban areas w.e.f."
+                    },
+                    {
+                        "id":  "mmdas",
+                        "source_id":  "laLs4ZwBXu-iUKXqDUu7",
+                        "slug":  "mmdas",
+                        "name":  "Modified Market Development Assistance Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to enhance the production and sales of Khadi and Polyvastra products by supporting technology upgradation, market promotion, and providing direct incentives to artisans and Karyakartas. It targets Khadi Institutions and their associated artisans and workers.",
+                        "tags":  [
+                                     "Artisan",
+                                     "Production",
+                                     "Marketing",
+                                     "Subsidy",
+                                     "Incentive"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mmdas",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "mszcs",
+                        "source_id":  "3RfVF5gB5uF80_MGtJKT",
+                        "slug":  "mszcs",
+                        "name":  "MSME Sustainable (ZED) Certification Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "MSME Sustainable (ZED) Certification Scheme is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Cerficaon while also encouraging them to become MSME Champions.",
+                        "tags":  [
+                                     "Certification",
+                                     "Incentives",
+                                     "Rewards",
+                                     "Zero Defect Zero Effect",
+                                     "Business \u0026 Entreurprneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mszcs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "naps",
+                        "source_id":  "iKGzF5gBXu-iUKXqH3S1",
+                        "slug":  "naps",
+                        "name":  "National Apprenticeship Promotion Scheme-2",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "To promote apprenticeship training in the country, by providing partial stipend support\nto the apprentices engaged under the Apprentice Act, 1961, undertaking capacity building of the apprenticeship ecosystem, and providing advocacy assistance to the stakeholders.",
+                        "tags":  [
+                                     "Apprenticeship Training",
+                                     "Skilled Workforce",
+                                     "Up-skilling Opportunities",
+                                     "Skill India Programme"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/naps",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-iandts-emporia",
+                        "source_id":  "hhezF5gB5uF80_MGkI9N",
+                        "slug":  "nhdp-iandts-emporia",
+                        "name":  "National Handicrafts Development Programme: Infrastructure And Technology Support: EMPORIA",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "In the scheme \"Infrastructure and Technology Support: EMPORIA\" assistance would be provided for the setting up of emporia. These would be set up in commercially viable locations in the implementing agencies\u0027 own/rented buildings.",
+                        "tags":  [
+                                     "Artisan",
+                                     "Weaver",
+                                     "Entrepreneurship",
+                                     "Business",
+                                     "Exhibition"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-iandts-emporia",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nhdp-iandts-uh",
+                        "source_id":  "08azF5gB0AGc0F0ijzMp",
+                        "slug":  "nhdp-iandts-uh",
+                        "name":  "National Handicrafts Development Programme: Infrastructure And Technology Support: URBAN HAAT",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme \"Infrastructure \u0026 Technology Support: URBAN HAAT\" is introduced is to set up a permanent marketing infrastructure in towns/ metropolitan cities to provide direct marketing facilities to handicrafts artisans/handloom weavers, enabling them to sell their products to wider target audience.",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Artisan",
+                                     "Handloom",
+                                     "Handicraft",
+                                     "Weaver",
+                                     "Infrastructure",
+                                     "Technology Support",
+                                     "Urban Haat"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-iandts-uh",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "eebdrp",
+                        "source_id":  "OKHAF5gBXu-iUKXqcXcp",
+                        "slug":  "eebdrp",
+                        "name":  "National Livestock Mission: Establishment of Entrepreneurship for Breed Development of Rural Poultry",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to promote entrepreneurship in rural poultry farming. Through this scheme, a 50% capital subsidy is provided for establishing Parent Farms, Rural Hatcheries, and Brooder cum Mother Units.",
+                        "tags":  [
+                                     "Rural Poultry",
+                                     "Poultry Farming",
+                                     "Entrepreneurship",
+                                     "Brooder Cum Mother Unit",
+                                     "Parent Farm",
+                                     "Rural Hatchery",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/eebdrp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "epscpl",
+                        "source_id":  "SBfAF5gB5uF80_MGeZJv",
+                        "slug":  "epscpl",
+                        "name":  "National Livestock Mission: Genetic Improvement of Pig breeds - Establishment of Pig Semen Collection and Processing Lab",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Scheme aims to enhance per-animal productivity, reduce inbreeding, and minimize sexually transmitted diseases in pigs. Through this scheme, financial assistance is provided for establishing semen processing labs at government pig farms.",
+                        "tags":  [
+                                     "Pig Farm",
+                                     "Pig Semen",
+                                     "Processing Lab",
+                                     "Genetic Improvement",
+                                     "Boar"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/epscpl",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "iepg",
+                        "source_id":  "KhfAF5gB5uF80_MGbpLe",
+                        "slug":  "iepg",
+                        "name":  "National Livestock Mission: Genetic Improvement of Pig Breeds - Import of Exotic Pig Germplasm",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to enhance indigenous pig productivity through genetic upgradation. The scheme supports the establishment of pig semen collection and processing labs and the import of exotic pig germplasm.",
+                        "tags":  [
+                                     "Pig",
+                                     "Pig Semen",
+                                     "Import Exotic Pig",
+                                     "Pig Germplasm",
+                                     "Livestock Agencies",
+                                     "Livestock Board",
+                                     "Animal Husbandry"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/iepg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ppe",
+                        "source_id":  "SMbAF5gB0AGc0F0ibzZH",
+                        "slug":  "ppe",
+                        "name":  "National Livestock Mission: Promotion of Piggery Entrepreneur",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to promote entrepreneurship in pig farming by providing a one-time capital subsidy of up to â¹30 lakh to eligible entrepreneurs and organizations to establish breeder farms.",
+                        "tags":  [
+                                     "Enterpreneurship",
+                                     "Subsidy",
+                                     "Genetic Upgradation",
+                                     "Pork Export",
+                                     "Pork Production",
+                                     "Piggery",
+                                     "Entrepreneur"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ppe",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nsa",
+                        "source_id":  "wcbBtJoB0AGc0F0ikarO",
+                        "slug":  "nsa",
+                        "name":  "National Startup Awards",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The National Startup Awards by Startup India aims to recognize and reward outstanding startups and ecosystem enablers building innovative products or solutions and scalable enterprises.",
+                        "tags":  [
+                                     "Self Employment",
+                                     "Business",
+                                     "Startup",
+                                     "Empower",
+                                     "DPIIT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nsa",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "nssw",
+                        "source_id":  "jMazF5gB0AGc0F0iGTMz",
+                        "slug":  "nssw",
+                        "name":  "New Swarnima Scheme For Women",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to â¹2,00,000/- @ 5% per annum, thereby providing them social \u0026 financial security.",
+                        "tags":  [
+                                     "Entrepreneur",
+                                     "Women",
+                                     "Business",
+                                     "Empowerment",
+                                     "Backward Class",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nssw",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The Total Annual **Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
+                    },
+                    {
+                        "id":  "nebps",
+                        "source_id":  "hKK89pwBXu-iUKXqAUyn",
+                        "slug":  "nebps",
+                        "name":  "Northeast BPO Promotion Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "Arunachal Pradesh",
+                                                  "Sikkim",
+                                                  "Mizoram",
+                                                  "Tripura",
+                                                  "Manipur",
+                                                  "Meghalaya",
+                                                  "Nagaland",
+                                                  "Assam"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote the establishment of BPO and Information Technology Enabled Services units in the North-Eastern region. Through the scheme, financial assistance in the form of Viability Gap Funding is provided to eligible companies.",
+                        "tags":  [
+                                     "Employment",
+                                     "Viability Gap Funding",
+                                     "Youth",
+                                     "Investment",
+                                     "Information Technology",
+                                     "Training"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nebps",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-svanidhi",
+                        "source_id":  "jqGzF5gBXu-iUKXqIHRu",
+                        "slug":  "pm-svanidhi",
+                        "name":  "PM Street Vendorâs AtmaNirbhar Nidhi (PM SVANidhi)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PM SVANidhi is a micro-credit scheme launched on 1st June 2020 by the MoHUA to provide handholding support to street vendors. The scheme facilitates a working capital collateral-free loan of â¹10,000, with subsequent loans of â¹20,000 and â¹50,000 with a 7% interest subsidy.",
+                        "tags":  [
+                                     "Street Vendors",
+                                     "Working Capital Loan",
+                                     "Enhanced Livelihood",
+                                     "Digital Empowerment",
+                                     "Affordable Credit"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-svanidhi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmv",
+                        "source_id":  "4Rh5-5wB5uF80_MGmWLa",
+                        "slug":  "pmv",
+                        "name":  "PM Vishwakarma",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"PM Vishwakarma \" by the Ministry of Micro, Small \u0026 Medium Enterprises, is a new scheme that envisages providing end-to-end holistic support to traditional artisans and craftspeople in scaling up their conventional products and services.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Craftspeople",
+                                     "Skill Upgradation",
+                                     "Toolkit Incentive"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmv",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmbjp",
+                        "source_id":  "-8a0F5gB0AGc0F0iFTPL",
+                        "slug":  "pmbjp",
+                        "name":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Health \u0026 Wellness",
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Chemicals And Fertilizers",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Pradhan Mantri Bhartiya Janaushadhi Pariyojana was launched by the Department of Pharmaceuticals, in November 2008. Under the scheme, dedicated outlets known as Janaushadhi Kendras are opened to make quality generic medicines available to all at affordable prices.",
+                        "tags":  [
+                                     "Medicine",
+                                     "Pharmaceutical",
+                                     "Healthcare",
+                                     "Entrepreneur",
+                                     "Janaushadhi",
+                                     "Generic Drugs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmbjp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmfmpe",
+                        "source_id":  "Aca0F5gB0AGc0F0iHTQr",
+                        "slug":  "pmfmpe",
+                        "name":  "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Food Processing Industries",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the MoFPI, designed to address the challenges faced by the micro enterprises and to tap the potential of groups and cooperatives in supporting the upgradation and formalization of these enterprises.",
+                        "tags":  [
+                                     "Loan",
+                                     "Credit Linked Subsidy",
+                                     "Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmfmpe",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmkvy-stt",
+                        "source_id":  "o6GzF5gBXu-iUKXqLXTE",
+                        "slug":  "pmkvy-stt",
+                        "name":  "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "A skill development scheme by Ministry of Skill Development and Entrepreneurship for school/college dropouts/unemployed aged 15-45 at PMKVY Training Centres (TCs). ",
+                        "tags":  [
+                                     "Placement",
+                                     "Counselling",
+                                     "Training",
+                                     "Dropout",
+                                     "Unemployed",
+                                     "Skill",
+                                     "Vikas",
+                                     "Kaushal"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+                        "min_age":  15,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmkvy-sp",
+                        "source_id":  "scazF5gB0AGc0F0iIDP3",
+                        "slug":  "pmkvy-sp",
+                        "name":  "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Skill Development And Entrepreneurship",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "A skill development scheme by Ministry of Skill Development and Entrepreneurship for Marginalized or vulnerable groups which may not meet all the parameters as laid down in the Guidelines of ShortTerm Training (STT) of PMKVY 3.0",
+                        "tags":  [
+                                     "Marginalized Groups",
+                                     "Vulnerable Groups",
+                                     "Kaushal",
+                                     "Vikas",
+                                     "Skill",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "PVTG",
+                                     "Women",
+                                     "Transgender",
+                                     "Economically Backward Section",
+                                     "Person With Disabilities",
+                                     "LWE"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmkvy-sp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-mkssy-1a",
+                        "source_id":  "hKHCF5gBXu-iUKXqCXda",
+                        "slug":  "pm-mkssy-1a",
+                        "name":  "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1A: Formalization of Fisheries Sector and Facilitating Access of Fisheries Microenterprises to Government of India Programs for Working Capital Financing",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to formalise fisheries microenterprises and facilitate their access to institutional working capital finance through small grants and credit intermediaries. It benefits fisheries sector stakeholders registered on NFDP with verifiable credit needs and valid bank accounts.",
+                        "tags":  [
+                                     "Fisheries",
+                                     "Enterprise",
+                                     "Aquaculture",
+                                     "Value Chain"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-mkssy-1a",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-vikas",
+                        "source_id":  "Zcdc9pwB0AGc0F0i0ghQ",
+                        "slug":  "pm-vikas",
+                        "name":  "Pradhan Mantri Virasat ka Samvardhan",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Minority Affairs",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "PM VIKAS is a Central sector scheme that focuses on socio-economic empowerment of six notified minorities in the country through skilling \u0026 training, women leadership \u0026 empowerment and education. The scheme integrates erstwhile skilling \u0026 education schemes of the Ministry of Minority Affairs.",
+                        "tags":  [
+                                     "Skill Development",
+                                     "Women Entrepeneurship",
+                                     "Education Of School Dropouts",
+                                     "Socio-economic Empowerment",
+                                     "Minorities"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-vikas",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmegp",
+                        "source_id":  "pxe0F5gB5uF80_MGFY_X",
+                        "slug":  "pmegp",
+                        "name":  "Prime Minister\u0027s Employment Generation Programme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in August 2008, Prime Minister\u0027s Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in ",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Loan",
+                                     "Entrepreneur",
+                                     "Projects",
+                                     "Micro Enterprises"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmegp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "There will be no income ceiling for assistance in setting up projects under PMEGP."
+                    },
+                    {
+                        "id":  "prism-c1-pcpm",
+                        "source_id":  "Ghe3F5gB5uF80_MGM5AP",
+                        "slug":  "prism-c1-pcpm",
+                        "name":  "PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs): Category-1: Proof of Concept/ Prototypes/ Models",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to support individual innovators which will enable them to achieve the agenda of inclusive development - one of the thrust areas of the XIIth five-year plan (2012-2017). The proposals shall preferably be considered in the following focus sectors: Green technology, Clean energy, etc.",
+                        "tags":  [
+                                     "MSME",
+                                     "Prototype",
+                                     "Innovation",
+                                     "Entrepreneurship",
+                                     "Research",
+                                     "Startup",
+                                     "Proposal"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prism-c1-pcpm",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prism-c2-fwmpkhttptt",
+                        "source_id":  "_qKMAJ0BXu-iUKXq2UyW",
+                        "slug":  "prism-c2-fwmpkhttptt",
+                        "name":  "PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs): Category-2: Fabrication of Working Model/Process Know-how/Testing \u0026 Trial/Patenting/Technology Transfer",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote innovations in individuals, start-ups, and Micro, Small and Medium Enterprises (PRISM). It offers financial support (up to â¹20,00,000/-) for Indian Citizens working on innovation projects requiring fabrication of working models, patenting, or technology transfer.",
+                        "tags":  [
+                                     "Innovation",
+                                     "Patent",
+                                     "Invention",
+                                     "Prototype",
+                                     "Technology"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prism-c2-fwmpkhttptt",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pli-pharma",
+                        "source_id":  "KseXRpwB0AGc0F0iNQO-",
+                        "slug":  "pli-pharma",
+                        "name":  "Production Linked Incentive (PLI) Scheme for Pharmaceuticals",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Chemicals And Fertilizers",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial incentives on the incremental sales (over Base Year) of pharmaceutical goods and in-vitro diagnostic medical devices to selected applicants based on pre-defined selection criteria. The applicant must be a manufacturer of pharmaceutical goods.",
+                        "tags":  [
+                                     "Manufacturer",
+                                     "Entrepreneur",
+                                     "Company",
+                                     "Incentive",
+                                     "Investment",
+                                     "Production",
+                                     "Pharmaceutical"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pli-pharma",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pliwg",
+                        "source_id":  "Mhi0yZoB5uF80_MGLVbt",
+                        "slug":  "pliwg",
+                        "name":  "Production Linked Incentive (PLI) Scheme for White Goods (Air Conditioners and LED Lights)",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme targets manufacturers of components / sub-assemblies of Air Conditioners \u0026 LED Lights and offers 4â6% incentive on incremental sales to boost localization, reduce imports, and build a domestic supply chain.",
+                        "tags":  [
+                                     "PLI",
+                                     "White Goods",
+                                     "DPIIT",
+                                     "AC",
+                                     "LED",
+                                     "Incentive"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pliwg",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "plisaaci",
+                        "source_id":  "zhe1F5gB5uF80_MGK4_f",
+                        "slug":  "plisaaci",
+                        "name":  "Production Linked Incentive Scheme For Automobile And Auto Component Industry",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Heavy Industries",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The government of India has launched the scheme âProduction Linked Incentive (PLI) Scheme for Automobile and Auto Components Industryâ in India to enhance Indiaâs Manufacturing Capabilities for Advanced Automotive Products.",
+                        "tags":  [
+                                     "Automobile",
+                                     "Auto Component",
+                                     "Incentive",
+                                     "Automotive",
+                                     "Industry"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/plisaaci",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "rmfgp",
+                        "source_id":  "0hf-F5gB5uF80_MGOJOC",
+                        "slug":  "rmfgp",
+                        "name":  "Reimbursement of membership Fee in Government promoted E-Commerce Portals ",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Reimbursement of Membership fee of Government promoted e-commerce portals Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. ",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Business",
+                                     "Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rmfgp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ssscstsssu",
+                        "source_id":  "PcbmhZkB0AGc0F0iqjku",
+                        "slug":  "ssscstsssu",
+                        "name":  "Samriddhi â Scheme for Scheduled Caste/Scheduled Tribe Students for Setting Start-Ups",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide opportunities for Scheduled Caste/Scheduled Tribe students to design, launch, and run their own business or startup after formal education is completed or during their final year of education. The scheme provides a limited one-time financial assistance of â¹20,00,000/-.",
+                        "tags":  [
+                                     "Student",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Startup",
+                                     "Entrepreneurship",
+                                     "Funding"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ssscstsssu",
+                        "min_age":  5,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "spdmtfptantner",
+                        "source_id":  "JBe3F5gB5uF80_MGNJBI",
+                        "slug":  "spdmtfptantner",
+                        "name":  "Scheme for Plantation Development (New planting \u0026 Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers.",
+                        "tags":  [
+                                     "Rubber",
+                                     "Agriculture",
+                                     "Farming",
+                                     "Plant",
+                                     "Seed",
+                                     "Subsidy",
+                                     "DBT"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/spdmtfptantner",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "srtccst",
+                        "source_id":  "iqJU-pwBXu-iUKXq3UwQ",
+                        "slug":  "srtccst",
+                        "name":  "Scheme for Reimbursement of Testing and Certification Charges for Start-ups and Telecom MSEs",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry of Electronics and Information Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to reimburse testing and certification costs. Financial support is provided to Start-ups and MSEs to enhance telecom product competitiveness.",
+                        "tags":  [
+                                     "Certification",
+                                     "Startup",
+                                     "Micro \u0026 Small Enterprises",
+                                     "Telecom",
+                                     "Financial Support",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/srtccst",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sasscdc",
+                        "source_id":  "8BfjV5kB5uF80_MG05R6",
+                        "slug":  "sasscdc",
+                        "name":  "Scheme of Assistance to State Scheduled Castes Development Corporations",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide economic development assistance to Scheduled Castes living below the poverty line through financial support and credit facilitation. It provides share capital, margin money loans, and subsidies to Scheduled Castes families for employment-oriented schemes.",
+                        "tags":  [
+                                     "Scheduled Caste",
+                                     "Employment",
+                                     "Agriculture",
+                                     "Industry",
+                                     "Transport",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sasscdc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfurti",
+                        "source_id":  "e8a3F5gB0AGc0F0iMzRh",
+                        "slug":  "sfurti",
+                        "name":  "Scheme of Fund for Regeneration of Traditional Industries",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "To make the traditional industries more productive and competitive and facilitating their sustainable development, the Govt. of India announced in 2005-06, setting up of a fund for the regeneration of traditional industries. Pursuant to this announcement, a Central Sector Scheme titled the âSFURTI\".",
+                        "tags":  [
+                                     "SFURTI",
+                                     "Traditional Industries",
+                                     "MSME",
+                                     "Coir",
+                                     "Soft Intervention",
+                                     "Hard Intervention",
+                                     "Thematic Intervention"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfurti",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sitare-gyti",
+                        "source_id":  "zqHVF5gBXu-iUKXqqXe3",
+                        "slug":  "sitare-gyti",
+                        "name":  "SITARE-Gandhian Young Technological Innovation Award Grant",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Under SITARE-GYTI scheme component, 15 innovative student projects will receive funding support of upto INR 15 lakhs each. The scheme encourages postgraduate \u0026 doctoral students to undertake projects with commercial potential leading to the creation of biotech startups.",
+                        "tags":  [
+                                     "SITARE",
+                                     "GYTI",
+                                     "Student",
+                                     "Innovation",
+                                     "Translational Research"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sitare-gyti",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sdatocitt",
+                        "source_id":  "VMeaR5wB0AGc0F0ilQOQ",
+                        "slug":  "sdatocitt",
+                        "name":  "Skill Development and Training of Candidates in Technical Textiles",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to train skilled professionals for the technical textiles industry, develop transferable skills, create a strong knowledge ecosystem, integrate trained individuals into various roles, and promote continuous learning and innovation.",
+                        "tags":  [
+                                     "Technical",
+                                     "Skill Development",
+                                     "Training",
+                                     "Textiles"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sdatocitt",
+                        "min_age":  17,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sclcss",
+                        "source_id":  "XqHkF5gBXu-iUKXqQngu",
+                        "slug":  "sclcss",
+                        "name":  "Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste/Scheduled Tribe",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste / Scheduled scheme aims to facilitate capital subsidy to SC/ST MSEs for purchasing of plant \u0026 machinery/equipment through institutional finance (bank loan).",
+                        "tags":  [
+                                     "Plant \u0026 Machinery",
+                                     "Equipment",
+                                     "Subsidy",
+                                     "Financial Assistance",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Business \u0026 Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sclcss",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sui",
+                        "source_id":  "LBezF5gB5uF80_MGGY81",
+                        "slug":  "sui",
+                        "name":  "Stand-Up India",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Finance",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  "2025-03-31",
+                        "priority":  1,
+                        "description":  "A scheme by Ministry of Finance for financing SC/ST and  Women Entrepreneurs by facilitating bank loans for setting up a greenfield project  Enterprise in manufacturing, services, trading sector and activities allied to agriculture.",
+                        "tags":  [
+                                     "Loan",
+                                     "Entrepreneur",
+                                     "Finance",
+                                     "Business"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sui",
+                        "min_age":  18,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sisfs-fi",
+                        "source_id":  "x6Kd5pwBXu-iUKXqgUuK",
+                        "slug":  "sisfs-fi",
+                        "name":  "Startup India Seed Fund Scheme- For Incubators",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âStartup India Seed Fund Scheme (SISFS)â was launched by the DPIIT on 19th April 2021 to provide financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization.",
+                        "tags":  [
+                                     "Startup",
+                                     "Seed Fund",
+                                     "Incubator",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sisfs-fi",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sisfs-fs",
+                        "source_id":  "z6Km5pwBXu-iUKXqp0sd",
+                        "slug":  "sisfs-fs",
+                        "name":  "Startup India Seed Fund Scheme- For Startups",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme âStartup India Seed Fund Scheme (SISFS)â was launched by the DPIIT on 19th April 2021 with an outlay of INR 945 Crore to provide financial assistance to startups for Proof of Concept, prototype development, product trials, market-entry, and commercialization.",
+                        "tags":  [
+                                     "Startup",
+                                     "Seed Fund",
+                                     "Financial Assistance",
+                                     "Incubator",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sisfs-fs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "smbdlp",
+                        "source_id":  "f6HmF5gBXu-iUKXq33ha",
+                        "slug":  "smbdlp",
+                        "name":  "Sub-mission on Breed Development of Livestock and Poultry",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry of Fisheries,Animal Husbandry and Dairying",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Department of Animal Husbandry \u0026 Dairying introduced the National Livestock Mission as umbrella scheme. The \"Sub-mission on Breed Development of Livestock and Poultry\" is the realigned National Livestock Mission, which is the scheme\u0027s sub-mission.",
+                        "tags":  [
+                                     "Rural",
+                                     "Poultry",
+                                     "Farming",
+                                     "Livestock"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/smbdlp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tdfs",
+                        "source_id":  "sRiX-pwB5uF80_MG6mK5",
+                        "slug":  "tdfs",
+                        "name":  "Technology Development Fund (TDF) Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Defence",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Technology Development Fund (TDF) has been established to promote self-reliance in Defence Technology as a part of the \u0027Make in India\u0027 initiative.",
+                        "tags":  [
+                                     "Defence Technology",
+                                     "Financial Assistance",
+                                     "Defence Applications",
+                                     "MSMEs And Startups"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tdfs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "ttdf",
+                        "source_id":  "hBe5F5gB5uF80_MGSpAa",
+                        "slug":  "ttdf",
+                        "name":  "Telecom Technology Development Fund",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Science, IT \u0026 Communications",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Communication",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The Telecom Technology Development Fund Scheme (hereinafter referred to as âSchemeâ) has been\nnotified for domestic companies and institutions involved in technology design, development,\ncommercialization of telecommunication products and solutions to enable affordable broadband and mobile services.",
+                        "tags":  [
+                                     "Domestic Companies",
+                                     "Startups",
+                                     "Telecom In Rural",
+                                     "IPR Creation Mentoring",
+                                     "Pilot",
+                                     "Chipset",
+                                     "Grants",
+                                     "Atmanirbhar Bharat",
+                                     "Telecom In Remote Areas",
+                                     "MSMEs",
+                                     "Academic Institutions"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ttdf",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "tfrs",
+                        "source_id":  "xxfVF5gB5uF80_MGppLO",
+                        "slug":  "tfrs",
+                        "name":  "Testing Fee Reimbursement Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Micro, Small and Medium Enterprises",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme.",
+                        "tags":  [
+                                     "Business",
+                                     "Enterpremeurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tfrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "unnatidpiit",
+                        "source_id":  "3qL_IpsBXu-iUKXqLUHY",
+                        "slug":  "unnatidpiit",
+                        "name":  "Uttar Poorva Transformative Industrialization Scheme",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Commerce And Industry",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "Meghalaya",
+                                                  "Mizoram",
+                                                  "Manipur",
+                                                  "Tripura",
+                                                  "Arunachal Pradesh",
+                                                  "Sikkim",
+                                                  "Assam",
+                                                  "Nagaland"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The UNNATI (Uttar Poorva Transformative Industrialization Scheme), 2024, is a Government of India initiative for Northeastern region of India offering various incentives to the industries in both sectors Manufacturing and Service.",
+                        "tags":  [
+                                     "UNNATI",
+                                     "DPIIT",
+                                     "NER",
+                                     "Northeast"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/unnatidpiit",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "vcf-sc",
+                        "source_id":  "t8b8u5oB0AGc0F0iofpP",
+                        "slug":  "vcf-sc",
+                        "name":  "Venture Capital Fund for Scheduled Castes",
+                        "level":  "Central",
+                        "category":  "Business \u0026 Entrepreneurship",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to promote entrepreneurship among Scheduled Caste individuals by providing concessional finance. Benefits include investment ranging from â¹10,00,000/- to â¹15,00,00,000/- as debt or equity for eligible Private Limited or Public Limited companies.",
+                        "tags":  [
+                                     "Entrepreneur",
+                                     "Finance",
+                                     "Capital",
+                                     "Investment",
+                                     "Technology",
+                                     "Startup"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vcf-sc",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    }
+                ]
+}

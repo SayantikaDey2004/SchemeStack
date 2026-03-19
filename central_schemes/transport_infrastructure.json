@@ -1,0 +1,604 @@
+﻿{
+    "category":  "Transport \u0026 Infrastructure",
+    "level":  "Central",
+    "expected_count":  98,
+    "extracted_count":  19,
+    "schemes":  [
+                    {
+                        "id":  "ami",
+                        "source_id":  "-RjI_5wB5uF80_MGRmI8",
+                        "slug":  "ami",
+                        "name":  "Agricultural Marketing Infrastructure",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Agriculture and Farmers Welfare",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The revitalized and farmersâ income enhancing centric sub-scheme Agricultural Marketing Infrastructure (AMI) of Integrated Scheme for Agricultural Marketing (ISAM) is meant for holistic development of agricultural value chain critically focusing each linkage of post-harvest value chain.",
+                        "tags":  [
+                                     "Agricultural Marketing",
+                                     "Storage Infrastructure",
+                                     "Promoter",
+                                     "Farmer"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ami",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "a-gainer",
+                        "source_id":  "nBe0F5gB5uF80_MGE48H",
+                        "slug":  "a-gainer",
+                        "name":  "AICTE - Grant For Augmenting Infrastructure In North Eastern Region",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "Arunachal Pradesh",
+                                                  "Assam",
+                                                  "Manipur",
+                                                  "Nagaland",
+                                                  "Tripura",
+                                                  "Meghalaya",
+                                                  "Mizoram",
+                                                  "Sikkim"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme \"AICTE - Grant for Augmenting Infrastructure in North Eastern Region (GAINER)\" was introduced by AICTE to enhance the functional efficiency of the technical institutes located in far-flung areas of North East India, by addressing deficiencies in water, electricity, and internet.",
+                        "tags":  [
+                                     "Grant",
+                                     "Infrastructure"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/a-gainer",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "amrut",
+                        "source_id":  "sMazF5gB0AGc0F0iIDPU",
+                        "slug":  "amrut",
+                        "name":  "Atal Mission For Rejuvenation And Urban Transformation",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Transport \u0026 Infrastructure",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Housing \u0026 Urban Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Providing basic services (e.g. water supply, sewerage, urban transport) to households and building amenities in cities which will improve the quality of life for all, especially the poor and the disadvantaged is a national priority. \n\n",
+                        "tags":  [
+                                     "Basic Services",
+                                     "Parks",
+                                     "Green Space",
+                                     "Urban Transport",
+                                     "Non-Motorized",
+                                     "Sewerage",
+                                     "Septage Management",
+                                     "Storm Water",
+                                     "Drainage"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/amrut",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "e-yuvase-yuvac",
+                        "source_id":  "4hfVF5gB5uF80_MGvJKS",
+                        "slug":  "e-yuvase-yuvac",
+                        "name":  "E-YUVA Scheme: E-YUVA Centers",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Science And Technology",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "E-YUVA Centers are housed within the University/Institute set-up. It acts as an anchor and extends requisite support and mentoring to students. Each EYC has a BIRAC-supported pre-incubation space which offers infrastructure and equipment for basic research and experimentation by selected students.",
+                        "tags":  [
+                                     "E-YUVA",
+                                     "Centers",
+                                     "University",
+                                     "Institution",
+                                     "Bio-incubator",
+                                     "Infrastructure",
+                                     "Equipment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/e-yuvase-yuvac",
+                        "min_age":  3,
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gws",
+                        "source_id":  "c8aGMZgB0AGc0F0iGDiy",
+                        "slug":  "gws",
+                        "name":  "GROUP WORKSHED SCHEME ",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  null,
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The objective of the scheme is to facilitate the establishment of worksheds for shuttleless looms in an existing or new cluster, which will provide the required scale of economy for business operations.",
+                        "tags":  [
+                                     "New Cluster",
+                                     "Business Operations",
+                                     "Powerloom",
+                                     "Weaving"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gws",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gstecs",
+                        "source_id":  "Ihe3F5gB5uF80_MGNJAo",
+                        "slug":  "gstecs",
+                        "name":  "GST Exemption Certificate Scheme",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Utility \u0026 Sanitation"
+                                           ],
+                        "nodal_ministry":  "Ministry of Heavy Industries",
+                        "scheme_for":  "Individual",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"GST Exemption Certificate Scheme\" has been introduced by the Dept. of Heavy Industries, for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of car.",
+                        "tags":  [
+                                     "GST",
+                                     "Person With Disability",
+                                     "PwD",
+                                     "Concession",
+                                     "Certificate",
+                                     "Car"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gstecs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "hriday",
+                        "source_id":  "yRe5F5gB5uF80_MGz5Br",
+                        "slug":  "hriday",
+                        "name":  "HRIDAY: Heritage City Development \u0026 Augmentation Yojana",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched on 21st January 2015, the scheme \"National Heritage City Development and Augmentation Yojana\", also known as \"HRIDAY\" is a central sector scheme by the Ministry of Tourism. The scheme was introduced to bring together urban planning, economic growth, and heritage conservation.",
+                        "tags":  [
+                                     "Implementation",
+                                     "Heritage",
+                                     "Infrastructure",
+                                     "Cultural",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/hriday",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "i-mesa-cssu",
+                        "source_id":  "PRcQBpoB5uF80_MGWpXv",
+                        "slug":  "i-mesa-cssu",
+                        "name":  "Information, Monitoring, Evaluation and Social Audit (I-MESA): Central Smart Surveillance Unit (CSSU)",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Utility \u0026 Sanitation",
+                                               "Public Safety,Law \u0026 Justice"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The component aims to establish a Central Smart Surveillance Unit for continuous remote supervision of all Central Government-funded Grant-in-aid institutions and Training and Coaching centres using Closed-Circuit Television cameras and electronic devices.",
+                        "tags":  [
+                                     "Institution",
+                                     "Surveillance",
+                                     "Monitoring",
+                                     "Supervision",
+                                     "Grant"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/i-mesa-cssu",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "iats",
+                        "source_id":  "i8a3F5gB0AGc0F0iNjR9",
+                        "slug":  "iats",
+                        "name":  "Infrastructure and Technology Support ",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Textiles",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The sub-scheme âInfrastructure and Technology Supportâ aims to develop world-class infrastructure in the country to support handicraft production, enhance product quality, and reduce costs to enable it to compete in the global market. ",
+                        "tags":  [
+                                     "Infrastructure",
+                                     "Technology Support",
+                                     "Handicraft",
+                                     "Marketing And Sourcing Hub"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/iats",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "gcrsp-p2",
+                        "source_id":  "ZKGzF5gBXu-iUKXqF3RT",
+                        "slug":  "gcrsp-p2",
+                        "name":  "Phase-II Of The Grid Connected Rooftop Solar Programme",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of New and Renewable Energy",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "Jammu and Kashmir"
+                                              ],
+                        "close_date":  "2026-03-31",
+                        "priority":  3,
+                        "description":  "Phase-II of the Grid Connected Rooftop Solar Programme, this programme is introduced by Ministry of New \u0026 Renewable Energy(MNRE), GoI with JAKEDA as a nodal agency in the UT of J\u0026K  for achieving cumulative capacity  of 220MW under 20MW  Residential Scheme and 200 MW Jammu Solar City âSolar City.",
+                        "tags":  [
+                                     "Solar",
+                                     "Infrastructure"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gcrsp-p2",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "prashad",
+                        "source_id":  "56G5F5gBXu-iUKXqw3WU",
+                        "slug":  "prashad",
+                        "name":  "Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASHAD)",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Launched in 2014â2015, the scheme \"Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASAD)\" is a Central Sector Scheme by the Ministry of Tourism, Government of India. The scheme focuses on developing and identifying pilgrimage sites across India to enrich the religious tourism experience.",
+                        "tags":  [
+                                     "Pilgrimage",
+                                     "Rejuvenation",
+                                     "Heritage",
+                                     "Infrastructure",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/prashad",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmajay-ag",
+                        "source_id":  "LMZPdZkB0AGc0F0iHDkb",
+                        "slug":  "pmajay-ag",
+                        "name":  "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY) - Adarsh Gram",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Transport \u0026 Infrastructure",
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to achieve integrated development of selected villages primarily through implementation of existing Central and State Government schemes in a convergent manner, ensuring access to quality services and infrastructure development in villages having SC population more than 40%.",
+                        "tags":  [
+                                     "Village",
+                                     "Scheduled Caste",
+                                     "Infrastructure",
+                                     "Education",
+                                     "Employment",
+                                     "Healthcare",
+                                     "Sanitation",
+                                     "Livelihood",
+                                     "Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmajay-ag",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pmgsy",
+                        "source_id":  "KxezF5gB5uF80_MGGY8t",
+                        "slug":  "pmgsy",
+                        "name":  "Pradhan Mantri Gram Sadak Yojana",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Rural Development",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations.",
+                        "tags":  [
+                                     "Road",
+                                     "Rural"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmgsy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "pm-kusum",
+                        "source_id":  "7sa0F5gB0AGc0F0iEjNP",
+                        "slug":  "pm-kusum",
+                        "name":  "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers.",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Utility \u0026 Sanitation",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of New and Renewable Energy",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "Jammu and Kashmir"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Scheme) was launched in March 2019 by the Ministry of New and Renewable Energy (MNRE), to subsidize farmers to install solar irrigation pumps for cultivation. Each farmer will receive a 60% subsidy.",
+                        "tags":  [
+                                     "Solar",
+                                     "Farmer",
+                                     "Infrastructure",
+                                     "Utility"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pm-kusum",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sgfaarsaaowdfrs",
+                        "source_id":  "rBiD-pwB5uF80_MGmmI7",
+                        "slug":  "sgfaarsaaowdfrs",
+                        "name":  "Scheme for Grant of Financial Assistance for Administering Road Safety Advocacy and Awards for the Outstanding Work Done in the Field of Road Safety",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Road Transport \u0026 Highways",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The objective of the Scheme is to stimulate and encourage opportunities for various agencies through participation, in order to create awareness on road safety.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Road Safety",
+                                     "Advocacy",
+                                     "Award",
+                                     "NGO",
+                                     "Trust",
+                                     "Cooperative Society"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sgfaarsaaowdfrs",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sapaandsdasdsggiapfafsd",
+                        "source_id":  "TqG3F5gBXu-iUKXqM3Un",
+                        "slug":  "sapaandsdasdsggiapfafsd",
+                        "name":  "Scheme of Assistance for the Prevention of Alcoholism \u0026 Substance (Drugs) Abuse and for Social Defence Services: General Grant-in-Aid Programme for Financial Assistance in the Field of Social Defence",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Social Justice and Empowerment",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to meet needs falling within the mandate of the Ministry which cannot be met under its regular schemes and support such initiatives of an innovative/pilot nature in the area of welfare and empowerment of the Ministryâs target groups, as cannot be supported under its regular schemes.",
+                        "tags":  [
+                                     "Rehabilitation",
+                                     "Social Defence",
+                                     "Grant",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sapaandsdasdsggiapfafsd",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sdaccb",
+                        "source_id":  "JBeNmpkB5uF80_MGE5XJ",
+                        "slug":  "sdaccb",
+                        "name":  "Scheme of Development Assistance to Colleges for the Construction of Buildings",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  "Ministry of Education",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to provide development assistance to Colleges to help in the consolidation and expansion of infrastructure. Financial assistance is provided to eligible Colleges for the construction and renovation of essential buildings like classrooms, laboratories, and hostels.",
+                        "tags":  [
+                                     "College",
+                                     "Construction",
+                                     "Building",
+                                     "Grant",
+                                     "Infrastructure",
+                                     "Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sdaccb",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "sfaifiinp",
+                        "source_id":  "Mca1epkB0AGc0F0i_TkL",
+                        "slug":  "sfaifiinp",
+                        "name":  "Scheme of Financial Assistance to IHMs/FCIs/IITTM/ICI/NCHMCT/PSUs",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Travel \u0026 Tourism",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Tourism",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The scheme aims to provide Central Financial Assistance for setting up, expanding, upgrading, and replacing equipment for institutions involved in tourism and hospitality education and capacity building. Benefits include capital grants for construction and equipment.",
+                        "tags":  [
+                                     "Institute",
+                                     "Society",
+                                     "Construction",
+                                     "Upgradation",
+                                     "Equipment",
+                                     "Hospitality",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfaifiinp",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "Not specified"
+                    },
+                    {
+                        "id":  "swsvy",
+                        "source_id":  "baJp9pwBXu-iUKXqPkwG",
+                        "slug":  "swsvy",
+                        "name":  "Shahari Waqf Sampatti Vikas Yojana",
+                        "level":  "Central",
+                        "category":  "Transport \u0026 Infrastructure",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  "Ministry Of Minority Affairs",
+                        "scheme_for":  "Infra",
+                        "beneficiary_state":  [
+                                                  "All"
+                                              ],
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "Under the scheme, interest free loan to Waqf Boards (WBs)/waqf institutions is granted to various Waqf Boards and Waqf Institutions in the country for construction of economically viable buildings on the Waqf land, such as commercial complex, marriage halls, hospitals, cold storage etc..",
+                        "tags":  [
+                                     "Waqf Boards",
+                                     "Interest Free Loan",
+                                     "Waqf Institutions",
+                                     "Waqf Property",
+                                     "Grant In Aid"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/swsvy",
+                        "min_age":  "Not specified",
+                        "max_age":  "Not specified",
+                        "income_limit":  "The augmented income generated from these developments will be utilized by WBs and Waqf institutions to strengthen their financial position and expand the scope of their welfare and charitable activities."
+                    }
+                ]
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Agriculture,Rural & Environment",
+    "count": 833,
+    "file": "central_schemes/agriculture_rural_environment.json"
+  },
+  {
+    "category": "Banking,Financial Services and Insurance",
+    "count": 322,
+    "file": "central_schemes/banking_financial_services_insurance.json"
+  },
+  {
+    "category": "Business & Entrepreneurship",
+    "count": 723,
+    "file": "central_schemes/business_entrepreneurship.json"
+  },
+  {
+    "category": "Education & Learning",
+    "count": 1092,
+    "file": "central_schemes/education_learning.json"
+  },
+  {
+    "category": "Health & Wellness",
+    "count": 283,
+    "file": "central_schemes/health_wellness.json"
+  },
+  {
+    "category": "Housing & Shelter",
+    "count": 130,
+    "file": "central_schemes/housing_shelter.json"
+  },
+  {
+    "category": "Public Safety,Law & Justice",
+    "count": 29,
+    "file": "central_schemes/public_safety_law_justice.json"
+  },
+  {
+    "category": "Science, IT & Communications",
+    "count": 103,
+    "file": "central_schemes/science_it_communications.json"
+  },
+  {
+    "category": "Skills & Employment",
+    "count": 379,
+    "file": "central_schemes/skills_employment.json"
+  },
+  {
+    "category": "Social welfare & Empowerment",
+    "count": 1465,
+    "file": "central_schemes/social_welfare_empowerment.json"
+  },
+  {
+    "category": "Sports & Culture",
+    "count": 256,
+    "file": "central_schemes/sports_culture.json"
+  },
+  {
+    "category": "Transport & Infrastructure",
+    "count": 98,
+    "file": "central_schemes/transport_infrastructure.json"
+  },
+  {
+    "category": "Travel & Tourism",
+    "count": 94,
+    "file": "central_schemes/travel_tourism.json"
+  },
+  {
+    "category": "Utility & Sanitation",
+    "count": 58,
+    "file": "central_schemes/utility_sanitation.json"
+  },
+  {
+    "category": "Women and Child",
+    "count": 463,
+    "file": "central_schemes/women_child.json"
+  }
+]
