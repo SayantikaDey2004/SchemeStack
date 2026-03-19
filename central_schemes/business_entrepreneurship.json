@@ -335,8 +335,8 @@
                                      "Cash Prize"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/bsa",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  25,
+                        "max_age":  60,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -434,7 +434,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cuy",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant will not be subject to any income ceiling for receiving assistance under the scheme."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "cvy-citus",
@@ -870,7 +870,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -961,7 +961,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/irdpp-rihrdu",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant should have a regular source of income for at least the last two years to sustain the business and this needs to be elaborated in the application."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "idex",
@@ -1321,7 +1321,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-msy",
                         "min_age":  18,
                         "max_age":  55,
-                        "income_limit":  "Applicable to Women from low-income families or women who belong to SC/ST/OBC categories as notified by the Central/State Government and whose family income is less than Rupees three lakhs per annum."
+                        "income_limit":  "family income is less than Rupees three lakhs per annum"
                     },
                     {
                         "id":  "mcfnsfdc",
@@ -1352,7 +1352,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/mcfnsfdc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant\u0026amp;#39;s annual family income should be less than â¹3,00,000/-, both in rural and urban areas w.e.f."
+                        "income_limit":  "family income should be less than â¹3,00,000/-, both in rural and urban areas w"
                     },
                     {
                         "id":  "mmdas",
@@ -1700,9 +1700,9 @@
                                      "Financial Assistance"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nssw",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual **Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
                     },
                     {
                         "id":  "nebps",
@@ -1999,8 +1999,8 @@
                                      "Minorities"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-vikas",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2034,7 +2034,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmegp",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "There will be no income ceiling for assistance in setting up projects under PMEGP."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "prism-c1-pcpm",
@@ -2248,8 +2248,8 @@
                                      "Funding"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ssscstsssu",
-                        "min_age":  5,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2560,7 +2560,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sisfs-fs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  2,
                         "income_limit":  "Not specified"
                     },
                     {

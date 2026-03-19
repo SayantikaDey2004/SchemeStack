@@ -287,7 +287,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -511,7 +511,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/irdpp-rihrdu",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant should have a regular source of income for at least the last two years to sustain the business and this needs to be elaborated in the application."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "inspire-ff",
@@ -572,7 +572,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/jcbs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  68,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -754,8 +754,8 @@
                                      "Citizen Of India"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ngiaotk",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  17,
+                        "max_age":  18,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1931,8 +1931,8 @@
                                      "Research"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/widushi",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     }
                 ]

@@ -33,7 +33,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/asyadcf",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  25,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -64,7 +64,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/bydbta",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicantâs annual income should not exceed â¹1,00,000."
+                        "income_limit":  "annual income should not exceed â¹1,00,000"
                     },
                     {
                         "id":  "cfpgs",
@@ -339,7 +339,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nhdp-dba-saic",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The annual income of the artisan should not exceed â¹1,00,000/- in the preceding financial year."
+                        "income_limit":  "annual income of the artisan should not exceed â¹1,00,000/- in the preceding financial year"
                     },
                     {
                         "id":  "nhdp-randds",
@@ -492,7 +492,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sfava",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The personal income of the applicant (including the income of the spouse) must not exceed â¹4,000/- per month or an annual income of â¹48,000/-."
+                        "income_limit":  "income of the applicant (including the income of the spouse) must not exceed â¹4,000/- per month or an annual income of â¹48,000/-"
                     },
                     {
                         "id":  "itsp",
@@ -582,7 +582,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sby",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "A Public Trust or society or body corporate or organization, or institution covered under the provisions of section 10 (23BBA) of the Income Tax Act, 1961 (as amended from time to time) or registered under the provisions of section 12AA of the Income Tax Act, 1961, for charitable/religious purposes, or a company formed and registered under the provisions of section 8 of the Companies Act, 2013 or section 25 of the Companies Act, 1956, as the case may be, for charitable/ religious purposes or a Public Trust registered as such for charitable/religious purposes under any Law for the time being in force, or a society registered under the Societies Registration Act, 1860, for charitable/religious purposes."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "tnfcr",

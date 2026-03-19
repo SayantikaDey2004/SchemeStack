@@ -399,7 +399,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-u",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The family identifies as one of the following - a) Economically Weaker Section (EWS): households with annual income up to â¹ 3,00,000."
+                        "income_limit":  "annual income up to â¹ 3,00,000"
                     },
                     {
                         "id":  "pm-kusum",
@@ -462,7 +462,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
                         "min_age":  19,
                         "max_age":  "Not specified",
-                        "income_limit":  "Women whose net family income is less than Rs."
+                        "income_limit":  "family income is less than Rs"
                     },
                     {
                         "id":  "pmuy",
@@ -521,7 +521,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pahal-dbtl",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The combined taxable income of the applicant and their spouse should not exceed â¹10,00,000 in the previous financial year, as per the Income Tax Act, 1961."
+                        "income_limit":  "income of the applicant and their spouse should not exceed â¹10,00,000 in the previous financial year, as per the Income Tax Act, 1961"
                     },
                     {
                         "id":  "sbm-g-ii",

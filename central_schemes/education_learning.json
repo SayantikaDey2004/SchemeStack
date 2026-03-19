@@ -67,7 +67,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/iu-sss-ner",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The parental annual income of the applicant should not exceed â¹4,50,000/- per annum from all sources."
+                        "income_limit":  "annual income of the applicant should not exceed â¹4,50,000/- per annum from all sources"
                     },
                     {
                         "id":  "a2ks",
@@ -266,7 +266,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sak-deg",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Family income from all sources should not be more than Rs."
+                        "income_limit":  "Family income from all sources should not be more than Rs. 8 lakh per annum during the current financial year"
                     },
                     {
                         "id":  "sak-dip",
@@ -294,7 +294,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sak-dip",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Family income from all sources should not be more than â¹ 8 lakh per annum during the current financial year."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "essstj",
@@ -323,8 +323,8 @@
                                      "Bentham Science"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/essstj",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -439,8 +439,8 @@
                                      "Visiting Professorship"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/dvps",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  40,
+                        "max_age":  75,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -673,7 +673,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/aicte-ssss",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The family income from all sources should not be more than â¹8,00,000 per annum during the financial year of the application."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "atbwt",
@@ -794,7 +794,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/avowwobc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The beneficiary\u0026#39;s annual family income should not exceed â¹1,00,000/-.."
+                        "income_limit":  "family income should not exceed â¹1,00,000/-"
                     },
                     {
                         "id":  "asyadcf",
@@ -825,7 +825,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/asyadcf",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  25,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1070,7 +1070,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/csspostmsossi",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The employed applicant should be eligible to the extent of reimbursement of all compulsorily payable non-refundable fees if their income, combined with the income of their parents/guardians, does not exceed Rs."
+                        "income_limit":  "income, combined with the income of their parents/guardians, does not exceed Rs"
                     },
                     {
                         "id":  "csspremsobcsi",
@@ -1101,7 +1101,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/csspremsobcsi",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "income from all sources does not exceed â¹ 2,50,000/- per annum."
+                        "income_limit":  "income from all sources does not exceed â¹ 2,50,000/- per annum"
                     },
                     {
                         "id":  "css-umscs",
@@ -1164,7 +1164,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pre-sc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Income of parents/guardian of the applicant must be less than or equal to â¹ 2.5 lakh per annum."
+                        "income_limit":  "Income of parents/guardian of the applicant must be less than or equal to â¹ 2"
                     },
                     {
                         "id":  "cife-if",
@@ -1436,7 +1436,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/dacssiselosobcebc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total income of the applicant (from all sources) shall not exceed â¹ 8,00,000 per annum."
+                        "income_limit":  "income of the applicant (from all sources) shall not exceed â¹ 8,00,000 per annum"
                     },
                     {
                         "id":  "dacsspostmsebcs",
@@ -1467,7 +1467,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/dacsspostmsebcs",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Employed students whose income combined with the income of their parents/guardians does not exceed â¹ 1,00,000 per annum shall be eligible for post-matric scholarships to the extent of reimbursement of all compulsorily payable non-refundable fees."
+                        "income_limit":  "income combined with the income of their parents/guardians does not exceed â¹ 1,00,000 per annum shall be eligible for post-matric scholarships to the extent of reimbursement of all compulsoril"
                     },
                     {
                         "id":  "dafecs",
@@ -1584,7 +1584,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/els",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Individuals, Partnership Firms, and Co-operative Societies can undertake income-generating activities."
+                        "income_limit":  "family income of each member/applicant should not exceed Rs"
                     },
                     {
                         "id":  "els-nsfdc",
@@ -1616,7 +1616,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/els-nsfdc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant\u0026amp;#39;s annual family income should be less than â¹3,00,000/-, both in rural and urban areas."
+                        "income_limit":  "family income should be less than â¹3,00,000/-, both in rural and urban areas"
                     },
                     {
                         "id":  "ef",
@@ -1705,7 +1705,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fssdu",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- Family income of the studentâs should be less than â¹ 8,00,000/-."
+                        "income_limit":  "Family income of the studentâs should be less than â¹ 8,00,000/-"
                     },
                     {
                         "id":  "necms",
@@ -1739,7 +1739,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/necms",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total annual income of the applicant\u0026#39;s parents/guardian (from all sources) shall not exceed â¹8,00,000/-."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "fssaiis",
@@ -1829,7 +1829,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fcssos",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total annual family income of the applicant (from all sources) should be â¹8,00,000/- or less."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "fcfswd",
@@ -1857,7 +1857,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fcfswd",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Student family income should not be more than â¹ 6,00,000/- per annum."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "freecoach",
@@ -1887,7 +1887,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/freecoach",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant\u0026#39;s total family income from all sources should be â¹2,50,000/- or less per annum."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "fesmwpnie",
@@ -1949,7 +1949,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1981,7 +1981,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fspip",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The incentive program is open to all Indian citizens, regardless of their age, educational qualification, or income level."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "goc",
@@ -2006,8 +2006,8 @@
                                      "Conference"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/goc",
-                        "min_age":  7,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2181,8 +2181,8 @@
                                      "Agricultural"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/icar-npanf",
-                        "min_age":  8,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2240,7 +2240,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/icmr-pdf",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  5,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2302,8 +2302,8 @@
                                      "Stipend"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/icroaip",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  18,
+                        "max_age":  45,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -2695,8 +2695,8 @@
                                      "School"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/iamanak",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  10,
+                        "max_age":  15,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -3167,7 +3167,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/jcbs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  68,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -3591,7 +3591,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/mcms-ugsvb-aass",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "annual income does not exceed â¹1,00,000 to be eligible for the scholarship."
+                        "income_limit":  "annual income does not exceed â¹1,00,000 to be eligible for the scholarship"
                     },
                     {
                         "id":  "modrob",
@@ -3616,8 +3616,8 @@
                                      "Institution"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/modrob",
-                        "min_age":  5,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -3805,7 +3805,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nfandshests",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "(iii) There are no income criteria for eligibility in respect of this scholarship."
+                        "income_limit":  "family income of the student to be eligible for this scholarship from all sources should not exceed â¹6,00,000 per annum"
                     },
                     {
                         "id":  "nfos",
@@ -3919,7 +3919,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nmmss",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Students whose parental income from all sources is not more than â¹3,50,000/- per annum are eligible to avail the scholarship."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "nos-sc",
@@ -3953,7 +3953,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nos-sc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total income of the family of the applicant (from all sources) is less than or equal to â¹ 8 lakh per annum."
+                        "income_limit":  "income of the family of the applicant (from all sources) is less than or equal to â¹ 8 lakh per annum"
                     },
                     {
                         "id":  "css-nos-st",
@@ -3982,7 +3982,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/css-nos-st",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The annual income of the family of the applicant (from all sources) should not be greater than â¹ 6,00,000/-."
+                        "income_limit":  "family income from all sources does not exceed â¹ 6,00,000/- (Rupees Six lakhs only) per annum"
                     },
                     {
                         "id":  "nos-swd",
@@ -4016,7 +4016,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nos-swd",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Family Income of the applicant (from all sources) must not exceed â¹ 6 lakh per annum."
+                        "income_limit":  "Family Income of the applicant (from all sources) must not exceed â¹ 6 lakh per annum"
                     },
                     {
                         "id":  "nrefhrdnre",
@@ -4418,7 +4418,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ppma",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Student\u0026#39;s family income must not exceed â¹ 6,00,000 per annum."
+                        "income_limit":  "family income must not exceed â¹ 6,00,000 per annum"
                     },
                     {
                         "id":  "pecfar",
@@ -4607,7 +4607,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-yasasvipmsobcebcdnts",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Employed students whose income combined with the income of their parents/guardians does not exceed â¹2.50 lakhs per annum shall be eligible for post-matric scholarship."
+                        "income_limit":  "income combined with the income of their parents/guardians does not exceed â¹2"
                     },
                     {
                         "id":  "pmyasasvipmsobcebcdnts",
@@ -4639,7 +4639,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmyasasvipmsobcebcdnts",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Scholarship award will be sanctioned in the case of students whose parents/guardians income from all sources does not exceed â¹2,50,000/- per annum."
+                        "income_limit":  "income from all sources does not exceed â¹2,50,000/- per annum"
                     },
                     {
                         "id":  "pm-yasasvitcceobcebcdnts",
@@ -4673,7 +4673,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-yasasvitcceobcebcdnts",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Those OBC/EBC/DNT students having total annual family income from all sources up to â¹2.50 lakhs and have secured admission in a full-time prescribed course in any of the notified institutions according to the general selection criteria prescribed by the concerned institution, will be eligible for a scholarship under the Scheme to the extent of the number of scholarships (slots) allocated to the institution for the course."
+                        "income_limit":  "family income from all sources up to â¹2"
                     },
                     {
                         "id":  "pm-yasasvitcseobcebcdnts",
@@ -4706,7 +4706,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-yasasvitcseobcebcdnts",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "All the OBC, EBC, and DNT students studying in the Top Class Schools identified as per the modalities of the scheme with a household annual income of less than â¹2.5 lakhs would be eligible for the scheme."
+                        "income_limit":  "annual income of less than â¹2"
                     },
                     {
                         "id":  "pdfscstc",
@@ -4886,7 +4886,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/post-st",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "From the academic year 1980-81, employed students whose income combined with the income of their parents/guardians does not exceed the maximum prescribed income ceiling are made eligible for post-matric scholarships to the extent of reimbursement of all compulsorily payable non-refundable fees."
+                        "income_limit":  "income combined with the income of their parents/guardians does not exceed the maximum prescribed income ceiling are made eligible for post-matric scholarships to the extent of reimbursement of"
                     },
                     {
                         "id":  "post-dis",
@@ -4920,7 +4920,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/post-dis",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2.50 Lakh per Annum."
+                        "income_limit":  "Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2"
                     },
                     {
                         "id":  "pdf",
@@ -5009,7 +5009,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmsfss",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "income from all sources does not exceed â¹ 2,50,000/- per annum."
+                        "income_limit":  "income from all sources does not exceed â¹ 2,50,000/- per annum"
                     },
                     {
                         "id":  "pmgdisha",
@@ -5069,7 +5069,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/csss-cus",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The gross parental/ family income of the applicant should not exceed â¹4,50,000/- per annum."
+                        "income_limit":  "family income of the applicant should not exceed â¹4,50,000/- per annum"
                     },
                     {
                         "id":  "pm-usp-sssjkl",
@@ -5098,7 +5098,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-usp-sssjkl",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The family income of the Candidate should be less than or equal to â¹8,00,000 per annum."
+                        "income_limit":  "family income of the Candidate should be less than or equal to â¹8,00,000 per annum"
                     },
                     {
                         "id":  "pm-uspycsiss",
@@ -5131,7 +5131,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-uspycsiss",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to â¹4.5 lakhs per annum from all sources."
+                        "income_limit":  "family income up to â¹4"
                     },
                     {
                         "id":  "pmvky",
@@ -5163,7 +5163,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmvky",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicant\u0026#39;s parental annual income must be up to â¹2,50,000/-."
+                        "income_limit":  "annual income must be up to â¹2,50,000/-"
                     },
                     {
                         "id":  "pmvs",
@@ -5194,7 +5194,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmvs",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicant must have an annual family income of up to â¹8,00,000 to qualify for 3% interest subvention."
+                        "income_limit":  "family income of up to â¹8,00,000 to qualify for 3% interest subvention"
                     },
                     {
                         "id":  "pm-vikas",
@@ -5225,8 +5225,8 @@
                                      "Minorities"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-vikas",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -5260,7 +5260,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-deg",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000/- per annum** during the current financial year.1."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "psgs-dip",
@@ -5294,7 +5294,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-dip",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000 per annum** during the current financial year.1."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "pre-st",
@@ -5329,7 +5329,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pre-st",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2.50 Lakh per Annum."
+                        "income_limit":  "Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2"
                     },
                     {
                         "id":  "pre-dis",
@@ -5364,7 +5364,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pre-dis",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2.00 Lakh per Annum."
+                        "income_limit":  "Annual income of parents/guardians of the applicant (from all sources) must not exceed â¹ 2"
                     },
                     {
                         "id":  "pmsssc",
@@ -5392,7 +5392,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmsssc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Parent/Guardian of applicant students income should not exceed Rs."
+                        "income_limit":  "income should not exceed Rs"
                     },
                     {
                         "id":  "pmrs",
@@ -5420,7 +5420,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmrs",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Annual income of the parents/guardians of the students upto Rs."
+                        "income_limit":  "Annual income of the parents/guardians of the students upto Rs"
                     },
                     {
                         "id":  "pmscteoicphh",
@@ -6138,8 +6138,8 @@
                                      "Funding"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ssscstsssu",
-                        "min_age":  5,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -6199,7 +6199,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/safaew-bcew",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total monthly Income of the Workerâs family from all sources should not exceed under:- Beedi Workers - â¹10,000/-;"
+                        "income_limit":  "Income of the Workerâs family from all sources should not exceed under"
                     },
                     {
                         "id":  "scafe",
@@ -6259,7 +6259,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/seed-ee",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicant must have total family income from all sources of â¹2,50,000/- or less per annum."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "sgrcsl",
@@ -6326,7 +6326,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/shrestha-m1-ssbcprs",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The income of the parents of the applicant must not exceed â¹2,50,000/- per year."
+                        "income_limit":  "income of the parents of the applicant must not exceed â¹2,50,000/- per year"
                     },
                     {
                         "id":  "shreshta-m2-ngoos",
@@ -6695,7 +6695,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/stfhrdphr",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  55,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -7273,7 +7273,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/tce-sc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual Family Income of the applicant must be less than or equal to â¹ 8 Lakh per Annum."
+                        "income_limit":  "Family Income of the applicant must be less than or equal to â¹ 8 Lakh per Annum"
                     },
                     {
                         "id":  "tce-swd",
@@ -7305,7 +7305,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/tce-swd",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual Income of the Parent / Guardian should be less than or equal to â¹ 6.00 Lakh per Annum."
+                        "income_limit":  "Annual Income of the Parent / Guardian should be less than or equal to â¹ 6"
                     },
                     {
                         "id":  "tgsctclvccmuo",
@@ -7647,8 +7647,8 @@
                                      "Skill"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/vetls",
-                        "min_age":  18,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {

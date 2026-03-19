@@ -122,7 +122,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/bydbta",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicantâs annual income should not exceed â¹1,00,000."
+                        "income_limit":  "annual income should not exceed â¹1,00,000"
                     },
                     {
                         "id":  "otsdfpc",
@@ -188,8 +188,8 @@
                                      "Coconut Grower"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cpis",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -285,7 +285,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/dacssiselosobcebc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total income of the applicant (from all sources) shall not exceed â¹ 8,00,000 per annum."
+                        "income_limit":  "income of the applicant (from all sources) shall not exceed â¹ 8,00,000 per annum"
                     },
                     {
                         "id":  "els",
@@ -314,7 +314,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/els",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Individuals, Partnership Firms, and Co-operative Societies can undertake income-generating activities."
+                        "income_limit":  "family income of each member/applicant should not exceed Rs"
                     },
                     {
                         "id":  "els-nsfdc",
@@ -346,7 +346,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/els-nsfdc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant\u0026amp;#39;s annual family income should be less than â¹3,00,000/-, both in rural and urban areas."
+                        "income_limit":  "family income should be less than â¹3,00,000/-, both in rural and urban areas"
                     },
                     {
                         "id":  "els-nmdfc",
@@ -372,7 +372,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/els-nmdfc",
                         "min_age":  "Not specified",
                         "max_age":  5,
-                        "income_limit":  "b) The annual family income limit is: Up to Rs."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "faishl",
@@ -437,7 +437,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -586,8 +586,8 @@
                                      "Below Poverty Line - BPL"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ignwps",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  40,
+                        "max_age":  79,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -977,7 +977,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-msy",
                         "min_age":  18,
                         "max_age":  55,
-                        "income_limit":  "Applicable to Women from low-income families or women who belong to SC/ST/OBC categories as notified by the Central/State Government and whose family income is less than Rupees three lakhs per annum."
+                        "income_limit":  "family income is less than Rupees three lakhs per annum"
                     },
                     {
                         "id":  "mcfnsfdc",
@@ -1008,7 +1008,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/mcfnsfdc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The applicant\u0026amp;#39;s annual family income should be less than â¹3,00,000/-, both in rural and urban areas w.e.f."
+                        "income_limit":  "family income should be less than â¹3,00,000/-, both in rural and urban areas w"
                     },
                     {
                         "id":  "mfs-nmdfc",
@@ -1034,7 +1034,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/mfs-nmdfc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "c) The annual family income of each beneficiary must not exceed: Rs."
+                        "income_limit":  "family income of each beneficiary must not exceed"
                     },
                     {
                         "id":  "msc",
@@ -1188,7 +1188,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nbcfdc-gls",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual Family Income of the applicant must be Less than â¹ 3 Lakh per Annum."
+                        "income_limit":  "Family Income of the applicant must be Less than â¹ 3 Lakh per Annum"
                     },
                     {
                         "id":  "nssw",
@@ -1220,9 +1220,9 @@
                                      "Financial Assistance"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nssw",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual **Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
                     },
                     {
                         "id":  "npsvs",
@@ -1611,7 +1611,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-uspycsiss",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to â¹4.5 lakhs per annum from all sources."
+                        "income_limit":  "family income up to â¹4"
                     },
                     {
                         "id":  "pmvs",
@@ -1642,7 +1642,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmvs",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicant must have an annual family income of up to â¹8,00,000 to qualify for 3% interest subvention."
+                        "income_limit":  "family income of up to â¹8,00,000 to qualify for 3% interest subvention"
                     },
                     {
                         "id":  "pbby",
@@ -1706,7 +1706,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmegp",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "There will be no income ceiling for assistance in setting up projects under PMEGP."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "rmas",
@@ -1825,7 +1825,7 @@
                                      "Finance"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/scss",
-                        "min_age":  "Not specified",
+                        "min_age":  55,
                         "max_age":  60,
                         "income_limit":  "Not specified"
                     },
@@ -1975,7 +1975,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/tls-nmdfc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "b) The annual family income should not exceed: Rs."
+                        "income_limit":  "family income should not exceed"
                     },
                     {
                         "id":  "vls-nmdfc",
@@ -2001,7 +2001,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/vls-nmdfc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "b) The annual family income of the applicant shall not exceed: Rs."
+                        "income_limit":  "family income of the applicant shall not exceed"
                     },
                     {
                         "id":  "vetls",
@@ -2030,8 +2030,8 @@
                                      "Skill"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/vetls",
-                        "min_age":  18,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     }
                 ]

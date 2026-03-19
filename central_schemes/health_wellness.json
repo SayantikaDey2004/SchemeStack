@@ -215,7 +215,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ab-pmjay",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Landless households deriving a major part of their income from manual casual labour - Automatically includedHouseholds without shelter 1."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "affdf",
@@ -279,7 +279,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -310,7 +310,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/hmdg",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual Family Income of the applicant must not exceed â¹1,00,000/- per annum."
+                        "income_limit":  "Family Income of the applicant must not exceed â¹1,00,000/- per annum"
                     },
                     {
                         "id":  "icwf",
@@ -516,8 +516,8 @@
                                      "Good Citizens"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nya",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  15,
+                        "max_age":  29,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -770,7 +770,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
                         "min_age":  19,
                         "max_age":  "Not specified",
-                        "income_limit":  "Women whose net family income is less than Rs."
+                        "income_limit":  "family income is less than Rs"
                     },
                     {
                         "id":  "pmsma",
@@ -893,8 +893,8 @@
                                      "Empowerment"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sag",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  11,
+                        "max_age":  14,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -925,7 +925,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/jiyo-parsi",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "(ii) For Medical component annual family income should be less than Rs 30 lakh."
+                        "income_limit":  "family income should be less than Rs 30 lakh"
                     },
                     {
                         "id":  "cmhtp-crwtp-smile",
@@ -983,8 +983,8 @@
                                      "Health"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/suman",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  0,
+                        "max_age":  6,
                         "income_limit":  "Not specified"
                     },
                     {

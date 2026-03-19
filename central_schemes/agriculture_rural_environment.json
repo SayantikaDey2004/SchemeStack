@@ -60,8 +60,8 @@
                                      "Extension"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ae",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  18,
+                        "max_age":  60,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -191,8 +191,8 @@
                                      "Coconut Grower"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cpis",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -614,7 +614,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ffs",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  10,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -673,8 +673,8 @@
                                      "Stipend"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/icroaip",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  18,
+                        "max_age":  45,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1721,7 +1721,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmvky",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The applicant\u0026#39;s parental annual income must be up to â¹2,50,000/-."
+                        "income_limit":  "annual income must be up to â¹2,50,000/-"
                     },
                     {
                         "id":  "pmrdfs",

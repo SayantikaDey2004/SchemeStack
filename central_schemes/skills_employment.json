@@ -33,8 +33,8 @@
                                      "Indian Army"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ay",
-                        "min_age":  17.5,
-                        "max_age":  23,
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -226,7 +226,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/avowwobc",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The beneficiary\u0026#39;s annual family income should not exceed â¹1,00,000/-.."
+                        "income_limit":  "family income should not exceed â¹1,00,000/-"
                     },
                     {
                         "id":  "bfa",
@@ -658,8 +658,8 @@
                                      "EPFO"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/eps",
-                        "min_age":  10,
-                        "max_age":  58,
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -722,7 +722,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fanf-pwd",
                         "min_age":  2,
                         "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual Income of Family (from all sources) of the applicant must not exceed - â¹ 3.00 Lakh per Annum (if participating in National Events and National IT Challenge);"
+                        "income_limit":  "Annual Income of Family (from all sources) of the applicant must not exceed - â¹ 3"
                     },
                     {
                         "id":  "fspip",
@@ -753,7 +753,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/fspip",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The incentive program is open to all Indian citizens, regardless of their age, educational qualification, or income level."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "icar-ep",
@@ -1061,7 +1061,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ncscscst",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "- The family annual income of the applicant should not be more than â¹3,00,000/- per annum."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "nccsra",
@@ -1671,8 +1671,8 @@
                                      "Minorities"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pm-vikas",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1704,7 +1704,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmis",
                         "min_age":  21,
                         "max_age":  24,
-                        "income_limit":  "The candidate family income should not exceed â¹8,00,000/-."
+                        "income_limit":  "family income should not exceed â¹8,00,000/-"
                     },
                     {
                         "id":  "pmrdfs",
@@ -1768,7 +1768,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmegp",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "There will be no income ceiling for assistance in setting up projects under PMEGP."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "rgsaip",
@@ -1889,7 +1889,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sdesdm",
                         "min_age":  17,
                         "max_age":  "Not specified",
-                        "income_limit":  "\u003e **Reservation / Preference:** - 60% seats: General Category - 40% seats: Reserved Categories - SC: 15% - ST: 7.5% - EWS: 17.5% - EWS Criteria: - The applicantâs family income should not exceed â¹2,00,000/- annually."
+                        "income_limit":  "family income should not exceed â¹2,00,000/- annually"
                     },
                     {
                         "id":  "sarsjr",
@@ -1951,7 +1951,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/safaew-bcew",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The total monthly Income of the Workerâs family from all sources should not exceed under:- Beedi Workers - â¹10,000/-;"
+                        "income_limit":  "Income of the Workerâs family from all sources should not exceed under"
                     },
                     {
                         "id":  "sutsesdm",
@@ -2133,9 +2133,9 @@
                                      "Training"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/smile-skill-and-training",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
-                        "income_limit":  "- There is no income criterion for selection in the skill development programme."
+                        "min_age":  18,
+                        "max_age":  45,
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "secoii",
@@ -2316,8 +2316,8 @@
                                      "Skill"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/vetls",
-                        "min_age":  18,
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     },
                     {

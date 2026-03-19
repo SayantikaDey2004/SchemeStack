@@ -100,7 +100,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/chobcbg",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Other things, being equal preference will be given to OBC students hailing from low-income families."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "clssmig",
@@ -131,7 +131,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/clssmig",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "In in case of a married couple, either of the spouses or both together in joint ownership will be eligible for a single house, subject to the income eligibility of the household under the Scheme."
+                        "income_limit":  "Income Group-I (MIG-I) - annual household income exceeding â¹6 lakhs and up to â¹12 lakhs seeking housing loans from Banks, Housing Finance Companies (HFCs), and other such institutions for acquiri"
                     },
                     {
                         "id":  "dddrs",
@@ -322,7 +322,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-g",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "Landless Households deriving the major part of their income from manual casual labor vi."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "pmay-u",
@@ -353,7 +353,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmay-u",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The family identifies as one of the following - a) Economically Weaker Section (EWS): households with annual income up to â¹ 3,00,000."
+                        "income_limit":  "annual income up to â¹ 3,00,000"
                     },
                     {
                         "id":  "rraslrrc",

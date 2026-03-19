@@ -62,8 +62,8 @@
                                      "Good Citizens"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nya",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  15,
+                        "max_age":  29,
                         "income_limit":  "Not specified"
                     },
                     {

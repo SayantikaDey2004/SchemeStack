@@ -89,8 +89,8 @@
                                      "Below Poverty Line - BPL"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/ignwps",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  40,
+                        "max_age":  79,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -322,7 +322,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/cbssc-msy",
                         "min_age":  18,
                         "max_age":  55,
-                        "income_limit":  "Applicable to Women from low-income families or women who belong to SC/ST/OBC categories as notified by the Central/State Government and whose family income is less than Rupees three lakhs per annum."
+                        "income_limit":  "family income is less than Rupees three lakhs per annum"
                     },
                     {
                         "id":  "mvcppsacws",
@@ -349,9 +349,9 @@
                                      "Child Protection"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/mvcppsacws",
-                        "min_age":  "Not specified",
-                        "max_age":  18,
-                        "income_limit":  "The applicant caregiver family shall be eligible for financial support if the annual family income is below â¹8 lakh per annum or as prescribed by the Ministry of WCD from time to time."
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
+                        "income_limit":  "family income is below â¹8 lakh per annum or as prescribed by the Ministry of WCD from time to time"
                     },
                     {
                         "id":  "cnspnaw",
@@ -473,9 +473,9 @@
                                      "Financial Assistance"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/nssw",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
-                        "income_limit":  "The Total Annual **Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
+                        "min_age":  18,
+                        "max_age":  55,
+                        "income_limit":  "Family Income** of the Applicant must be Less than **â¹ 3 Lakh per Annum**"
                     },
                     {
                         "id":  "pg-igssgc",
@@ -536,7 +536,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/pmmvy",
                         "min_age":  19,
                         "max_age":  "Not specified",
-                        "income_limit":  "Women whose net family income is less than Rs."
+                        "income_limit":  "family income is less than Rs"
                     },
                     {
                         "id":  "pmrbp",
@@ -692,7 +692,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-deg",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000/- per annum** during the current financial year.1."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "psgs-dip",
@@ -726,7 +726,7 @@
                         "detail_url":  "https://www.myscheme.gov.in/schemes/psgs-dip",
                         "min_age":  "Not specified",
                         "max_age":  "Not specified",
-                        "income_limit":  "The **annual income of the family** (from all sources) must not be more than **â¹ 8,00,000 per annum** during the current financial year.1."
+                        "income_limit":  "Not specified"
                     },
                     {
                         "id":  "rmewf-faocesm",
@@ -846,8 +846,8 @@
                                      "Empowerment"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sag",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  11,
+                        "max_age":  14,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -876,7 +876,7 @@
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/sfsmttpotc",
                         "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "max_age":  18,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -998,8 +998,8 @@
                                      "Health"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/suman",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  0,
+                        "max_age":  6,
                         "income_limit":  "Not specified"
                     },
                     {
@@ -1330,8 +1330,8 @@
                                      "Research"
                                  ],
                         "detail_url":  "https://www.myscheme.gov.in/schemes/widushi",
-                        "min_age":  "Not specified",
-                        "max_age":  "Not specified",
+                        "min_age":  "Varies by category",
+                        "max_age":  "Varies by category",
                         "income_limit":  "Not specified"
                     }
                 ]
