@@ -13,9 +13,9 @@ import ReactFlow, {
 import "reactflow/dist/style.css";
 
 /* ═══════════════════════════════════════════════════════════
-   SYSTEM PROMPT
+  SYSTEM PROMPT
 ═══════════════════════════════════════════════════════════ */
-const SYSTEM_PROMPT = `You are SchemeStack, a helpful Indian Government Schemes Assistant. When a user mentions their age, provide relevant government schemes they are eligible for.
+const SYSTEM_PROMPT = `You are Citizen Seva, a helpful Indian Government Schemes Assistant. When a user mentions their age, provide relevant government schemes they are eligible for.
 
 Respond ONLY with this exact JSON format, no markdown:
 {
@@ -68,7 +68,7 @@ const QUICK = [
 ];
 
 const INITIAL_BOT_TEXT = JSON.stringify({
-  message: "Namaste! 🙏 I'm SchemeStack — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
+  message: "Namaste! 🙏 I'm Citizen Seva — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
   schemes: [],
   followUp: "Try clicking a quick prompt below, or type your age!",
 });
@@ -620,7 +620,7 @@ export default function App() {
                 <div style={{
                   color: "#f1f5f9", fontFamily: "'Cinzel',serif",
                   fontWeight: 700, fontSize: 15, letterSpacing: 0.5,
-                }}>SchemeStack</div>
+                }}>Citizen Seva</div>
                 <div style={{ display: "flex", alignItems: "center", gap: 5, marginTop: 2 }}>
                   <div style={{
                     width: 6, height: 6, borderRadius: "50%", background: "#10b981",
@@ -763,7 +763,7 @@ export default function App() {
                 <div style={{
                   color: "#334155", fontFamily: "'Cinzel',serif",
                   fontSize: 15, letterSpacing: 1, marginBottom: 8,
-                }}>SCHEMESTACK FLOW MAP</div>
+                }}>CITIZEN SEVA FLOW MAP</div>
                 <div style={{ color: "#1e293b", fontSize: 13, fontFamily: "'DM Sans',sans-serif" }}>
                   Enter your age in the chat to visualize eligible schemes
                 </div>
@@ -790,7 +790,7 @@ export default function App() {
             fontFamily: "'DM Sans',sans-serif", letterSpacing: 1,
             userSelect: "none",
           }}>
-            🇮🇳 GOVERNMENT OF INDIA · SchemeStack
+            🇮🇳 GOVERNMENT OF INDIA · Citizen Seva
           </div>
         </div>
       </div>
