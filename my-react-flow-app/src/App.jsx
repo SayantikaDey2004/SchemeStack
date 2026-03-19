@@ -292,16 +292,22 @@ function SchemeFlow({ schemes, ageLabel }) {
    CHAT BUBBLES
 ═══════════════════════════════════════════════════════════ */
 function BotBubble({ msg, onFlowReady }) {
-  const [parsed, setParsed] = useState(null);
-  const [raw, setRaw]       = useState("");
-
   useEffect(() => {
     try {
       const d = JSON.parse(msg.text);
-      setParsed(d);
       if (d.schemes?.length) onFlowReady?.(d);
-    } catch { setRaw(msg.text); }
-  }, [msg.text]);
+    } catch {
+      // Ignore parse errors here; fall back to raw text rendering.
+    }
+  }, [msg.text, onFlowReady]);
+
+  let parsed = null;
+  let raw = "";
+  try {
+    parsed = JSON.parse(msg.text);
+  } catch {
+    raw = msg.text;
+  }
 
   return (
     <div style={{ display: "flex", gap: 10, marginBottom: 16, animation: "slideIn 0.35s cubic-bezier(.22,1,.36,1)" }}>
@@ -709,7 +715,7 @@ export default function App() {
               </button>
             </div>
             <div style={{ textAlign: "center", color: "#1e293b", fontSize: 10, marginTop: 8, fontFamily: "'DM Sans',sans-serif" }}>
-              Powered by Gemini API · Ministry of Electronics & IT
+              Powered by Citizen Seva
             </div>
           </div>
         </div>
