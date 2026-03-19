@@ -143,6 +143,73 @@ def _extract_age_from_text(text):
     return None
 
 
+def _is_greeting_or_smalltalk(text):
+    cleaned = (text or "").strip().lower()
+    if not cleaned:
+        return True
+
+    greeting_patterns = [
+        r"^(hi|hello|hey|namaste|hii+|heyy+)$",
+        r"^(good\s+morning|good\s+afternoon|good\s+evening)$",
+        r"^(how\s+are\s+you|what'?s\s+up|yo)$",
+    ]
+
+    return any(re.match(pattern, cleaned) for pattern in greeting_patterns)
+
+
+def _has_scheme_intent(text):
+    cleaned = (text or "").strip().lower()
+    if not cleaned:
+        return False
+
+    intent_keywords = {
+        "scheme",
+        "schemes",
+        "yojana",
+        "benefit",
+        "benefits",
+        "eligibility",
+        "eligible",
+        "subsidy",
+        "grant",
+        "loan",
+        "scholarship",
+        "pension",
+        "apply",
+        "application",
+        "welfare",
+        "government",
+    }
+    return any(word in cleaned for word in intent_keywords)
+
+
+def _is_random_or_non_actionable(text):
+    cleaned = (text or "").strip().lower()
+    if not cleaned:
+        return True
+
+    # Typical conversational fillers/acks that should not trigger random schemes.
+    filler_patterns = [
+        r"^(ok|okay|hmm|hmmm|huh|thanks|thank you|cool|nice|fine|alright|k)$",
+        r"^(what is your name|who are you|how are you|what can you do)$",
+        r"^(tell me something|random|anything)$",
+    ]
+    if any(re.match(pattern, cleaned) for pattern in filler_patterns):
+        return True
+
+    # Very short text without scheme intent is likely non-actionable.
+    words = re.findall(r"[a-zA-Z]+", cleaned)
+    if len(words) <= 2 and not _has_scheme_intent(cleaned):
+        return True
+
+    # If no age/income cues and no scheme intent, treat as random.
+    has_numeric_or_profile_cue = bool(re.search(r"\d|age|income|salary|earning", cleaned))
+    if not has_numeric_or_profile_cue and not _has_scheme_intent(cleaned):
+        return True
+
+    return False
+
+
 def _scheme_text_blob(scheme):
     tags = scheme.get("tags", [])
     if isinstance(tags, list):
@@ -638,6 +705,27 @@ def chat():
         age = _extract_age_from_text(user_query)
     if income is None:
         income = _extract_income_from_text(user_query)
+
+    # For greetings or random/non-actionable messages without profile details,
+    # respond with guidance instead of returning arbitrary schemes.
+    if age is None and income is None and (
+        _is_greeting_or_smalltalk(user_query) or _is_random_or_non_actionable(user_query)
+    ):
+        reply_json = {
+            "message": "Namaste! I can help you find the best government schemes.",
+            "ageLabel": "Age Not Specified",
+            "ageGroup": "Unknown",
+            "schemes": [],
+            "followUp": "Please share your age and, if possible, annual income. Example: 'I am 24 years old, income 3 lakh'.",
+        }
+        return jsonify(
+            {
+                "reply": json.dumps(reply_json, ensure_ascii=False),
+                "reply_json": reply_json,
+                "matched_count": 0,
+                "schemes": [],
+            }
+        )
 
     matched_all, matched_ranked = recommend_schemes(age=age, income=income, user_query=user_query, limit=80)
     reply_json = generate_ai_reply(user_query, age, income, matched_ranked, total_count=len(matched_all))
