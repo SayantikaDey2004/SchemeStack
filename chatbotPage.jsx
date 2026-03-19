@@ -67,12 +67,6 @@ const QUICK = [
   { label: "Senior (65+ yrs)",  text: "I am 65 years old, what government benefits can I get?" },
 ];
 
-const INITIAL_BOT_TEXT = JSON.stringify({
-  message: "Namaste! 🙏 I'm SchemeStack — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
-  schemes: [],
-  followUp: "Try clicking a quick prompt below, or type your age!",
-});
-
 /* ═══════════════════════════════════════════════════════════
    RADIAL GRAPH BUILDER
 ═══════════════════════════════════════════════════════════ */
@@ -388,15 +382,17 @@ function TypingDots() {
 export default function App() {
   const [messages, setMessages] = useState([{
     role: "bot",
-    text: INITIAL_BOT_TEXT,
+    text: JSON.stringify({
+      message: "Namaste! 🙏 I'm SchemeStack — your personal guide to Indian Government Schemes. Share your age and I'll map out all schemes you're eligible for in an interactive flow diagram.",
+      schemes: [],
+      followUp: "Try clicking a quick prompt below, or type your age!",
+    }),
   }]);
   const [input, setInput]     = useState("");
   const [loading, setLoading] = useState(false);
   const [flowData, setFlowData] = useState(null);
   const bottomRef = useRef(null);
   const inputRef  = useRef(null);
-  const requestSeqRef = useRef(0);
-  const abortRef = useRef(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -406,119 +402,59 @@ export default function App() {
     setFlowData(data);
   }, []);
 
-  useEffect(() => {
-    return () => {
-      if (abortRef.current) {
-        abortRef.current.abort();
-      }
-    };
-  }, []);
-
-  const clearChat = useCallback(() => {
-    requestSeqRef.current += 1;
-    if (abortRef.current) {
-      abortRef.current.abort();
-      abortRef.current = null;
-    }
-    setLoading(false);
-    setInput("");
-    setFlowData(null);
-    setMessages([{ role: "bot", text: INITIAL_BOT_TEXT }]);
-    inputRef.current?.focus();
-  }, []);
-
   const send = async (text) => {
     const t = (text || input).trim();
     if (!t) return;
-
-    const requestId = requestSeqRef.current + 1;
-    requestSeqRef.current = requestId;
-
-    if (abortRef.current) {
-      abortRef.current.abort();
-    }
-    const controller = new AbortController();
-    abortRef.current = controller;
-
     setInput("");
-    setFlowData(null);
     setMessages(p => [...p, { role: "user", text: t }]);
     setLoading(true);
 
     try {
-      const ageMatch = t.match(/(?:age|aged|years?|yrs?|year old)?\D{0,6}(\d{1,3})/i);
-      const age = ageMatch ? parseInt(ageMatch[1], 10) : null;
+      // Extract age and income from user input
+      const ageMatch = t.match(/\d+/);
+      const age = ageMatch ? parseInt(ageMatch[0]) : 25;
+      const income = 300000; // Can be extracted from input or set to default
 
-      const lakhIncome = t.match(/(\d+(?:\.\d+)?)\s*lakh/i);
-      const plainIncome = t.match(/(?:income|salary|earning|earnings).*?(\d{4,12})/i);
-      const income = lakhIncome
-        ? Math.round(parseFloat(lakhIncome[1]) * 100000)
-        : plainIncome
-          ? parseInt(plainIncome[1], 10)
-          : null;
-
-      const res = await fetch("http://localhost:5000/chat", {
+      // Call Flask backend
+      const res = await fetch("http://localhost:5000/get-schemes", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        signal: controller.signal,
-        body: JSON.stringify({ message: t, age, income }),
+        body: JSON.stringify({ age, income }),
       });
 
       if (!res.ok) {
         throw new Error(`Backend error: ${res.status}`);
       }
 
-      const data = await res.json();
+      const schemes = await res.json();
+      
+      // Format response for display
+      const reply = JSON.stringify({
+        message: `Found ${schemes.length} eligible schemes for age ${age}!`,
+        schemes: schemes.slice(0, 5).map(s => ({
+          name: s.name,
+          ministry: s.nodal_ministry,
+          benefit: s.category,
+          eligibility: `Min: ${s.min_age}, Max: ${s.max_age}, Income: ${s.income_limit}`,
+          tag: "Finance"
+        })),
+        followUp: schemes.length > 5 ? `and ${schemes.length - 5} more schemes available` : "Explore these schemes for more details"
+      });
 
-      let payload = data.reply_json;
-      if (!payload && typeof data.reply === "string") {
-        try {
-          payload = JSON.parse(data.reply);
-        } catch {
-          payload = null;
-        }
-      }
-
-      if (!payload) {
-        payload = {
-          message: `Found ${data.matched_count || 0} eligible scheme(s).`,
-          ageLabel: age ? `Age ${age} Years` : "Age Not Specified",
-          ageGroup: "Adult",
-          schemes: (data.schemes || []).slice(0, 8).map((s) => ({
-            name: s.name,
-            ministry: s.nodal_ministry,
-            benefit: s.category,
-            eligibility: `Age: ${s.min_age} - ${s.max_age}; Income: ${s.income_limit}`,
-            tag: "Finance",
-          })),
-          followUp: "Share annual income for more specific results.",
-        };
-      }
-
-      if (requestSeqRef.current !== requestId) return;
-      setMessages(p => [...p, { role: "bot", text: JSON.stringify(payload) }]);
+      setMessages(p => [...p, { role: "bot", text: reply }]);
     } catch (error) {
-      if (error?.name === "AbortError") {
-        return;
-      }
-      if (requestSeqRef.current !== requestId) return;
       console.error("Error:", error);
       setMessages(p => [...p, {
         role: "bot",
         text: JSON.stringify({ 
-          message: "Unable to fetch AI response. Make sure Flask backend is running on localhost:5000", 
+          message: "Unable to fetch schemes. Make sure Flask backend is running on localhost:5000", 
           schemes: [], 
           followUp: null 
         }),
       }]);
     } finally {
-      if (requestSeqRef.current === requestId) {
-        setLoading(false);
-        inputRef.current?.focus();
-      }
-      if (abortRef.current === controller) {
-        abortRef.current = null;
-      }
+      setLoading(false);
+      inputRef.current?.focus();
     }
   };
 
@@ -566,26 +502,6 @@ export default function App() {
           transform: translateY(-1px);
         }
         .quick-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
-
-        .clear-btn {
-          background: transparent;
-          border: 1px solid #334155;
-          border-radius: 12px;
-          color: #94a3b8;
-          font-size: 10px;
-          font-family: 'DM Sans',sans-serif;
-          padding: 4px 10px;
-          cursor: pointer;
-          transition: all 0.2s;
-        }
-        .clear-btn:hover:not(:disabled) {
-          border-color: #f97316;
-          color: #f97316;
-        }
-        .clear-btn:disabled {
-          opacity: 0.45;
-          cursor: not-allowed;
-        }
 
         .send-btn { transition: all 0.2s; }
         .send-btn:hover:not(:disabled) { transform: scale(1.08); }
@@ -645,13 +561,8 @@ export default function App() {
 
           {/* Quick prompts */}
           <div style={{ padding: "8px 16px", borderTop: "1px solid #0f1f35" }}>
-            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 7 }}>
-              <div style={{ fontSize: 10, color: "#334155", fontWeight: 600, letterSpacing: 1, textTransform: "uppercase" }}>
-                Quick Age Groups
-              </div>
-              <button className="clear-btn" onClick={clearChat} disabled={loading && messages.length <= 1}>
-                Clear Chat
-              </button>
+            <div style={{ fontSize: 10, color: "#334155", fontWeight: 600, letterSpacing: 1, textTransform: "uppercase", marginBottom: 7 }}>
+              Quick Age Groups
             </div>
             <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
               {QUICK.map((q, i) => (
@@ -709,7 +620,7 @@ export default function App() {
               </button>
             </div>
             <div style={{ textAlign: "center", color: "#1e293b", fontSize: 10, marginTop: 8, fontFamily: "'DM Sans',sans-serif" }}>
-              Powered by Gemini API · Ministry of Electronics & IT
+              Powered by Claude · Ministry of Electronics & IT
             </div>
           </div>
         </div>
