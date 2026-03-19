@@ -457,7 +457,7 @@ export default function App() {
           ? parseInt(plainIncome[1], 10)
           : null;
 
-      const res = await fetch("http://localhost:5000/chat", {
+      const res = await fetch("http://localhost:8000/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         signal: controller.signal,
@@ -506,7 +506,7 @@ export default function App() {
       setMessages(p => [...p, {
         role: "bot",
         text: JSON.stringify({ 
-          message: "Unable to fetch AI response. Make sure Flask backend is running on localhost:5000", 
+          message: "Unable to fetch AI response. Make sure Flask backend is running on localhost:8000", 
           schemes: [], 
           followUp: null 
         }),

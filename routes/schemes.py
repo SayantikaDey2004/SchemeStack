@@ -143,6 +143,149 @@ def _extract_age_from_text(text):
     return None
 
 
+def _scheme_text_blob(scheme):
+    tags = scheme.get("tags", [])
+    if isinstance(tags, list):
+        tags = " ".join(str(t) for t in tags)
+    return (
+        f"{scheme.get('name', '')} "
+        f"{scheme.get('description', '')} "
+        f"{scheme.get('category', '')} "
+        f"{scheme.get('scheme_for', '')} "
+        f"{tags}"
+    ).lower()
+
+
+def _age_group_rules(group):
+    rules = {
+        "child": {
+            "positive": {
+                "child",
+                "children",
+                "school",
+                "student",
+                "anganwadi",
+                "nutrition",
+                "early intervention",
+                "pre-matric",
+                "hostel",
+                "girl child",
+            },
+            "negative": {
+                "old age",
+                "senior",
+                "elderly",
+                "pension",
+                "self employment",
+                "entrepreneur",
+                "startup",
+            },
+        },
+        "youth": {
+            "positive": {
+                "student",
+                "college",
+                "scholarship",
+                "skill",
+                "apprentice",
+                "training",
+                "employment",
+                "startup",
+                "exam",
+                "intern",
+            },
+            "negative": {
+                "old age",
+                "senior",
+                "elderly",
+                "retirement",
+                "widow pension",
+            },
+        },
+        "adult": {
+            "positive": {
+                "employment",
+                "business",
+                "entrepreneur",
+                "loan",
+                "housing",
+                "farmer",
+                "livelihood",
+                "insurance",
+                "self employment",
+            },
+            "negative": {
+                "old age",
+                "senior",
+                "elderly",
+                "retirement",
+            },
+        },
+        "middle": {
+            "positive": {
+                "health",
+                "insurance",
+                "welfare",
+                "farmer",
+                "livelihood",
+                "employment",
+                "loan",
+            },
+            "negative": {
+                "pre-matric",
+                "school",
+                "child",
+                "old age",
+                "elderly",
+            },
+        },
+        "senior": {
+            "positive": {
+                "old age",
+                "senior",
+                "elderly",
+                "pension",
+                "care",
+                "geriatric",
+                "assistance",
+                "vayoshri",
+            },
+            "negative": {
+                "pre-matric",
+                "school",
+                "student",
+                "apprentice",
+                "intern",
+            },
+        },
+    }
+    return rules.get(group, {"positive": set(), "negative": set()})
+
+
+def _is_age_plausible_without_explicit_bounds(scheme, age):
+    if age is None:
+        return True
+
+    group = _age_group(age)
+    rules = _age_group_rules(group)
+    text = _scheme_text_blob(scheme)
+
+    positive_hits = sum(1 for kw in rules["positive"] if kw in text)
+    negative_hits = sum(1 for kw in rules["negative"] if kw in text)
+
+    # Strong negatives should block recommendation for unspecified-age schemes.
+    if negative_hits >= 2:
+        return False
+    if positive_hits == 0 and negative_hits >= 1:
+        return False
+
+    # Special hard exclusions for very young users.
+    if age <= 14 and any(kw in text for kw in {"loan", "credit", "entrepreneur", "startup"}):
+        return False
+
+    return True
+
+
 def filter_schemes(age=None, income=None):
     items = _load_all_schemes()
     results = []
@@ -160,6 +303,10 @@ def filter_schemes(age=None, income=None):
             if min_age is not None and age_value < min_age:
                 age_ok = False
             if max_age is not None and age_value > max_age:
+                age_ok = False
+
+            # If age bounds are missing, infer plausibility from scheme intent.
+            if min_age is None and max_age is None and not _is_age_plausible_without_explicit_bounds(scheme, age_value):
                 age_ok = False
 
         income_ok = True
@@ -298,7 +445,19 @@ def recommend_schemes(age=None, income=None, user_query="", limit=80):
         key=lambda s: _score_scheme(s, age=age, income=income, user_query=user_query),
         reverse=True,
     )
-    return matched, ranked[:limit]
+
+    deduped = []
+    seen = set()
+    for scheme in ranked:
+        key = scheme.get("id") or str(scheme.get("name", "")).strip().lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        deduped.append(scheme)
+        if len(deduped) >= limit:
+            break
+
+    return matched, deduped
 
 
 def _tag_from_scheme(scheme):
