@@ -1,0 +1,3138 @@
+﻿{
+    "state":  "West Bengal",
+    "level":  "State",
+    "extracted_count":  109,
+    "schemes":  [
+                    {
+                        "id":  "ismpsscis",
+                        "source_id":  "XKG8F5gBXu-iUKXqT3bP",
+                        "slug":  "ismpsscis",
+                        "name":  " Incentive Scheme for MSMEs in Powerloom Sector: State Capital Investment Subsidy",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âState Capital Investment Subsidyâ incentives under âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide subsidy of the fixed capital investment made for its approved project.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Incentives",
+                                     "State Capital Investment Subsidy",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsscis"
+                    },
+                    {
+                        "id":  "wbisaito",
+                        "source_id":  "EBe7F5gB5uF80_MGVpG6",
+                        "slug":  "wbisaito",
+                        "name":  " The West Bengal Incentive Scheme: Additional Incentive for Adventure Tour Operators",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âAdditional Incentive for Adventure Tour Operatorsâ incentives under the âWBISâ scheme by the Dept. of Tourism, Government of West Bengal, aims to provide reimbursement incentives with SGST payments for purchasing tents, dinghies, adventure \u0026 sports equipment, and related accessories.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Tour Operators",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Adventure"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisaito"
+                    },
+                    {
+                        "id":  "wbisaige",
+                        "source_id":  "GBe7F5gB5uF80_MGV5Hh",
+                        "slug":  "wbisaige",
+                        "name":  " The West Bengal Incentive Scheme: Additional Incentive on Generation of Employment",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âAdditional Incentive on Generation of Employmentâ incentives under âThe West Bengal Incentive Schemeâ scheme by the Dept. of Tourism, Government of West Bengal, aims to provide reimbursement of expenditure incurred for paying contribution towards ESI and EPF.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Employment Generation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisaige"
+                    },
+                    {
+                        "id":  "wbiscu",
+                        "source_id":  "UsY9GJgB0AGc0F0iEjhI",
+                        "slug":  "wbiscu",
+                        "name":  " The West Bengal Incentive Scheme: Capacity Utilisation",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âCapacity Utilisationâ incentives under the âThe West Bengal Incentive Schemeâ implemented by the Dept. of Tourism, Government of West Bengal, aims to provide additional Floor Area Ratio (FAR) over and above the maximum permissible FAR as may be fixed by the competent authority.\n",
+                        "tags":  [
+                                     "Tourism",
+                                     "Entrepreneurship",
+                                     "Capacity Utilisation",
+                                     "Incentives"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbiscu"
+                    },
+                    {
+                        "id":  "wbisistl",
+                        "source_id":  "Che7F5gB5uF80_MGVZHJ",
+                        "slug":  "wbisistl",
+                        "name":  " The West Bengal Incentive Scheme: Interest Subsidy on Term Loan",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âInterest Subsidy on Term Loanâ incentives under âThe West Bengal Incentive Schemeâ scheme by the Dept. of Tourism, Government of West Bengal, aims to provide Interest Subsidy on annual interest liability on the Term Loan borrowed from a Bank to an approved project of an eligible unit.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Interest Subsidy",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Term Loan",
+                                     "MSME"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisistl"
+                    },
+                    {
+                        "id":  "wbisrsdrf",
+                        "source_id":  "IKG7F5gBXu-iUKXqVXbI",
+                        "slug":  "wbisrsdrf",
+                        "name":  " The West Bengal Incentive Scheme: Reimbursement of Stamp Duty and Registration Fee",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âReimbursement of Stamp Duty and Registration Feeâ incentives under the âWBISâ scheme implemented by the Dept. of Tourism, Government of West Bengal, aims to provide a reimbursement of stamp duty and registration fee paid by the eligible units for the purpose of registration of documents.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Stamp Duty",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Adventure",
+                                     "Registration Fee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisrsdrf"
+                    },
+                    {
+                        "id":  "wbisscis",
+                        "source_id":  "SMa7F5gB0AGc0F0iVjUa",
+                        "slug":  "wbisscis",
+                        "name":  " The West Bengal Incentive Scheme: State Capital Investment Subsidy",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âState Capital Investment Subsidyâ incentives under âThe West Bengal Incentive Schemeâ scheme implemented by the Dept. of Tourism, Government of West Bengal, aims to provide a State Capital Investment Subsidy of the fixed capital investment.\n",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "State Capital Investment Subsidy",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "MsmeS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisscis"
+                    },
+                    {
+                        "id":  "wbissqi",
+                        "source_id":  "JqG7F5gBXu-iUKXqVnaX",
+                        "slug":  "wbissqi",
+                        "name":  " The West Bengal Incentive Scheme: Subsidy for Quality Improvement",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Quality Improvementâ incentives under the âWBISâ scheme aims to provide a reimbursement for the fixed capital investment expenditure incurred for quality improvement, modernization and installation of pollution control devices and for obtaining ISI/BIS/ISO certification.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Quality Improvement",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbissqi"
+                    },
+                    {
+                        "id":  "wbistpais",
+                        "source_id":  "X6E9GJgBXu-iUKXqEnln",
+                        "slug":  "wbistpais",
+                        "name":  " The West Bengal Incentive Scheme: Tourism Promotion Assistance in lieu of Interest Subsidy",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âTourism Promotion Assistance in lieu of Interest Subsidyâ incentive under the âThe West Bengal Incentive Schemeâ aims to provide Tourism Promotion Assistance for SGST irrespective of the location of the project, which will be in lieu of interest subsidy. ",
+                        "tags":  [
+                                     "Tourism",
+                                     "Tourism Promotion",
+                                     "Interest Subsidy",
+                                     "Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbistpais"
+                    },
+                    {
+                        "id":  "wbiswed",
+                        "source_id":  "Tca7F5gB0AGc0F0iVjXC",
+                        "slug":  "wbiswed",
+                        "name":  " The West Bengal Incentive Scheme: Waiver of Electricity Duty",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âWaiver of Electricity Dutyâ incentives under âThe West Bengal Incentive Schemeâ scheme implemented by the Dept. of Tourism, Government of West Bengal, aims to provide waiver of electricity duty on the electricity consumed in its approved project.",
+                        "tags":  [
+                                     "Tourism",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Tourism Units",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Electricity Duty",
+                                     "MSME"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbiswed"
+                    },
+                    {
+                        "id":  "wbtisiee",
+                        "source_id":  "bBe8F5gB5uF80_MGV5ER",
+                        "slug":  "wbtisiee",
+                        "name":  " West Bengal Textile Incentive Scheme: Incentive for Energy Efficiency",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âIncentive for Energy Efficiencyâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal, aims to provide a reimbursement for the cost of energy and installations for energy conservation as per energy audit.",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Electricity Duty"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtisiee"
+                    },
+                    {
+                        "id":  "wbisps",
+                        "source_id":  "Yxe8F5gB5uF80_MGVJFP",
+                        "slug":  "wbisps",
+                        "name":  " West Bengal Textile Incentive Scheme: Power Subsidy",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âPower Subsidyâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal, aims to provide power subsidy on electricity consumption for 5 years from the date of commencement of production.",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Power Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbisps"
+                    },
+                    {
+                        "id":  "wbtisscis",
+                        "source_id":  "XBe8F5gB5uF80_MGUpE9",
+                        "slug":  "wbtisscis",
+                        "name":  " West Bengal Textile Incentive Scheme: State Capital Investment Subsidy",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âState Capital Investment Subsidyâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal, aims to provide a State Capital Investment Subsidy of the fixed capital investment.\n",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "State Capital Investment Subsidy",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtisscis"
+                    },
+                    {
+                        "id":  "wbtisswcec",
+                        "source_id":  "Wxe8F5gB5uF80_MGUpEx",
+                        "slug":  "wbtisswcec",
+                        "name":  " West Bengal Textile Incentive Scheme: Subsidy for Water conservation/ Environment Compliance",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Water Conservation/ Environment Complianceâ incentives under âWest Bengal Textile Incentive Schemeâ scheme by the Dept. of MSME\u0026T , Government of West Bengal, aims to provide reimbursement of expenditure incurred by it towards the cost of captive Effluent Water Treatment Plant.",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Water Conservation",
+                                     "Environment Compliance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtisswcec"
+                    },
+                    {
+                        "id":  "wbtiswed",
+                        "source_id":  "ZqG8F5gBXu-iUKXqUnZq",
+                        "slug":  "wbtiswed",
+                        "name":  " West Bengal Textile Incentive Scheme: Waiver of Electricity Duty",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âWaiver of Electricity Dutyâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal,  aims to provide waiver of electricity duty on the electricity consumed in its approved project.\n",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Electricity Duty"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtiswed"
+                    },
+                    {
+                        "id":  "wbtiswfflcm",
+                        "source_id":  "ZaG8F5gBXu-iUKXqUnZP",
+                        "slug":  "wbtiswfflcm",
+                        "name":  " West Bengal Textile Incentive Scheme: Waiver of Fees for Land Conversion and Mutation",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âWaiver of Fees for Land Conversion and Mutationâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal, aims to provide a waiver of fees for conversion and mutation of the land as approved in the project.\n",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Land Conversion",
+                                     "Mutation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtiswfflcm"
+                    },
+                    {
+                        "id":  "adwb",
+                        "source_id":  "FBfZF5gB5uF80_MGUpOf",
+                        "slug":  "adwb",
+                        "name":  "Accidental Benefit ",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Accidental Benefit\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides financial assistance to the beneficiary in case of hospitalization and disability due to an accident.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Accidental Benefit",
+                                     "Hospitalization",
+                                     "Disability"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/adwb"
+                    },
+                    {
+                        "id":  "ahs",
+                        "source_id":  "VKHgF5gBXu-iUKXq63iE",
+                        "slug":  "ahs",
+                        "name":  "Akanksha Housing Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Akanksha Housing Scheme was launched by the Housing Department, Government of West Bengal on 28/02/2014 to provide housing to the serving State Government employees.\n",
+                        "tags":  [
+                                     "Housing",
+                                     "West Bengal",
+                                     "State Government Employees"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ahs"
+                    },
+                    {
+                        "id":  "bay",
+                        "source_id":  "pBe9F5gB5uF80_MG4JHs",
+                        "slug":  "bay",
+                        "name":  "Banglar Awaas Yojana (BAY)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Banglar Awaas Yojana (BAY)\" provides financial assistance to houseless households and those living in kutcha or dilapidated houses, helping them build pucca houses with essential amenities. The scheme offers financial assistance with additional support for toilets and unskilled workdays.",
+                        "tags":  [
+                                     "Housing",
+                                     "Citizen Empowerment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bay"
+                    },
+                    {
+                        "id":  "byswb",
+                        "source_id":  "E6I5f5wBXu-iUKXqd0j0",
+                        "slug":  "byswb",
+                        "name":  "Banglar Yuba Sathi",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide monthly financial assistance to educated unemployed youth of West Bengal to support them until they get employment or join another scheme. The objective is to ensure income support for eligible unemployed youth for a maximum period of 5 years.",
+                        "tags":  [
+                                     "Unemployed Youth Allowance",
+                                     "Youth Welfare",
+                                     "Monthly Allowance",
+                                     "Banglar Yuba Sathi"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/byswb"
+                    },
+                    {
+                        "id":  "bis",
+                        "source_id":  "MaG7F5gBXu-iUKXqWnYs",
+                        "slug":  "bis",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Interest Subsidy on Term Loan (IS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âInterest Subsidy on Term Loan (IS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide Interest Subsidy on annual interest liability on the Term Loan borrowed from a Commercial Bank to an eligible micro or small enterprise.\n",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Interest Subsidy",
+                                     "Financial Assistance",
+                                     "Term Loan",
+                                     "Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bis"
+                    },
+                    {
+                        "id":  "bmsmeps",
+                        "source_id":  "HaG7F5gBXu-iUKXqVXZU",
+                        "slug":  "bmsmeps",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Power Subsidy (PS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âPower Subsidy (PS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide power subsidy on the electricity consumed for the manufacturing activity to an eligible micro or small enterprise.\n",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Power Subsidy",
+                                     "Entrepreneurship",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmeps"
+                    },
+                    {
+                        "id":  "cis",
+                        "source_id":  "ERe7F5gB5uF80_MGVpHG",
+                        "slug":  "cis",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: State Capital Investment Subsidy (CIS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âState Capital Investment Subsidy (CIS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Department, Government of West Bengal, aims to provide Capital Investment Subsidy for its approved project to an eligible micro or small enterprise.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Subsidy",
+                                     "Financial Assistance",
+                                     "Entrepreneurship"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cis"
+                    },
+                    {
+                        "id":  "ees",
+                        "source_id":  "T8a7F5gB0AGc0F0iVjXx",
+                        "slug":  "ees",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Energy Efficiency (EES)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Energy Efficiency (EES)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide a reimbursement for the cost of energy and installations for energy conservation as per energy audit.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Energy Efficiency",
+                                     "Entrepreneurship",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ees"
+                    },
+                    {
+                        "id":  "bmsmeprs",
+                        "source_id":  "IqG7F5gBXu-iUKXqVXbr",
+                        "slug":  "bmsmeprs",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Patent Registration (PRS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Patent Registration (PRS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide reimbursement of expenditure incurred for obtaining Patent Registration.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Patent Registration",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "PRS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmeprs"
+                    },
+                    {
+                        "id":  "bmsmesccs",
+                        "source_id":  "CBe7F5gB5uF80_MGVZGd",
+                        "slug":  "bmsmesccs",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Standard Quality Compliance (SCCS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Standard Quality Compliance (SCCS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide reimbursement of the expenditure incurred for obtaining certification from approved Institutions/ Research Laboratories.\n",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Standard Quality Compliance",
+                                     "Certification",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "SCCS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmesccs"
+                    },
+                    {
+                        "id":  "bmsmesgst",
+                        "source_id":  "Qsa7F5gB0AGc0F0iVTVe",
+                        "slug":  "bmsmesgst",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for State Goods and Services Tax (SGST)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for State Goods and Services Tax (SGST)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide refunds for net SGST paid to the Government of West Bengal.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "State Goods And Services Tax",
+                                     "SGST",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmesgst"
+                    },
+                    {
+                        "id":  "bmsmewcs",
+                        "source_id":  "Vca7F5gB0AGc0F0iVzXt",
+                        "slug":  "bmsmewcs",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Water Conservation/Environment Compliance (WCS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Water Conservation/Environment Complianceâ incentives  by the MSMEs Dept., Government of West Bengal, aims to provide reimbursement of expenditure incurred by it towards the cost of captive Effluent Water Treatment Plant for wastewater recycling and/ or other pollution control devices.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Water Conservation",
+                                     "Environment Compliance",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "WCS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmewcs"
+                    },
+                    {
+                        "id":  "bmsmewwas",
+                        "source_id":  "Cxe7F5gB5uF80_MGVZHY",
+                        "slug":  "bmsmewwas",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Work Force Welfare Assistance (WWAS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Work Force Welfare Assistance (WWAS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, aims to provide reimbursement of expenditure incurred for paying contribution towards Employees State Insurance (ESI) and Employees Provident.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Work Force Welfare",
+                                     "Financial Assistance",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "WWAS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmsmewwas"
+                    },
+                    {
+                        "id":  "sdrfs",
+                        "source_id":  "Rsa7F5gB0AGc0F0iVTXQ",
+                        "slug":  "sdrfs",
+                        "name":  "Banglashree for Micro, Small and Medium Enterprises: Subsidy on Stamp Duty and Registration Fee (SDRFS)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy on Stamp Duty and Registration Fee (SDRFS)â incentives under âBanglashree for MSMEsâ scheme implemented by the MSMEs Dept., Government of West Bengal, provides a reimbursement of stamp duty and registration fee paid by the eligible enterprises for the purpose of registration of documents.",
+                        "tags":  [
+                                     "MSME",
+                                     "Incentives",
+                                     "Stamp Duty",
+                                     "Financial Assistance",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Registration Fee",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sdrfs"
+                    },
+                    {
+                        "id":  "bmssy",
+                        "source_id":  "mqG4F5gBXu-iUKXqLnXW",
+                        "slug":  "bmssy",
+                        "name":  "Bina Mulya Samajik Suraksha Yojana",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Bina Mulya Samajik Suraksha Yojana (BM-SSY)\" is a comprehensive social security scheme for unorganized workers in the state of West Bengal, India. It was launched by the West Bengal government in 2017. ",
+                        "tags":  [
+                                     "Maternity Benefits",
+                                     "Pension",
+                                     "Death Benefits",
+                                     "Medical Benefits"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bmssy"
+                    },
+                    {
+                        "id":  "cohaftcw",
+                        "source_id":  "H6HZF5gBXu-iUKXqT3iu",
+                        "slug":  "cohaftcw",
+                        "name":  "Cost of Hearing Aid for the Construction Workers",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âCost of Hearing Aid for the Construction Workersâ scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides reimbursement for purchasing Hearing Aids to each registered beneficiary if required.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Hearing Aid"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cohaftcw"
+                    },
+                    {
+                        "id":  "cosftcw",
+                        "source_id":  "I6HZF5gBXu-iUKXqUXg_",
+                        "slug":  "cosftcw",
+                        "name":  "Cost of Spectacle for the Construction Workers  ",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âCost of Spectacle for the Construction Workersâ scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides reimbursement for purchasing spectacle to each registered beneficiary if required.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Spectacle Purchase"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cosftcw"
+                    },
+                    {
+                        "id":  "chc",
+                        "source_id":  "Fxe7F5gB5uF80_MGV5HZ",
+                        "slug":  "chc",
+                        "name":  "Credit Linked Subsidy Scheme for Rural Entrepreneurs to set up Custom Hiring Centres (CHC) of Farm Machinery",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âCredit Linked Subsidy Scheme for Rural Entrepreneurs to set up Custom Hiring Centres (CHC) of Farm Machineryâ  by the Agriculture Dep, Government of West Bengal aims to provide opportunity to rural entrepreneurs for setting up of Custom Hiring Centres.",
+                        "tags":  [
+                                     "Agriculture",
+                                     "Farmers",
+                                     "Credit Linked Subsidy",
+                                     "Financial Assistance",
+                                     "Entrepreneurs",
+                                     "Custom Hiring Centres",
+                                     "Farm Machinery",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/chc"
+                    },
+                    {
+                        "id":  "dbftcwwb",
+                        "source_id":  "KMbZF5gB0AGc0F0iVjdt",
+                        "slug":  "dbftcwwb",
+                        "name":  "Death Benefit",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Death Benefit\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department, West Bengal, is a welfare scheme that provides financial assistance to the nominee(s) of the beneficiary as death benefit.",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Death Benefit",
+                                     "Accidental Death",
+                                     "Normal Death"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dbftcwwb"
+                    },
+                    {
+                        "id":  "dpwb",
+                        "source_id":  "yKHVF5gBXu-iUKXqp3fu",
+                        "slug":  "dpwb",
+                        "name":  "Disability Pension - West Bengal",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "In 2010, the Women and Child Development and Social Welfare Department of the West Bengal State Government introduced the \"Disability Pension\" scheme.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Social Welfare",
+                                     "Pension"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dpwb"
+                    },
+                    {
+                        "id":  "fmh",
+                        "source_id":  "KqG7F5gBXu-iUKXqV3Ya",
+                        "slug":  "fmh",
+                        "name":  "Farm Machinery Bank (FMB)/Farm Machinery Hub (FMH)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âFarm Machinery Bank (FMB)/Farm Machinery Hub (FMH)â  by the Agriculture Department, Government of West Bengal aims to facilitate end-to-end (from land development to residue management) use of farm machinery which can be within the reach of the small and marginal farmers at reasonable charges.\n",
+                        "tags":  [
+                                     "Agriculture",
+                                     "Farmers",
+                                     "Employment",
+                                     "Subsidy",
+                                     "Rural",
+                                     "Youth",
+                                     "Farm Machinery",
+                                     "Entrepreneurs",
+                                     "Machinery Bank",
+                                     "Machinery Hub"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fmh"
+                    },
+                    {
+                        "id":  "fafeoscob",
+                        "source_id":  "JaHZF5gBXu-iUKXqUnih",
+                        "slug":  "fafeoscob",
+                        "name":  "Financial Assistance for Education of Self/ Children of Beneficiaries ",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Financial Assistance for Education of Self/ Children of Beneficiaries\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department, West Bengal, is a welfare scheme that provides financial assistance to the registered member or their children studying Higher Secondary and above.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Education",
+                                     "Study",
+                                     "Scholarships"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fafeoscob"
+                    },
+                    {
+                        "id":  "fssm",
+                        "source_id":  "Pca7F5gB0AGc0F0iUzWk",
+                        "slug":  "fssm",
+                        "name":  "Financial Support Scheme for Farm Mechanization (FSSM)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "\"Financial Support Scheme for Farm Mechanization (FSSM)\" by the Agriculture Department, Government of West Bengal aims to provide financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery.\n",
+                        "tags":  [
+                                     "Agriculture",
+                                     "Farmer",
+                                     "Mechanization",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fssm"
+                    },
+                    {
+                        "id":  "feftcwwb",
+                        "source_id":  "EhfZF5gB5uF80_MGUZPf",
+                        "slug":  "feftcwwb",
+                        "name":  "Funeral Expenses for the Construction Workers",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âFuneral Expenses for the Construction Workersâ scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides financial assistance for funeral expenses to the nominees of a deceased registered member.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Funeral Expenses",
+                                     "Death"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/feftcwwb"
+                    },
+                    {
+                        "id":  "gs-west-bengal",
+                        "source_id":  "K8a1F5gB0AGc0F0iKjS7",
+                        "slug":  "gs-west-bengal",
+                        "name":  "Gatidhara Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âGatidhara Schemeâ was launched by the Transport Department, Government of West Bengal in August 2014 for employment of registered unemployed youth of the State in the transport sector.",
+                        "tags":  [
+                                     "Unemployed",
+                                     "Youth",
+                                     "Subsidy",
+                                     "Commercial Vehicle",
+                                     "Transport Service"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gs-west-bengal"
+                    },
+                    {
+                        "id":  "ismpsistl",
+                        "source_id":  "lca8F5gB0AGc0F0iVzUV",
+                        "slug":  "ismpsistl",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Interest Subsidy on Term Loan",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âInterest Subsidy on Term Loanâ incentives under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide subsidy on annual interest liability on the Term Loan borrowed from a Bank to an approved project.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Incentives",
+                                     "Interest Subsidy",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Term Loan"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsistl"
+                    },
+                    {
+                        "id":  "ismpssee",
+                        "source_id":  "ZBe8F5gB5uF80_MGVJFt",
+                        "slug":  "ismpssee",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Energy Efficiency",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Energy Efficiencyâ incentives under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide a reimbursement for the cost of energy audit and installations for energy conservation as per energy audit.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Energy Audit",
+                                     "Energy Efficiency",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Energy Conservation",
+                                     "Energy Installations"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpssee"
+                    },
+                    {
+                        "id":  "ismpsspr",
+                        "source_id":  "IxfZF5gB5uF80_MG05O3",
+                        "slug":  "ismpsspr",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Patent Registration",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Patent Registrationâ incentive under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal,  aims to provide reimbursement of expenditure incurred by it for obtaining Patent Registration.\n",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Patent Registration"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsspr"
+                    },
+                    {
+                        "id":  "ismpsssqc",
+                        "source_id":  "TRe8F5gB5uF80_MGTpGw",
+                        "slug":  "ismpsssqc",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Standard Quality Compliance",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Standard Quality Complianceâ incentive under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide reimbursement of the expenditure incurred for obtaining certification from approved Institutions/ Research Labs.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Quality Compliance",
+                                     "Certification",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsssqc"
+                    },
+                    {
+                        "id":  "ismpsssgst",
+                        "source_id":  "X6G8F5gBXu-iUKXqT3b1",
+                        "slug":  "ismpsssgst",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for State Goods and Services Tax (SGST)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for State Goods and Services Tax (SGST)â incentive under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide refund of Net SGST paid to the Government of West Bengal for its approved project.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "State Goods And Services Tax",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "GST",
+                                     "SGST"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsssgst"
+                    },
+                    {
+                        "id":  "ismpsswcec",
+                        "source_id":  "daG8F5gBXu-iUKXqWXZ1",
+                        "slug":  "ismpsswcec",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Water Conservation/ Environment Compliance",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy for Water Conservation/ Environment Complianceâ incentive under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide reimbursement for expenditure incurred towards cost of captive sound pollution control devices.\n",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Environment Compliance",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Water Conservation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsswcec"
+                    },
+                    {
+                        "id":  "ismpsssd",
+                        "source_id":  "cBe8F5gB5uF80_MGW5GO",
+                        "slug":  "ismpsssd",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy on Stamp Duty and Registration Fees",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSubsidy on Stamp Duty and Registration Feesâ incentives under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide reimbursement for stamp duty and registration fee paid by it for the purpose of registration of documents.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Stamp Duty",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Registration Fees"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpsssd"
+                    },
+                    {
+                        "id":  "ismpswed",
+                        "source_id":  "bRe8F5gB5uF80_MGV5Ea",
+                        "slug":  "ismpswed",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Waiver of Electricity Duty",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âWaiver of Electricity Dutyâ incentives under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal, aims to provide reimbursement of electricity duty on the electricity consumed for the manufacturing activity.\n",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Electricity Duty",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpswed"
+                    },
+                    {
+                        "id":  "ismpswfwa",
+                        "source_id":  "Whe8F5gB5uF80_MGUpEw",
+                        "slug":  "ismpswfwa",
+                        "name":  "Incentive Scheme for MSMEs in Powerloom Sector: Work Force Welfare Assistance",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âWork Force Welfare Assistanceâ incentive under the âIncentive Scheme for MSMEs in Powerloom Sectorâ scheme implemented by the Dept. of MSME \u0026 T, Government of West Bengal,  aims to provide reimbursement of expenditure incurred for paying contribution towards ESI and EPF.",
+                        "tags":  [
+                                     "Powerloom",
+                                     "Waiver",
+                                     "Work Force Welfare",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "ESI",
+                                     "EPF"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ismpswfwa"
+                    },
+                    {
+                        "id":  "jjoaps",
+                        "source_id":  "3sbVF5gB0AGc0F0iqjZv",
+                        "slug":  "jjoaps",
+                        "name":  "Jai Johar (Old Age Pension) Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âJai Johar (Old Age Pension)â is a Social Security Scheme by the Tribal Development Dept, Govt of West Bengal. The scheme is aimed at the ST residents of West Bengal of the age of 60 years and above. A monthly pension of â¹ 1,000/- is transferred to the individual bank account of the beneficiary.",
+                        "tags":  [
+                                     "Pension",
+                                     "Senior Citizen",
+                                     "Social Welfare",
+                                     "Financial Assistance",
+                                     "Scheduled Tribe"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jjoaps"
+                    },
+                    {
+                        "id":  "wbkanyashree",
+                        "source_id":  "oqFNf5gBXu-iUKXq2Xkb",
+                        "slug":  "wbkanyashree",
+                        "name":  "Kanyashree Prakalpa",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme to improve the status and wellbeing of girls, specifically those from socio-economically disadvantaged families, through Conditional Cash Transfers by: Incentivising them to continue in education for a longer period of time, and complete secondary or higher secondary education.",
+                        "tags":  [
+                                     "Girl",
+                                     "Education",
+                                     "Scholarship",
+                                     "Child Marriage Prevention",
+                                     "Vocational Training",
+                                     "Grants For Higher Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbkanyashree"
+                    },
+                    {
+                        "id":  "ksp",
+                        "source_id":  "5sZ5E5kB0AGc0F0iCzj2",
+                        "slug":  "ksp",
+                        "name":  "Karma Sathi Prakalpa",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme aims to help young entrepreneurs in the state establish new manufacturing enterprises and small businesses, including those offering services and trading. The scheme offers soft loans and subsidies for new income-generating projects.",
+                        "tags":  [
+                                     "Employment",
+                                     "Entrepreneur",
+                                     "West Bengal",
+                                     "Loan",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ksp"
+                    },
+                    {
+                        "id":  "kbs",
+                        "source_id":  "EMa1F5gB0AGc0F0iJTQv",
+                        "slug":  "kbs",
+                        "name":  "Krishak Bandhu Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme aims to provide financial security to farmers through direct income support and death/disability benefits. It benefits small and marginal farmers with annual assistance of â¹5,000/- per acre and a one-time payout of â¹2,00,000/- in case of death.",
+                        "tags":  [
+                                     "Farmer",
+                                     "Financial Assistance",
+                                     "Agriculture",
+                                     "Income",
+                                     "Death",
+                                     "Disability"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/kbs"
+                    },
+                    {
+                        "id":  "lbs-wb",
+                        "source_id":  "2aG0F5gBXu-iUKXqHHS4",
+                        "slug":  "lbs-wb",
+                        "name":  "Lakshmir Bhandar Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Lakshmir Bhandar\" scheme is a flagship program to provide financial assistance to women from economically weaker sections of society, for the empowerment of women in the age group of 25-60 years, and enrolled in âSwasthya Sathiâ.",
+                        "tags":  [
+                                     "Financial Asisstance",
+                                     "Social Welfare",
+                                     "Women",
+                                     "Lakshmir Bhandar"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lbs-wb"
+                    },
+                    {
+                        "id":  "lps",
+                        "source_id":  "txe1F5gB5uF80_MGJY-x",
+                        "slug":  "lps",
+                        "name":  "Lokprasar Prakalpo Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Sports \u0026 Culture"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âLokprasar Prakalpo Schemeâ was launched by the Department of Information \u0026 Cultural Affairs, Government of West Bengal in 2014 to revive the Folk and Tribal Culture in their respective genre across various zones and districts in the State.",
+                        "tags":  [
+                                     "Folk",
+                                     "Artists",
+                                     "Tribal Culture",
+                                     "Pension",
+                                     "Financial Assistance",
+                                     "Performance Fee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lps"
+                    },
+                    {
+                        "id":  "ms",
+                        "source_id":  "2hfVF5gB5uF80_MGsZKO",
+                        "slug":  "ms",
+                        "name":  "Manabik Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Manabik Pension Scheme is a financial assistance program launched in 2018 to provide monthly pensions to individuals with disabilities in West Bengal.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Differently Abled",
+                                     "Pension",
+                                     "Social Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ms"
+                    },
+                    {
+                        "id":  "mbwb",
+                        "source_id":  "IqHZF5gBXu-iUKXqUXgI",
+                        "slug":  "mbwb",
+                        "name":  "Maternity Benefit",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Maternity Benefit\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides maternity benefits up to two times in a lifetime to the eligible female beneficiaries or the wives of male beneficiaries.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Maternity",
+                                     "Pregnancy Care",
+                                     "Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mbwb"
+                    },
+                    {
+                        "id":  "metfmaiswb",
+                        "source_id":  "DBfZF5gB5uF80_MGUJOJ",
+                        "slug":  "metfmaiswb",
+                        "name":  "Medical Expenses-Treatment for Major Ailments Including Surgery",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Medical Expenses-Treatment for Major Ailments Including Surgery\u0027\u0027 scheme by the BOCW Welfare Board, Labour Dept.,West Bengal, is a welfare scheme that provides medical expenses for the treatment of beneficiary or his/ her dependents suffering from Cancer, Heart disease, Kidney disease, T.B. etc.",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Treatment",
+                                     "Ailments",
+                                     "Surgery",
+                                     "Medical Expenses"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/metfmaiswb"
+                    },
+                    {
+                        "id":  "mbbwwb",
+                        "source_id":  "ERfZF5gB5uF80_MGUZNq",
+                        "slug":  "mbbwwb",
+                        "name":  "Miscarriage Benefit ",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Miscarriage Benefit\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides financial benefits for miscarriage up to two times in a lifetime to the eligible female beneficiaries or the wives of male beneficiaries.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Miscarriage",
+                                     "Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mbbwwb"
+                    },
+                    {
+                        "id":  "nhs-west-bengal",
+                        "source_id":  "ZhezF5gB5uF80_MGi49l",
+                        "slug":  "nhs-west-bengal",
+                        "name":  "NIJASHAREE HOUSING SCHEME",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme âNIJASHAREE HOUSING SCHEMEâ is an initiative by the Govt. of West Bengal which envisages the construction of multi-storied Lower Income Group (LIG)/Middle Income Group (MIG) flats on the public lands belonging to the State Government, local bodies and parastatals.",
+                        "tags":  [
+                                     "House",
+                                     "Flats",
+                                     "Lower Income Group",
+                                     "Middle Income Group"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/nhs-west-bengal"
+                    },
+                    {
+                        "id":  "oapwb",
+                        "source_id":  "2BfVF5gB5uF80_MGrZKz",
+                        "slug":  "oapwb",
+                        "name":  "Old Age Pension",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "In 2010, the Women and Child Development and Social Welfare Department of the West Bengal State Government introduced the \"Old Age Pension\" scheme.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Social Welfare",
+                                     "Pension",
+                                     "Old Age",
+                                     "Senior Citizens"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/oapwb"
+                    },
+                    {
+                        "id":  "olahwucf",
+                        "source_id":  "TcY9GJgB0AGc0F0iEDgD",
+                        "slug":  "olahwucf",
+                        "name":  "Old Age Pension To Handloom Weavers Under Coop. Fold",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âOld Age Pension To Handloom Weaversâ scheme implemented by the MSME and Textiles Dept., aims to provide monthly financial assistance in the form of pension to a weaver member of a handloom cooperative society.\n\n",
+                        "tags":  [
+                                     "Pension",
+                                     "Handloom Weavers",
+                                     "Old Age"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/olahwucf"
+                    },
+                    {
+                        "id":  "ota-sfi",
+                        "source_id":  "LqG7F5gBXu-iUKXqV3a4",
+                        "slug":  "ota-sfi",
+                        "name":  "One Time Assistance to Small and Marginal Farmers for Purchase of Small Farm Implements (OTA-SFI)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Agriculture,Rural \u0026 Environment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âOne Time Assistance to Small and Marginal Farmers for Purchase of Small Farm Implements (OTA-SFI)â  by the Agriculture Department, Government of West Bengal aims to aid the farmers in procuring manually operated small farm implements necessary for agricultural operations.\n",
+                        "tags":  [
+                                     "Agriculture",
+                                     "Farmers",
+                                     "Small Farm Implements",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ota-sfi"
+                    },
+                    {
+                        "id":  "pbwb",
+                        "source_id":  "IKHZF5gBXu-iUKXqUHg_",
+                        "slug":  "pbwb",
+                        "name":  "Pension Benefit",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Pension Benefit\u0027\u0027 scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides a monthly pension after completion of 60 years to the eligible registered member.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Pension",
+                                     "Nominee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pbwb"
+                    },
+                    {
+                        "id":  "ps-west-bengal",
+                        "source_id":  "Eca1F5gB0AGc0F0iJTQ4",
+                        "slug":  "ps-west-bengal",
+                        "name":  "Pratyasha Scheme- West Bengal",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Government of West Bengal has undertaken a housing project scheme named â PRATYASHAâ for Police Personnel (from Inspectors to Constables) working in the West Bengal Police to materialize their dreams of owning houses.",
+                        "tags":  [
+                                     "Police",
+                                     "House",
+                                     "Flats",
+                                     "Financial Assistance",
+                                     "Housing Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ps-west-bengal"
+                    },
+                    {
+                        "id":  "rosftcw",
+                        "source_id":  "ExfZF5gB5uF80_MGUpOZ",
+                        "slug":  "rosftcw",
+                        "name":  "Refund of Subscriptions for the Construction Workers",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The âRefund of Subscriptions for the Construction Workersâ scheme by the BOCW Welfare Board, Labour Department, West Bengal, is a welfare scheme that provides reimbursement of the entire subscription, with 8% interest, to the beneficiary at age 60, after 3 years if they choose to leave the Board, or",
+                        "tags":  [
+                                     "Labour",
+                                     "Construction Worker",
+                                     "Subscriptions Refund"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rosftcw"
+                    },
+                    {
+                        "id":  "wbrupashree",
+                        "source_id":  "ShcvMZgB5uF80_MGwZSk",
+                        "slug":  "wbrupashree",
+                        "name":  "Rupashree Prakalpa",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to mitigate the financial difficulties faced by poor families in bearing the expenses of their daughtersâ marriages. Under this scheme, a one-time financial grant of â¹25,000/- is provided to economically stressed families at the time of their adult daughtersâ marriages.",
+                        "tags":  [
+                                     "Poor Families",
+                                     "Daughter",
+                                     "Marriage Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbrupashree"
+                    },
+                    {
+                        "id":  "wbsaboojsathi",
+                        "source_id":  "Rhd_MJgB5uF80_MG_JSb",
+                        "slug":  "wbsaboojsathi",
+                        "name":  "Sabooj Sathi",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  null,
+                        "close_date":  null,
+                        "priority":  null,
+                        "description":  "The Sabooj Sathi Scheme is a student welfare initiative launched by the government of West Bengal, India, to provide bicycles to students in the state. Under the scheme, bicycles are distributed free of cost to students studying in government and government-aided schools from classes IX to XII. ",
+                        "tags":  [
+                                     "Sabooj Sathi Scheme West Bengal Government",
+                                     "Student Welfare",
+                                     "Bicycles Distribution",
+                                     "Empowerment",
+                                     "Social Inclusion",
+                                     "Free Transportation",
+                                     "Sustainable Development"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbsaboojsathi"
+                    },
+                    {
+                        "id":  "sm",
+                        "source_id":  "z6H9F5gBXu-iUKXqaHjI",
+                        "slug":  "sm",
+                        "name":  "Samajik Mukti",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The government issued \u0027Samajik Mukti\u0027 (Social Freedom) cards to unorganised sector workers of the State for Provident Fund \u0026 Other Social Benefit scheme.",
+                        "tags":  [
+                                     "Labour",
+                                     "Provident Fund",
+                                     "Unorganised Sector",
+                                     "Social",
+                                     "Financial"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sm"
+                    },
+                    {
+                        "id":  "sdbwaw",
+                        "source_id":  "ZRe8F5gB5uF80_MGVZFi",
+                        "slug":  "sdbwaw",
+                        "name":  "Scheme of Death Benefit for Weavers \u0026 Artisans of West Bengal",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "\"Scheme of Death Benefit for Weavers \u0026 Artisans of West Bengal\" is a social welfare scheme implemented by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal aims to provide financial assistance to the family of the deceased weaver /artisan.",
+                        "tags":  [
+                                     "Weavers",
+                                     "Social Welfare",
+                                     "Artisans",
+                                     "Death"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sdbwaw"
+                    },
+                    {
+                        "id":  "ss-west-bengal",
+                        "source_id":  "v8cb25sB0AGc0F0iRQA1",
+                        "slug":  "ss-west-bengal",
+                        "name":  "Shikshashree Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Shikshashree Schemeâ was implemented by the Government of West Bengal during the year 2014-15  by merging the existing schemes of Book Grants \u0026 Maintenance Grants to provide financial assistance to Schedule Caste students studying in classes V to VIII.",
+                        "tags":  [
+                                     "Scheduled Caste",
+                                     "Student",
+                                     "Scholarship",
+                                     "Financial Assistance",
+                                     "Class V-VIII"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ss-west-bengal"
+                    },
+                    {
+                        "id":  "wbsishusathi",
+                        "source_id":  "w8b9F5gB0AGc0F0iYDeE",
+                        "slug":  "wbsishusathi",
+                        "name":  "Sishu Saathi",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "âSishu Saathiâ, a scheme of the Health and Family Welfare Department, Government of West Bengal as part of the Rastriya Bal Swasthya Karyakram (RBSK) under National Health Mission is meant to treat Indian children of 0-18 years age group with zero out of pocket expenditure.",
+                        "tags":  [
+                                     "Sishu Saathi",
+                                     "Social Welfare",
+                                     "Financial Assistance",
+                                     "Child Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbsishusathi"
+                    },
+                    {
+                        "id":  "swsp",
+                        "source_id":  "_aG1F5gBXu-iUKXqK3TZ",
+                        "slug":  "swsp",
+                        "name":  "State Welfare Scheme For Purohits",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Housing \u0026 Shelter"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"State Welfare Scheme for Purohits\" was launched in September 2020 to benefit the financially distressed practicing temple /tribal purohit or priests of other communities like Christians, Jain, and Buddhists.",
+                        "tags":  [
+                                     "Economically Backward",
+                                     "Purohit",
+                                     "Priests",
+                                     "Financial Assistance",
+                                     "House"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/swsp"
+                    },
+                    {
+                        "id":  "svmcms",
+                        "source_id":  "yMco25sB0AGc0F0ifQCn",
+                        "slug":  "svmcms",
+                        "name":  "Swami Vivekananda Merit-cum-Means Scholarship",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Swami Vivekananda Merit-cum-Means Scholarship\" started by the Higher Education Department of West Bengal State for the financial assistance to the student.",
+                        "tags":  [
+                                     "Student",
+                                     "Financial Assistance",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/svmcms"
+                    },
+                    {
+                        "id":  "tpgftcw",
+                        "source_id":  "KKHZF5gBXu-iUKXqU3jO",
+                        "slug":  "tpgftcw",
+                        "name":  "Tool Purchase Grant for the Construction Workers",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âTool Purchase Grant for the Construction Workersâ scheme by the BOCW Welfare Board, Labour Dep.t, West Bengal, is a welfare scheme that provides one time reimbursement to each registered beneficiary who is with the Board for a period of at least 6 months for purchasing tools for his profession.",
+                        "tags":  [
+                                     "Labour",
+                                     "Building Worker",
+                                     "Construction Worker",
+                                     "Tool Purchase"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tpgftcw"
+                    },
+                    {
+                        "id":  "obs",
+                        "source_id":  "yRfVF5gB5uF80_MGppLn",
+                        "slug":  "obs",
+                        "name":  "Toposili Bandhu (Old Age Pension) Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Toposili Bandhu\" (Old Age Pension) scheme was initiated by the Backward Classes Welfare Department and Tribal Development Department of West Bengal Government. ",
+                        "tags":  [
+                                     "Pension",
+                                     "Financial Assistance",
+                                     "Social Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/obs"
+                    },
+                    {
+                        "id":  "wbafbgia",
+                        "source_id":  "UKG8F5gBXu-iUKXqTXZP",
+                        "slug":  "wbafbgia",
+                        "name":  "West Bengal Artisans Financial Benefit Scheme 2024: Grant to Individual Artisans",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âGrant to Individual Artisansâ is a sub-scheme under \"West Bengal Artisans Financial Benefit Scheme 2024â, by the MSME and Textiles Dept, Government of West Bengal, aims to create, support and sustain an enabling ecosystem for strengthening creativity and capacity of the artisans.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Financial Benefit",
+                                     "Purchase",
+                                     "Repair",
+                                     "Equipment",
+                                     "Tool Kits"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbafbgia"
+                    },
+                    {
+                        "id":  "wbafbsgics",
+                        "source_id":  "IhfZF5gB5uF80_MG0pNw",
+                        "slug":  "wbafbsgics",
+                        "name":  "West Bengal Artisans Financial Benefit Scheme 2024: Grant to Industrial Cooperative Society",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âGrant to Industrial Cooperative Societyâ is a sub-scheme under \"West Bengal Artisans Financial Benefit Scheme 2024â, by the MSME and Textiles Dept, Government of West Bengal. It aims to create, support and sustain an enabling ecosystem for strengthening creativity and capacity of the artisans.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Financial Benefit",
+                                     "Purchase",
+                                     "Repair",
+                                     "Equipment",
+                                     "Tool Kits"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbafbsgics"
+                    },
+                    {
+                        "id":  "wbafbsfs",
+                        "source_id":  "WBe8F5gB5uF80_MGT5HU",
+                        "slug":  "wbafbsfs",
+                        "name":  "West Bengal Artisans Financial Benefit Scheme: Facilitation Supports",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âFacilitation Supportsâ is a sub-scheme under \"West Bengal Artisans Financial Benefit Scheme 2024â, implemented by the MSME and Textiles Dept, Government of West Bengal. It aims to provide various types of facilitation support to the artisans and Industrial Cooperative Societies.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Facilitation Support"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbafbsfs"
+                    },
+                    {
+                        "id":  "wbafbssdm",
+                        "source_id":  "dqG8F5gBXu-iUKXqXHbs",
+                        "slug":  "wbafbssdm",
+                        "name":  "West Bengal Artisans Financial Benefit Scheme: Support for Digital Marketing",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSupport for Digital Marketingâ is a sub-scheme under \"West Bengal Artisans Financial Benefit Schemeâ, by the MSME and Textiles Dept, Government of West Bengal, aims to provide access to digital markets and e-commerce to the artisans.",
+                        "tags":  [
+                                     "Artisans",
+                                     "Digital Marketing",
+                                     "E-commerce"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbafbssdm"
+                    },
+                    {
+                        "id":  "wbfs",
+                        "source_id":  "H6Io25sBXu-iUKXqPUVW",
+                        "slug":  "wbfs",
+                        "name":  "West Bengal Freeship Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The West Bengal Freeship Scheme (WBFS)has been launched by the Department of Higher Education,  Government of West Bengal. This freeship would be provided as a tuition fee waiver for the under Graduate students level in Engineering \u0026 Technology/ Pharmacy/ Architecture.",
+                        "tags":  [
+                                     "Tuition Fee Waiver",
+                                     "Freeship",
+                                     "Financial Support",
+                                     "Engineering \u0026 Technology",
+                                     "Pharmacy",
+                                     "Architecture"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbfs"
+                    },
+                    {
+                        "id":  "aihw",
+                        "source_id":  "WaG8F5gBXu-iUKXqT3ZY",
+                        "slug":  "aihw",
+                        "name":  "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Individual Handloom Weaver",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âAssistance to Individual Handloom Weaver\" is a sub-scheme under \"West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024â, implemented by the MSME and Textiles Dept, Government of West Bengal aims to  provide one-time financial assistance to the individual Handloom weavers.\n\n",
+                        "tags":  [
+                                     "Handloom",
+                                     "Handloom Weaver",
+                                     "Financial Benefit"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/aihw"
+                    },
+                    {
+                        "id":  "avpv",
+                        "source_id":  "Xhe8F5gB5uF80_MGU5E5",
+                        "slug":  "avpv",
+                        "name":  "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Viable and Potentially Viable PWCS",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âAssistance to Viable and Potentially Viable PWCS\" is a sub-scheme under \"West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024â, by the MSME and Textiles Dept, Government of West Bengal aims to provide financial assistance to the societies who will fulfill the criteria of viability.",
+                        "tags":  [
+                                     "Handloom",
+                                     "Khadi Weavers",
+                                     "PWCS",
+                                     "Khadi Societies"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/avpv"
+                    },
+                    {
+                        "id":  "syssr",
+                        "source_id":  "bxe8F5gB5uF80_MGWpGc",
+                        "slug":  "syssr",
+                        "name":  "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Supply of Yarn to Societies etc. at Subsidized Rate",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSupply of Yarn to Societies etc. at Subsidized Rate\" is a sub-scheme under \"West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024â, by the MSME and Textiles Dept, Government of West Bengal aims to  provide supply of subsidized yarn to the PWCS, Khadi Weavers\u0027 Societies etc.",
+                        "tags":  [
+                                     "Handloom",
+                                     "Khadi Weavers",
+                                     "PWCS",
+                                     "Khadi Societies",
+                                     "Yarn",
+                                     "Subsidized Rate"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/syssr"
+                    },
+                    {
+                        "id":  "otsnpa",
+                        "source_id":  "W6G8F5gBXu-iUKXqT3ab",
+                        "slug":  "otsnpa",
+                        "name":  "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Support for One Time Settlement (OTS) of NPA Accounts of PWCS",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âSupport for One Time Settlement (OTS) of NPA Accounts of PWCS\" is a sub-scheme under \"West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024â by the MSME and Textiles Dept, Government of West Bengal aims to make PWCS debt free by providing financial support for OTS of NPA accounts.",
+                        "tags":  [
+                                     "Handloom",
+                                     "Khadi Weavers",
+                                     "NPA",
+                                     "PWCS",
+                                     "OTS"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/otsnpa"
+                    },
+                    {
+                        "id":  "saipcar",
+                        "source_id":  "Jxc9GJgB5uF80_MGDpTK",
+                        "slug":  "saipcar",
+                        "name":  "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Construction of Approach Road",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  "2025-09-15",
+                        "priority":  3,
+                        "description":  "The âConstruction of Approach Roadâ under the âSAIP for MSMEsâ scheme, facilitates the Private Industrial Park in provision with Approach Road catering to the AIP.\n",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "MSMEs",
+                                     "Industrial Park",
+                                     "Approach Road Construction",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/saipcar"
+                    },
+                    {
+                        "id":  "saipibeci",
+                        "source_id":  "oaHqF5gBXu-iUKXq-Hjg",
+                        "slug":  "saipibeci",
+                        "name":  "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Basic and Essential Common Infrastructure Facilities",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  "2025-09-15",
+                        "priority":  3,
+                        "description":  "The âIncentive for Basic and Essential Common Infrastructure Facilitiesâ under the âSAIP for MSMEsâ scheme, aims to provide one time back-ended incentive for development of Basic and Essential Common Infrastructure Facilities based on land area.\n",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Industrial Park",
+                                     "Fiscal Incentives",
+                                     "Infrastructure Facilities"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/saipibeci"
+                    },
+                    {
+                        "id":  "saipicetp",
+                        "source_id":  "RcY9GJgB0AGc0F0iDjjT",
+                        "slug":  "saipicetp",
+                        "name":  "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Common Effluent Treatment Plant (CETP)",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "The âIncentive for Common Effluent Treatment Plant (CETP)â under the âSAIP for MSMEsâ scheme, aims to provide reimbursement for installation of CETP, wherever applicable, based on land area of AIP.\n",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "Industrial Park",
+                                     "MSMEs",
+                                     "Common Effluent Treatment Plant",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/saipicetp"
+                    },
+                    {
+                        "id":  "saipispss",
+                        "source_id":  "JBc9GJgB5uF80_MGDpSE",
+                        "slug":  "saipispss",
+                        "name":  "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Setting up a Power Sub Station",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  "2025-09-15",
+                        "priority":  3,
+                        "description":  "The âIncentive for Setting up a Power Sub Stationâ under the âSAIP for MSMEsâ scheme, facilitates the Private Industrial Park in the provision of quality power.\n",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "MSMEs",
+                                     "Incentives",
+                                     "Incentives",
+                                     "Non-Fiscal Incentives"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/saipispss"
+                    },
+                    {
+                        "id":  "saiprsd",
+                        "source_id":  "UaE9GJgBXu-iUKXqDnm5",
+                        "slug":  "saiprsd",
+                        "name":  "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Reimbursement of Stamp Duty",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âReimbursement of Stamp Dutyâ under the âSAIP for MSMEsâ scheme, aims to provide reimbursement of stamp duty paid by the SPV for registration of land documents.\n",
+                        "tags":  [
+                                     "Entrepreneurship",
+                                     "MSMEs",
+                                     "Stamp Duty",
+                                     "Industrial Park",
+                                     "Fiscal Incentives"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/saiprsd"
+                    },
+                    {
+                        "id":  "wbmwwsad",
+                        "source_id":  "BRe7F5gB5uF80_MGVZFF",
+                        "slug":  "wbmwwsad",
+                        "name":  "West Bengal Migrant Workersâ Welfare Scheme: Accidental Disability",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"West Bengal Migrant Workersâ Welfare Scheme: Accidental Disability\" is a social welfare scheme by the West Bengal Migrant Workersâ Welfare Board, that provides one-time assistance to the registered Migrant Worker in case of disability arising out of accidents during work.",
+                        "tags":  [
+                                     "Migrant",
+                                     "Social Welfare",
+                                     "Financial Assistance",
+                                     "Labour",
+                                     "Accident",
+                                     "Disability",
+                                     "Worker"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbmwwsad"
+                    },
+                    {
+                        "id":  "wbmwwsca",
+                        "source_id":  "HKG7F5gBXu-iUKXqVXYt",
+                        "slug":  "wbmwwsca",
+                        "name":  "West Bengal Migrant Workersâ Welfare Scheme: Cremation",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"West Bengal Migrant Workersâ Welfare Scheme: Cremation\" is a social welfare scheme by the West Bengal Migrant Workersâ Welfare Board, Labour Dept., Government of West Bengal, that provides an one time assistance to the nominee of the worker for cremation when the worker dies.",
+                        "tags":  [
+                                     "Social Welfare",
+                                     "Migrant",
+                                     "Financial Assistance",
+                                     "Labour",
+                                     "Cremation",
+                                     "Death",
+                                     "Worker"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbmwwsca"
+                    },
+                    {
+                        "id":  "wbmwwsda",
+                        "source_id":  "_xe7F5gB5uF80_MGVJAV",
+                        "slug":  "wbmwwsda",
+                        "name":  "West Bengal Migrant Workersâ Welfare Scheme: Death Assistance",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"West Bengal Migrant Workersâ Welfare Scheme: Death Assistance\" is a social welfare scheme by the West Bengal Migrant Workersâ Welfare Board, Labour Dept., Government of West Bengal, that provides an one time assistance to the nominee in case of natural death/accidental death of the migrant worker.",
+                        "tags":  [
+                                     "Migrant",
+                                     "Social Welfare",
+                                     "Financial Assistance",
+                                     "Labour",
+                                     "Death",
+                                     "Accident",
+                                     "Worker"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbmwwsda"
+                    },
+                    {
+                        "id":  "wbmwwsc",
+                        "source_id":  "G6G7F5gBXu-iUKXqVXYO",
+                        "slug":  "wbmwwsc",
+                        "name":  "West Bengal Migrant Workersâ Welfare Scheme: Repatriation of Dead Body",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"West Bengal Migrant Workersâ Welfare Scheme: Repatriation of Dead Body\" is a social welfare scheme implemented by the West Bengal Migrant Workersâ Welfare Board, that provides an one time assistance to the nominee for bringing the dead body of the registered migrant worker in case of death.",
+                        "tags":  [
+                                     "Cremation",
+                                     "Migrant",
+                                     "Social Welfare",
+                                     "Financial Assistance",
+                                     "Labour",
+                                     "Worker",
+                                     "Repatriation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbmwwsc"
+                    },
+                    {
+                        "id":  "wbsccs",
+                        "source_id":  "y6HVF5gBXu-iUKXqqHcr",
+                        "slug":  "wbsccs",
+                        "name":  "West Bengal Student Credit Card Scheme",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Higher Education Department, Government of West Bengal has introduced the Student Credit Card Scheme for the students of West Bengal to enable them to pursue higher education without having any financial constraints.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Education Loan",
+                                     "Higher Study"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbsccs"
+                    },
+                    {
+                        "id":  "wbtisrsdre",
+                        "source_id":  "hca8F5gB0AGc0F0iUTVm",
+                        "slug":  "wbtisrsdre",
+                        "name":  "West Bengal Textile Incentive Scheme: Reimbursement of Stamp Duty and Registration Fee",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Infra",
+                        "close_date":  null,
+                        "priority":  3,
+                        "description":  "âReimbursement of Stamp Duty and Registration Feeâ incentives under âWest Bengal Textile Incentive Schemeâ scheme implemented by the Dept. of MSME\u0026T, Government of West Bengal, aims to provide a reimbursement of stamp duty and registration fee paid by the eligible textile sector enterprises for",
+                        "tags":  [
+                                     "Textile",
+                                     "Incentives",
+                                     "Waiver",
+                                     "Entrepreneurship",
+                                     "Subsidy",
+                                     "Reimbursement",
+                                     "Stamp Duty",
+                                     "Registration Fee"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtisrsdre"
+                    },
+                    {
+                        "id":  "wbtwsae",
+                        "source_id":  "BBc7GJgB5uF80_MGK5RR",
+                        "slug":  "wbtwsae",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Assistance for Education of Children",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "This scheme provides financial support to beneficiaries for their children\u0027s (maximum two) education at various levels, including higher secondary, graduation, post-graduation, and professional courses like engineering and medical studies.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Engineering And Medical",
+                                     "Education",
+                                     "Scholarship",
+                                     "Higher Secondary",
+                                     "Graduation",
+                                     "Post-Graduation"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsae"
+                    },
+                    {
+                        "id":  "wbtwsam",
+                        "source_id":  "IKE7GJgBXu-iUKXqJHlw",
+                        "slug":  "wbtwsam",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Assistance for Marriage",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme provides financial aid for the marriage of eligible beneficiaries or their dependent sons/daughters (up to two marriages).\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Marriage Assistance",
+                                     "Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsam"
+                    },
+                    {
+                        "id":  "wbtwsaps",
+                        "source_id":  "G8Y7GJgB0AGc0F0iJDhd",
+                        "slug":  "wbtwsaps",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Assistance for Purchase of Spectacles",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This scheme provides financial assistance to eligible beneficiaries every 5 years to support the purchase of spectacles, ensuring better eye health and vision.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Health \u0026 Wellness",
+                                     "Medical Appliance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsaps"
+                    },
+                    {
+                        "id":  "wbtwssadpd",
+                        "source_id":  "pMbpF5gB0AGc0F0iZTfK",
+                        "slug":  "wbtwssadpd",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Assistance on Death and Permanent Disablement",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial relief to the beneficiaries in case of permanent disability due to accidents or their dependents/nominees in case of accidental or natural death.\n",
+                        "tags":  [
+                                     "Social Empowerment",
+                                     "Transport Worker",
+                                     "Monthly Assistance",
+                                     "Death Assistance",
+                                     "Permanent Disablement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwssadpd"
+                    },
+                    {
+                        "id":  "wbtwssah",
+                        "source_id":  "dhfpF5gB5uF80_MGZZON",
+                        "slug":  "wbtwssah",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Assistance on Hospitalization",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides financial assistance to transport workers who are hospitalized for 5 or more days due to an accident.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Hospitalization",
+                                     "Medical Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwssah"
+                    },
+                    {
+                        "id":  "wbtwssfp",
+                        "source_id":  "nMbpF5gB0AGc0F0iYzd-",
+                        "slug":  "wbtwssfp",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Family Pension",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Under this scheme, beneficiaries, upon retirement or unfortunate demise, will have 50% of their last drawn amount transferred monthly to their families through a Direct Benefit Transfer (DBT) system.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Monthly Assistance",
+                                     "Family Pension"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwssfp"
+                    },
+                    {
+                        "id":  "wbtwsfe",
+                        "source_id":  "Bxc7GJgB5uF80_MGLZSg",
+                        "slug":  "wbtwsfe",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Funeral Expenses",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme provides monetary support to help cover funeral costs in the unfortunate event of a beneficiary\u0027s demise.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Social Empowerment",
+                                     "Funeral Expenses"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsfe"
+                    },
+                    {
+                        "id":  "wbtwsmb",
+                        "source_id":  "IaE7GJgBXu-iUKXqJHnu",
+                        "slug":  "wbtwsmb",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Maternity Benefit",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Women and Child",
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "This scheme provides financial assistance to a beneficiary on successful delivery of a child or miscarriage by such beneficiary or his wife.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Health \u0026 Wellness",
+                                     "Maternity Benefit",
+                                     "Medical Benefit",
+                                     "Pregnant Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsmb"
+                    },
+                    {
+                        "id":  "wbtwsmbma",
+                        "source_id":  "HMY7GJgB0AGc0F0iJDiP",
+                        "slug":  "wbtwsmbma",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Medical Benefit for Major Ailments",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "This scheme provides financial assistance for the treatment of beneficiaries or their family members suffering from major ailments like cancer, TB, brain stroke, cardiac problems, and others.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Health \u0026 Wellness",
+                                     "Major Ailments",
+                                     "Medical Benefit"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwsmbma"
+                    },
+                    {
+                        "id":  "wbtwssp",
+                        "source_id":  "eBfpF5gB5uF80_MGZpOM",
+                        "slug":  "wbtwssp",
+                        "name":  "West Bengal Transport Workersâ Social Security Scheme: Pension",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides pension benefits to transport workers of the state upon reaching 60 years of age.\n",
+                        "tags":  [
+                                     "Social Security",
+                                     "Transport Worker",
+                                     "Monthly Assistance",
+                                     "Pension"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wbtwssp"
+                    },
+                    {
+                        "id":  "wpwb",
+                        "source_id":  "yqHVF5gBXu-iUKXqqHcc",
+                        "slug":  "wpwb",
+                        "name":  "Widow Pension-West Bengal",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The West Bengal government\u0027s Women and Child Development and Social Welfare Department launched the \"Widow Pension\" scheme in 2010. This program aims to support widows facing economic hardship within the state.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Social Welfare",
+                                     "Pension"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/wpwb"
+                    },
+                    {
+                        "id":  "yuvasree",
+                        "source_id":  "mKG4F5gBXu-iUKXqLnW6",
+                        "slug":  "yuvasree",
+                        "name":  "Yuvasree Prakalpa",
+                        "level":  "State",
+                        "state":  "West Bengal",
+                        "beneficiary_state":  [
+                                                  "West Bengal"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Yuvasree\" was launched  in 2013 by Labor Department, Government of West Bengal for providing financial assistance to jobseekers. ",
+                        "tags":  [
+                                     "Employment",
+                                     "Job Seeker",
+                                     "Financial Assistance",
+                                     "Placement"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/yuvasree"
+                    }
+                ]
+}

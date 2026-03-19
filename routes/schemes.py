@@ -11,7 +11,8 @@ from flask import Blueprint, jsonify, request as flask_request
 schemes_bp = Blueprint("schemes", __name__)
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
-SCHEMES_DIR = ROOT_DIR / "central_schemes"
+CENTRAL_SCHEMES_DIR = ROOT_DIR / "central_schemes"
+STATE_SCHEMES_DIR = ROOT_DIR / "state_schemes"
 
 
 def _load_env_vars() -> dict:
@@ -35,29 +36,65 @@ ENV = _load_env_vars()
 @lru_cache(maxsize=1)
 def _load_all_schemes() -> list:
     all_schemes = []
-    if not SCHEMES_DIR.exists():
-        return all_schemes
+    scheme_dirs = [CENTRAL_SCHEMES_DIR, STATE_SCHEMES_DIR]
 
-    for path in sorted(SCHEMES_DIR.glob("*.json")):
-        if path.name == "index.json":
+    for directory in scheme_dirs:
+        if not directory or not directory.exists():
             continue
 
-        try:
-            payload = json.loads(path.read_text(encoding="utf-8-sig"))
-        except Exception:
-            continue
-
-        category = payload.get("category", "Unknown") if isinstance(payload, dict) else "Unknown"
-        schemes = payload.get("schemes", []) if isinstance(payload, dict) else []
-
-        for scheme in schemes:
-            if not isinstance(scheme, dict):
+        for path in sorted(directory.glob("*.json")):
+            if path.name == "index.json":
                 continue
-            item = dict(scheme)
-            item.setdefault("category", category)
-            all_schemes.append(item)
+
+            try:
+                payload = json.loads(path.read_text(encoding="utf-8-sig"))
+            except Exception:
+                continue
+
+            if isinstance(payload, dict):
+                category = payload.get("category") or payload.get("state") or "Unknown"
+                schemes = payload.get("schemes", [])
+            else:
+                category = "Unknown"
+                schemes = []
+
+            for scheme in schemes:
+                if not isinstance(scheme, dict):
+                    continue
+                item = dict(scheme)
+                item.setdefault("category", category)
+                all_schemes.append(item)
 
     return all_schemes
+
+
+def _normalize_state_name(value):
+    if not value:
+        return None
+
+    text = str(value).strip().lower()
+    if not text:
+        return None
+
+    aliases = {
+        "west bengal": "west bengal",
+        "wb": "west bengal",
+        "kolkata": "west bengal",
+        "calcutta": "west bengal",
+        "delhi": "delhi",
+        "new delhi": "delhi",
+        "nct of delhi": "delhi",
+        "maharashtra": "maharashtra",
+        "mumbai": "maharashtra",
+        "bombay": "maharashtra",
+    }
+
+    # Exact match first
+    if text in aliases:
+        return aliases[text]
+
+    # Fallback: if value already looks like a full state name, keep it lowercased
+    return text
 
 
 def _parse_age_value(value):
@@ -353,12 +390,13 @@ def _is_age_plausible_without_explicit_bounds(scheme, age):
     return True
 
 
-def filter_schemes(age=None, income=None):
+def filter_schemes(age=None, income=None, state=None):
     items = _load_all_schemes()
     results = []
 
     age_value = _parse_age_value(age)
     income_value = _parse_rupee_value(income)
+    state_value = _normalize_state_name(state)
 
     for scheme in items:
         min_age = _parse_age_value(scheme.get("min_age"))
@@ -380,7 +418,34 @@ def filter_schemes(age=None, income=None):
         if income_value is not None and income_limit is not None and income_value > income_limit:
             income_ok = False
 
-        if age_ok and income_ok:
+        state_ok = True
+        if state_value is not None:
+            scheme_level = str(scheme.get("level", "")).strip().lower()
+
+            # Collect all state names associated with this scheme.
+            state_candidates = set()
+            direct_state = _normalize_state_name(scheme.get("state"))
+            if direct_state:
+                state_candidates.add(direct_state)
+
+            ben_state = scheme.get("beneficiary_state") or scheme.get("beneficiaryState")
+            if isinstance(ben_state, list):
+                for s in ben_state:
+                    norm = _normalize_state_name(s)
+                    if norm:
+                        state_candidates.add(norm)
+            elif isinstance(ben_state, str):
+                norm = _normalize_state_name(ben_state)
+                if norm:
+                    state_candidates.add(norm)
+
+            # When user explicitly asks for a state, prefer only State-level schemes.
+            if scheme_level == "state":
+                state_ok = bool(state_candidates and state_value in state_candidates)
+            else:
+                state_ok = False
+
+        if age_ok and income_ok and state_ok:
             results.append(scheme)
 
     return results
@@ -505,8 +570,8 @@ def _score_scheme(scheme, age=None, income=None, user_query=""):
     return score
 
 
-def recommend_schemes(age=None, income=None, user_query="", limit=80):
-    matched = filter_schemes(age=age, income=income)
+def recommend_schemes(age=None, income=None, user_query="", state=None, limit=80):
+    matched = filter_schemes(age=age, income=income, state=state)
     ranked = sorted(
         matched,
         key=lambda s: _score_scheme(s, age=age, income=income, user_query=user_query),
@@ -683,13 +748,36 @@ def generate_ai_reply(user_query, age, income, filtered_schemes, total_count=Non
     }
 
 
+def _extract_state_from_text(text):
+    if not text:
+        return None
+
+    lowered = text.lower()
+    patterns = [
+        ("west bengal", "west bengal"),
+        ("kolkata", "west bengal"),
+        ("calcutta", "west bengal"),
+        ("delhi", "delhi"),
+        ("new delhi", "delhi"),
+        ("maharashtra", "maharashtra"),
+        ("mumbai", "maharashtra"),
+        ("bombay", "maharashtra"),
+    ]
+
+    for needle, canonical in patterns:
+        if needle in lowered:
+            return canonical
+    return None
+
+
 @schemes_bp.route("/get-schemes", methods=["POST"])
 def get_schemes():
     data = flask_request.json or {}
     age = data.get("age")
     income = data.get("income")
+    state = data.get("state") or data.get("location")
 
-    matched = filter_schemes(age=age, income=income)
+    matched = filter_schemes(age=age, income=income, state=state)
     return jsonify(matched)
 
 
@@ -700,11 +788,14 @@ def chat():
     user_query = data.get("message", "")
     age = data.get("age")
     income = data.get("income")
+    state = data.get("state") or data.get("location")
 
     if age is None:
         age = _extract_age_from_text(user_query)
     if income is None:
         income = _extract_income_from_text(user_query)
+    if state is None:
+        state = _extract_state_from_text(user_query)
 
     # For greetings or random/non-actionable messages without profile details,
     # respond with guidance instead of returning arbitrary schemes.
@@ -727,7 +818,13 @@ def chat():
             }
         )
 
-    matched_all, matched_ranked = recommend_schemes(age=age, income=income, user_query=user_query, limit=80)
+    matched_all, matched_ranked = recommend_schemes(
+        age=age,
+        income=income,
+        user_query=user_query,
+        state=state,
+        limit=80,
+    )
     reply_json = generate_ai_reply(user_query, age, income, matched_ranked, total_count=len(matched_all))
 
     return jsonify(

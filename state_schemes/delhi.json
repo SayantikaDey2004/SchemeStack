@@ -1,0 +1,1385 @@
+﻿{
+    "state":  "Delhi",
+    "level":  "State",
+    "extracted_count":  48,
+    "schemes":  [
+                    {
+                        "id":  "adacw",
+                        "source_id":  "uhe5F5gB5uF80_MGw5AL",
+                        "slug":  "adacw",
+                        "name":  "Accidental Death Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Accidental Death Assistance for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Dept., Delhi, is a welfare scheme that provides financial assistance of â¹2,00,000/- to the nominees/dependents of the members in case the death is due to an accident.",
+                        "tags":  [
+                                     "Labour",
+                                     "Accidental Death",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/adacw"
+                    },
+                    {
+                        "id":  "ap",
+                        "source_id":  "WMbAF5gB0AGc0F0idDYH",
+                        "slug":  "ap",
+                        "name":  "Artisan Promotion",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Artisan Promotion\" by the DSFDC provides artisans with opportunities to participate in national fairs and exhibitions. It offers financial support for participation fees, lodging, boarding, and stipends, benefiting artisans from Scheduled Castes, Other Backward Classes, Minorities.",
+                        "tags":  [
+                                     "Artisan",
+                                     "Exhibition",
+                                     "Stipend",
+                                     "Scheduled Caste",
+                                     "OBC",
+                                     "Minority",
+                                     "Safai Karamchari",
+                                     "Disability"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ap"
+                    },
+                    {
+                        "id":  "bls",
+                        "source_id":  "IKHAF5gBXu-iUKXqbXdN",
+                        "slug":  "bls",
+                        "name":  "Big Loan Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Big Loan Scheme\" aims to provide term loans up to â¹5,00,000/- for income-generating activities to eligible applicants from specific targets groups like SC, OBC, Minorities, Safai Karamcharis, and PwDs. The scheme is implemented by DSFDC in collaboration with National Apex Corporations.",
+                        "tags":  [
+                                     "Loan",
+                                     "Entrepreneur",
+                                     "Scheduled Caste",
+                                     "OBC",
+                                     "Minority",
+                                     "Safai Karamchari",
+                                     "Disability"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/bls"
+                    },
+                    {
+                        "id":  "btfvibc",
+                        "source_id":  "OKG2F5gBXu-iUKXqHXXo",
+                        "slug":  "btfvibc",
+                        "name":  "Bus Traveling Facility For Visually Impaired/Bus Concession",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âBus Traveling Facility for Visually Impaired/Bus Concessionâ was started by Delhi Social Welfare Department for persons with disabilities. Under the scheme, Delhi Transport Corporation provides facility of free traveling in DTC Buses to the persons with vision impairment.",
+                        "tags":  [
+                                     "Visually Impaired",
+                                     "Bus Concession",
+                                     "Free Bus Traveling",
+                                     "DTC Buses",
+                                     "Blindness"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/btfvibc"
+                    },
+                    {
+                        "id":  "cls",
+                        "source_id":  "RhfAF5gB5uF80_MGd5L_",
+                        "slug":  "cls",
+                        "name":  "Composite Loan Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Composite Loan Scheme\" aims to provide need-based financial support to individuals from Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and PwDs to help them pursue various income-generating activities. The scheme encourages self-employment and entrepreneurship.",
+                        "tags":  [
+                                     "Loan",
+                                     "Employment",
+                                     "Entrepreneurship",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Minority",
+                                     "Disability"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/cls"
+                    },
+                    {
+                        "id":  "dak",
+                        "source_id":  "vsazF5gB0AGc0F0iizMt",
+                        "slug":  "dak",
+                        "name":  "Delhi Arogya Kosh",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Delhi Arogya Koshâ (DAK) provides Financial assistance to needy eligible patients for treatment of any illness/treatment/intervention required by the patient undergoing treatment in a Government Hospital run by Delhi Government or Central Government or Autonomous Hospital under the State Government",
+                        "tags":  [
+                                     "Arogya Kosh",
+                                     "Delhi",
+                                     "Financial Assistance",
+                                     "Family Health"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dak"
+                    },
+                    {
+                        "id":  "dan",
+                        "source_id":  "5MbVF5gB0AGc0F0isDb-",
+                        "slug":  "dan",
+                        "name":  "Delhi Arogya Nidhi",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Delhi Arogya Nidhi (DAN) is a scheme to provide financial assistance upto â¹1.5 lacs to needy patients who have National Food Security Cards for the treatment of diseases in Government hospitals only.",
+                        "tags":  [
+                                     "Arogya",
+                                     "Nidhi",
+                                     "Health",
+                                     "Patient",
+                                     "Treatment"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dan"
+                    },
+                    {
+                        "id":  "dpswdwp",
+                        "source_id":  "waG0F5gBXu-iUKXqD3Tw",
+                        "slug":  "dpswdwp",
+                        "name":  "Delhi Pension Scheme To Women In Distress (Widow Pension)",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Delhi Pension Scheme to Women in Distress is a welfare scheme to provide social security by way of financial assistance to widows, divorced, separated, abandoned, deserted or destitute women in the age group of 18 years of lifelong who do not have adequate means of subsistence and are poor \u0026 needy.",
+                        "tags":  [
+                                     "Widow",
+                                     "Pension",
+                                     "Distress",
+                                     "Social Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dpswdwp"
+                    },
+                    {
+                        "id":  "dsy",
+                        "source_id":  "_8a_F5gB0AGc0F0igTUv",
+                        "slug":  "dsy",
+                        "name":  "Dilli Swarojgar Yojna",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Dilli Swarojgar Yojna\" provides loans up to â¹5,00,000/- at 6% interest for income-generating activities. The scheme targets individuals from SC, ST, OBC, and Minority communities. The loans are disbursed for activities such as vegetable/fruit/flower shops, dairy products, tailoring shops, etc.",
+                        "tags":  [
+                                     "Loan",
+                                     "Employment",
+                                     "Entrepreneurship",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Minority",
+                                     "Business"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dsy"
+                    },
+                    {
+                        "id":  "dpcw",
+                        "source_id":  "wxe5F5gB5uF80_MGxpA4",
+                        "slug":  "dpcw",
+                        "name":  "Disability Pension for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Disability Pension for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides monthly disability pension of â¹3000/- to the permanently disabled member due to paralysis, leprosy, T.B and accidents.",
+                        "tags":  [
+                                     "Labour",
+                                     "Pension",
+                                     "Disability",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dpcw"
+                    },
+                    {
+                        "id":  "dbrasa",
+                        "source_id":  "pKIR4JsBXu-iUKXqFkVD",
+                        "slug":  "dbrasa",
+                        "name":  "Dr. B. R. Ambedkar State Award To SC/ST/OBC/Minorities Students",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Objective of the Scheme to recognise and reward meritorious SC/ST/OBC/Minority students pursuing graduation in recognised institutions.",
+                        "tags":  [
+                                     "Ambedkar",
+                                     "State Award",
+                                     "Scheduled Castes",
+                                     "Scheduled Tribes",
+                                     "Other Backward Classes",
+                                     "Financial Assistance",
+                                     "Minorities"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/dbrasa"
+                    },
+                    {
+                        "id":  "edftcw",
+                        "source_id":  "oRhG4JsB5uF80_MGVFvw",
+                        "slug":  "edftcw",
+                        "name":  "Education Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Education Assistance for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides scholarship to the childrens of the construction worker of the board.",
+                        "tags":  [
+                                     "Labour",
+                                     "Scholarship",
+                                     "Students",
+                                     "Construction Workers",
+                                     "Financial Assistance",
+                                     "School",
+                                     "LLB",
+                                     "Polytechnic",
+                                     "ITI",
+                                     "Graduation",
+                                     "Distant Learning",
+                                     "Open Learning"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/edftcw"
+                    },
+                    {
+                        "id":  "els-delhi",
+                        "source_id":  "a8cn4JsB0AGc0F0inAE7",
+                        "slug":  "els-delhi",
+                        "name":  "Education Loan Scheme - Delhi",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Education Loan Scheme\" provides financial assistance to the SC/ST/OBC/PwD students for pursuing professional and technical education in India and abroad, with loan limits of â¹7,50,000/- and â¹15,00,000/- respectively. Delhi residents with an annual family income below â¹5,00,000/- are eligible.",
+                        "tags":  [
+                                     "Education",
+                                     "Loan",
+                                     "Student",
+                                     "College",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Minority",
+                                     "Disability",
+                                     "OBC"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/els-delhi"
+                    },
+                    {
+                        "id":  "epcw",
+                        "source_id":  "8aG5F5gBXu-iUKXqz3Uw",
+                        "slug":  "epcw",
+                        "name":  "Ex-gratia Payment for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Ex-gratia Payment for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board that provides an ex-gratia amount of â¹1,00,000/- in case of permanent disability.",
+                        "tags":  [
+                                     "Labour",
+                                     "Ex-gratia Payment",
+                                     "Permanently Disability",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/epcw"
+                    },
+                    {
+                        "id":  "fpdbocwwb",
+                        "source_id":  "OxfAF5gB5uF80_MGcZIV",
+                        "slug":  "fpdbocwwb",
+                        "name":  "Family Pension (DBOCWWB)",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The scheme \"Family Pension\" was launched by the Delhi Building and Other Construction Workers Welfare Board. In this scheme, upon the death of the pensioner, the surviving spouse is provided 50% of the pension amount or â¹1500/-, whichever is higher.",
+                        "tags":  [
+                                     "Construction",
+                                     "Worker",
+                                     "Pension",
+                                     "Family",
+                                     "Labour"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fpdbocwwb"
+                    },
+                    {
+                        "id":  "famtw",
+                        "source_id":  "5qG5F5gBXu-iUKXqw3U7",
+                        "slug":  "famtw",
+                        "name":  "Financial Assistance for Marriage for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Financial Assistance for Marriage for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme  that provides financial assistance for marriage of self and for upto 2 children.",
+                        "tags":  [
+                                     "Labour",
+                                     "Marriage Assistance",
+                                     "Construction Workers",
+                                     "Wedding Support",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/famtw"
+                    },
+                    {
+                        "id":  "famcw",
+                        "source_id":  "Ghe7F5gB5uF80_MGWJHH",
+                        "slug":  "famcw",
+                        "name":  "Financial Assistance for Miscarriage for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Financial Assistance for Miscarriage for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides an amount of â¹3,000/- as financial assistance in case of miscarriage.",
+                        "tags":  [
+                                     "Labour",
+                                     "Miscarriage",
+                                     "Medical Assistance",
+                                     "Construction Workers",
+                                     "Financial Assistance",
+                                     "Women"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/famcw"
+                    },
+                    {
+                        "id":  "fafps",
+                        "source_id":  "dBgS4JsB5uF80_MGZlsE",
+                        "slug":  "fafps",
+                        "name":  "Financial Assistance For Purchase Of Stationery To SC/ST/OBC/Minorities Students",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Welfare scheme of Department For The Welfare Of SC/ST/OBCâs/Minorities to provide help for purchase of stationery to SC/ST/OBC/Minorities Students of 1st to 12th class studying Govt. of India/GNCT of Delhi/Aided Recognized schools.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Other Backward Classes",
+                                     "Minorities",
+                                     "Purchase Of Stationery",
+                                     "Students"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fafps"
+                    },
+                    {
+                        "id":  "famdpwog",
+                        "source_id":  "3ca0F5gB0AGc0F0iDzOE",
+                        "slug":  "famdpwog",
+                        "name":  "Financial Assistance For The Marriage Of Daughters Of Poor Widows And Orphan Girls",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This is a welfare scheme by the GNCTD to provide financial assistance to poor widows for performing the marriage of their daughters and to provide financial assistance to the guardians including Homes/Institutions or foster parents of an orphan girl or an orphan girl for her marriage.",
+                        "tags":  [
+                                     "Financial Asisstance",
+                                     "Marriage",
+                                     "Widow",
+                                     "Orphan",
+                                     "Girl Child"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/famdpwog"
+                    },
+                    {
+                        "id":  "fatssfshsa",
+                        "source_id":  "Gxc9GJgB5uF80_MGB5R6",
+                        "slug":  "fatssfshsa",
+                        "name":  "Financial Assistance to SC Students for Pursuing Higher Studies Abroad",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to support SC students for higher education abroad in fields like Engineering, Sciences, and Humanities. Benefits include up to â¹20,00,000/- for Ph.D. and â¹10,00,000 for Masters, with eligibility criteria including residency and income below â¹8,00,000/-.",
+                        "tags":  [
+                                     "College",
+                                     "Scheduled Caste",
+                                     "Student",
+                                     "Scholarship",
+                                     "Abroad",
+                                     "Foreign",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fatssfshsa"
+                    },
+                    {
+                        "id":  "fsotb",
+                        "source_id":  "ERc9GJgB5uF80_MGBZS8",
+                        "slug":  "fsotb",
+                        "name":  "Free Supply of Text Books",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides textbooks or cash subsidies for textbooks and writing materials to students of Government and Aided Schools. Benefits include financial assistance ranging from â¹550/- to â¹830/- per annum, with additional support for geometry boxes. All students from Nursery to 12th are eligible.",
+                        "tags":  [
+                                     "Student",
+                                     "Education",
+                                     "School",
+                                     "Book",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fsotb"
+                    },
+                    {
+                        "id":  "facw",
+                        "source_id":  "3KG5F5gBXu-iUKXqv3Xo",
+                        "slug":  "facw",
+                        "name":  "Funeral Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Funeral Assistance for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides funeral assistance of â¹10,000/- in case of death of a member to their nominees/dependents.",
+                        "tags":  [
+                                     "Labour",
+                                     "Funeral Assistance",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/facw"
+                    },
+                    {
+                        "id":  "gpwrtcw",
+                        "source_id":  "ncYnf5gB0AGc0F0iWzjH",
+                        "slug":  "gpwrtcw",
+                        "name":  "Grant for the Purchase of Work Related Tools for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide financial assistance for purchasing work-related tools. Through this scheme, a grant is provided to eligible members of the Fund.",
+                        "tags":  [
+                                     "Labour",
+                                     "Grant",
+                                     "Work Tool",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/gpwrtcw"
+                    },
+                    {
+                        "id":  "hesdgs",
+                        "source_id":  "nBhD4JsB5uF80_MGDVsg",
+                        "slug":  "hesdgs",
+                        "name":  "Higher Education And Skill Development Guarantee Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The Higher Education and Skill Development Guarantee Scheme Government of NCT of Delhi , has envisaged a Higher Education and Skill Development Guarantee Scheme for students who wish to pursue diploma or degree level courses or specified skill development courses in Delhi.",
+                        "tags":  [
+                                     "Higher Education",
+                                     "Skill Development",
+                                     "Guarantee Scheme",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/hesdgs"
+                    },
+                    {
+                        "id":  "ificms",
+                        "source_id":  "JhfAF5gB5uF80_MGbpJq",
+                        "slug":  "ificms",
+                        "name":  "Incentive for Inter-Caste Marriage Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "\"Incentive For Inter Caste Marriage\" aims to promote inter-caste marriages between SC and non-SC communities to combat casteism. The scheme provides a financial incentive of â¹50,000/- to eligible couples, with either spouse being a permanent resident of NCT of Delhi.",
+                        "tags":  [
+                                     "Marriages",
+                                     "Financial Support",
+                                     "Inter Caste",
+                                     "Scheduled Caste"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ificms"
+                    },
+                    {
+                        "id":  "isdelhi",
+                        "source_id":  "fKHmF5gBXu-iUKXq3Hir",
+                        "slug":  "isdelhi",
+                        "name":  "Internship Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The aim of this scheme is to allow short-term exposure to youth about working of the different sections of the Department of Forests and Wildlife, GNCTD as âInternsâ. ",
+                        "tags":  [
+                                     "Internship",
+                                     "Student",
+                                     "Interns",
+                                     "Forest"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/isdelhi"
+                    },
+                    {
+                        "id":  "jbmpvy",
+                        "source_id":  "MqG2F5gBXu-iUKXqHXW7",
+                        "slug":  "jbmpvy",
+                        "name":  "Jai Bhim Mukhyamantri Pratibha Vikas Yojana",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme âJai Bhim Mukhyamantri Pratibha Vikas Yojanaâ was launched by the Department for the Welfare of SC/ST/OBC/Minorities, Government of NCT of Delhi vide Cabinet Decision No.2526 Dated 12-12-2017.",
+                        "tags":  [
+                                     "Scheduled Castes",
+                                     "Students",
+                                     "Competitive Examination",
+                                     "Coaching",
+                                     "Stipend"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/jbmpvy"
+                    },
+                    {
+                        "id":  "lpwtcw",
+                        "source_id":  "vhe5F5gB5uF80_MGw5Ck",
+                        "slug":  "lpwtcw",
+                        "name":  "Loan for the Purchase of Work Tool for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Loan for the Purchase of Work Tool for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Dept., Delhi, is a welfare scheme that provides an amount not exceeding â¹20,000/- as loan to the members of the fund, for the purchase of work related tools.",
+                        "tags":  [
+                                     "Labour",
+                                     "Loan",
+                                     "Work Tool",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/lpwtcw"
+                    },
+                    {
+                        "id":  "mafcw",
+                        "source_id":  "Cca5F5gB0AGc0F0ixDX3",
+                        "slug":  "mafcw",
+                        "name":  "Maternity Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Maternity Assistance for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme  that provides maternity benefits of â¹ 30,000/- to the registered women members and wives of male members for upto 2 children.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Medical Support",
+                                     "Construction Workers",
+                                     "Maternity",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mafcw"
+                    },
+                    {
+                        "id":  "maftcw",
+                        "source_id":  "sRe5F5gB5uF80_MGwZDc",
+                        "slug":  "maftcw",
+                        "name":  "Medical Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Health \u0026 Wellness",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Medical Assistance for the Construction Workers\" was launched by the Delhi Building and Other Construction Workers Welfare Board, Labour Dept, Delhi. The registered workers are given medical assistance upto â¹ 10,000/- in case of being hospitalized for 5 or more days due to an accident or disease.",
+                        "tags":  [
+                                     "Labour",
+                                     "Medical Support",
+                                     "Construction Workers",
+                                     "Hospitalization",
+                                     "Financial Assistance",
+                                     "Accidental Support"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/maftcw"
+                    },
+                    {
+                        "id":  "mcmlfas",
+                        "source_id":  "lxg84JsB5uF80_MGY1uZ",
+                        "slug":  "mcmlfas",
+                        "name":  "Merit Cum Means Linked Financial Assistance Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "It is the policy of the Government of National Capital Territory of Delhi that students get access to high quality higher education provided by Delhi State Universities irrespective of their caste, creed, economic background, or gender. ",
+                        "tags":  [
+                                     "Merit Cum Means",
+                                     "Linked Financial Assistance",
+                                     "Delhi",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mcmlfas"
+                    },
+                    {
+                        "id":  "mtyyd",
+                        "source_id":  "wMb9F5gB0AGc0F0iXjeZ",
+                        "slug":  "mtyyd",
+                        "name":  "Mukhyamantri Tirth Yatra Yojana - Delhi",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Travel \u0026 Tourism"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Family",
+                        "close_date":  null,
+                        "priority":  2,
+                        "description":  "The Delhi governmentâs Mukhyamantri Tirth Yatra Scheme, under which people over the age of 60 are taken for a pilgrimage free of cost, is expected to restart in a monthâs time. The scheme, which started in 2018, has been suspended for a year and a half because of Covid. Between 2018 and 2020.",
+                        "tags":  [
+                                     "Tirth Yatra",
+                                     "Delhi",
+                                     "Travel",
+                                     "Tourism"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mtyyd"
+                    },
+                    {
+                        "id":  "mvpy",
+                        "source_id":  "yKI44JsBXu-iUKXqvkX4",
+                        "slug":  "mvpy",
+                        "name":  "Mukhyamantri Vidyarthi Pratibha Yojna",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "This scheme is to provide scholarships to the students studying in classes 9th to 12th for enabling them to bear the expenses required for their studies. ",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Student Finance",
+                                     "Social Welfare",
+                                     "Education"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/mvpy"
+                    },
+                    {
+                        "id":  "ndacw",
+                        "source_id":  "xhe5F5gB5uF80_MGz5BA",
+                        "slug":  "ndacw",
+                        "name":  "Natural Death Assistance for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Natural Death Assistance for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Dept., Delhi, is a welfare scheme that provides financial assistance of â¹1,00,000/- to the nominees/dependents of the members in case of natural death of the worker.",
+                        "tags":  [
+                                     "Labour",
+                                     "Natural Death",
+                                     "Construction Workers",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ndacw"
+                    },
+                    {
+                        "id":  "oaa",
+                        "source_id":  "G8a1F5gB0AGc0F0iJjQu",
+                        "slug":  "oaa",
+                        "name":  "Old Age Assistance",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Old Age Assistance or Pension is a welfare scheme of Delhi Govt to provide assistance to Old age needy persons. The primary goal of this scheme is to offer eligible senior citizens financial help in the form of monthly pensions.\n",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "Old Age Help",
+                                     "Senior Citizen",
+                                     "Social Welfare"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/oaa"
+                    },
+                    {
+                        "id":  "pbcw",
+                        "source_id":  "_ca5F5gB0AGc0F0iwTTf",
+                        "slug":  "pbcw",
+                        "name":  "Pension Benefit for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Pension Benefit for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board with a pension benefit of â¹ 3000/- per month after completion of 60 years.\n",
+                        "tags":  [
+                                     "Labour",
+                                     "Pension",
+                                     "Construction Workers",
+                                     "Financial Assistance",
+                                     "Senior Citizens"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pbcw"
+                    },
+                    {
+                        "id":  "pmsfssd",
+                        "source_id":  "hxgk4JsB5uF80_MGcFsn",
+                        "slug":  "pmsfssd",
+                        "name":  "Post Matric Scholarship for SC students (Delhi)",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme \"Post Matric Scholarship for SC Students\" aims to support SC students financially for post-matriculation studies. Benefits include fee reimbursement and monthly allowances. Intended beneficiaries are SC students with a family income below â¹2,50,000/- annually.",
+                        "tags":  [
+                                     "Education",
+                                     "Student",
+                                     "Scholarship",
+                                     "Scheduled Caste"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pmsfssd"
+                    },
+                    {
+                        "id":  "pchcw",
+                        "source_id":  "D8a5F5gB0AGc0F0ixzVb",
+                        "slug":  "pchcw",
+                        "name":  "Purchase/Construction of House for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Housing \u0026 Shelter",
+                                               "Social welfare \u0026 Empowerment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Purchase/Construction of House for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board is a welfare scheme for its registered workers. An advance amount of â¹3,00,000/- to â¹5,00,000/- is provided for the purchase/construction of a house.",
+                        "tags":  [
+                                     "Construction",
+                                     "Worker",
+                                     "Financial Assistance",
+                                     "Labour"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/pchcw"
+                    },
+                    {
+                        "id":  "rgsry",
+                        "source_id":  "cca2F5gB0AGc0F0iIzSQ",
+                        "slug":  "rgsry",
+                        "name":  "Rajiv Gandhi Swavlamban Rojgar Yojna",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship",
+                                               "Banking,Financial Services and Insurance"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "âRajiv Gandhi Swavlamban Rozgar Yojnaâ has been designed, developed, and promoted by the Delhi Khadi \u0026 Village Industries Board, with the help of the Government of NCT of Delhi, to provide employment opportunities.",
+                        "tags":  [
+                                     "Employment",
+                                     "Youths",
+                                     "Artisans",
+                                     "Trained Professionals",
+                                     "Skilled Technocrats",
+                                     "Entrepreneurs"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rgsry"
+                    },
+                    {
+                        "id":  "rotffssipsic",
+                        "source_id":  "X8cb4JsB0AGc0F0iFAGE",
+                        "slug":  "rotffssipsic",
+                        "name":  "Reimbursement of Tution Fee for SC/ST/OBC/Min students in Public Schools in Class I to XII",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide financial support by reimbursing tuition and compulsory fees for SC/ST/OBC students from low-income families (below â¹3,00,000/- per annum) studying in recognized schools in Delhi. Beneficiaries must meet academic and attendance criteria.",
+                        "tags":  [
+                                     "Student",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Other Backward Class",
+                                     "Education",
+                                     "SC",
+                                     "ST",
+                                     "OBC",
+                                     "School"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/rotffssipsic"
+                    },
+                    {
+                        "id":  "scbdaep",
+                        "source_id":  "HBfZF5gB5uF80_MGX5NP",
+                        "slug":  "scbdaep",
+                        "name":  "Scheme for Celebration of Birth/death Anniversary of Eminent Personalities",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Scheme for Celebration of Birth/Death Anniversary of Eminent Personalities\" scheme aims to provide financial assistance for the celebration of anniversaries/Jayanti\u0027s of Sant Kabir, Sant Gadge, and Sant Durbalnath and in addition to Anniversaries of DR. B.R. Ambedkar, etc.",
+                        "tags":  [
+                                     "Financial Assistance",
+                                     "NGO",
+                                     "Anniversary",
+                                     "Jayantis"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/scbdaep"
+                    },
+                    {
+                        "id":  "smssssictpi",
+                        "source_id":  "uKIc4JsBXu-iUKXqZEWC",
+                        "slug":  "smssssictpi",
+                        "name":  "Scholarship/Merit Scholarship Schools SC/ST/OBC/Min (Studying in College/Technical/ Professional Institutions)",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme provides monthly financial aid to SC/ST/OBC/Minority students pursuing higher education. Benefits include scholarships for hostellers and day scholars, with eligibility based on academic performance and income criteria.",
+                        "tags":  [
+                                     "Scheduled Caste",
+                                     "Schedule Tribe",
+                                     "Scholarship",
+                                     "Student",
+                                     "College"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/smssssictpi"
+                    },
+                    {
+                        "id":  "smstomsssfc",
+                        "source_id":  "Wcca4JsB0AGc0F0iEQFH",
+                        "slug":  "smstomsssfc",
+                        "name":  "Scholarship/Merit scholarship to OBC/MIN/SC/ST students from Class I to XII",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide financial assistance to students from SC/ST/OBC/Minority communities studying in classes I to XII in government or recognised schools in Delhi. The scheme offers varying scholarship amounts based on class and academic performance, ensuring support for education.",
+                        "tags":  [
+                                     "Scheduled Castes",
+                                     "Schedule Tribe",
+                                     "Backward Classes",
+                                     "Scholarships",
+                                     "Students"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/smstomsssfc"
+                    },
+                    {
+                        "id":  "sfsutts",
+                        "source_id":  "S6E9GJgBXu-iUKXqCnkD",
+                        "slug":  "sfsutts",
+                        "name":  "Subsidy for School Uniforms to the Students",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The scheme aims to provide cash subsidies for school uniforms to students from Nursery to Class XII in government and aided schools. Benefits include annual payments ranging from â¹1,100/- to â¹1,500/-, ensuring financial support for all eligible students.",
+                        "tags":  [
+                                     "Education",
+                                     "Student",
+                                     "Uniform",
+                                     "Subsidy"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/sfsutts"
+                    },
+                    {
+                        "id":  "tls-delhi",
+                        "source_id":  "3he_F5gB5uF80_MGg5Hz",
+                        "slug":  "tls-delhi",
+                        "name":  "Transport Loan Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Transport \u0026 Infrastructure",
+                                               "Business \u0026 Entrepreneurship"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "\"Transport Loan Scheme\" aims to promote self-employment among target groups by providing term loans for Light Motor Vehicles. The scheme benefits Scheduled Castes, Other Backward Classes, Minorities, and Safai Karamcharis with financial assistance up to â¹5,00,000/-.",
+                        "tags":  [
+                                     "Loan",
+                                     "Employment",
+                                     "Entrepreneurship",
+                                     "Scheduled Caste",
+                                     "Scheduled Tribe",
+                                     "Minority",
+                                     "Safai Karmachari",
+                                     "Transport"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/tls-delhi"
+                    },
+                    {
+                        "id":  "vdcmip",
+                        "source_id":  "d8YgMpgB0AGc0F0i_zjO",
+                        "slug":  "vdcmip",
+                        "name":  "Viksit Delhi CM Internship Programme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Education \u0026 Learning",
+                                               "Skills \u0026 Employment"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The programme aims to harness the energy and innovative ideas of the youth pursuing graduation and post-graduation of India, which will be implemented in policy and decision making, to make Delhi a smart, clean, caring and prosperous metropolis. ",
+                        "tags":  [
+                                     "Internship",
+                                     "Graduation",
+                                     "Interns",
+                                     "Post-graduation",
+                                     "Boot Camp"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/vdcmip"
+                    },
+                    {
+                        "id":  "fawdsddaw",
+                        "source_id":  "xcbTF5gB0AGc0F0iXDYb",
+                        "slug":  "fawdsddaw",
+                        "name":  "Widow Daughter Marriage Scheme",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Women and Child"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "Department of WCD, Delhi Government is implementing various Financial Assistance for the benefit of different sections through Financial Assistance Cell. Department of WCD is running Widowâs Daughter Marriage(WDM) for the benefit of widows/women in distress.",
+                        "tags":  [
+                                     "Marriage",
+                                     "Daughter",
+                                     "Poor Widow",
+                                     "Financial Assistance"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/fawdsddaw"
+                    },
+                    {
+                        "id":  "ypidnabftcw",
+                        "source_id":  "pRe5F5gB5uF80_MGv5DH",
+                        "slug":  "ypidnabftcw",
+                        "name":  "Yatra Pass in DTC non AC Buses for the Construction Workers",
+                        "level":  "State",
+                        "state":  "Delhi",
+                        "beneficiary_state":  [
+                                                  "Delhi"
+                                              ],
+                        "category":  "State Scheme",
+                        "all_categories":  [
+                                               "Social welfare \u0026 Empowerment",
+                                               "Transport \u0026 Infrastructure"
+                                           ],
+                        "nodal_ministry":  null,
+                        "scheme_for":  "Individual",
+                        "close_date":  null,
+                        "priority":  1,
+                        "description":  "The \"Yatra Pass in DTC non AC Buses for the Construction Workers\" by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides a pass of â¹ 2400/- per three months for non AC DTC bus to the registered workers for purchasing.",
+                        "tags":  [
+                                     "Yatra Pass",
+                                     "Labour",
+                                     "Construction Worker",
+                                     "Travel",
+                                     "Transport"
+                                 ],
+                        "detail_url":  "https://www.myscheme.gov.in/schemes/ypidnabftcw"
+                    }
+                ]
+}

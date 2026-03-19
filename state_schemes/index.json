@@ -1,0 +1,14 @@
+[
+  {
+    "state": "West Bengal",
+    "file": "state_schemes/west_bengal.json"
+  },
+  {
+    "state": "Delhi",
+    "file": "state_schemes/delhi.json"
+  },
+  {
+    "state": "Maharashtra",
+    "file": "state_schemes/maharashtra_mumbai.json"
+  }
+]
