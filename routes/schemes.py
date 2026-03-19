@@ -712,11 +712,11 @@ def chat():
         _is_greeting_or_smalltalk(user_query) or _is_random_or_non_actionable(user_query)
     ):
         reply_json = {
-            "message": "Namaste! I can help you find the best government schemes.",
+            "message": "I can help you find relevant government schemes, but I need your details first.",
             "ageLabel": "Age Not Specified",
             "ageGroup": "Unknown",
             "schemes": [],
-            "followUp": "Please share your age and, if possible, annual income. Example: 'I am 24 years old, income 3 lakh'.",
+            "followUp": "Please send one of these: 'I am 24 years old', 'Age 24, income 3 lakh', or 'I need scholarship schemes for age 19'.",
         }
         return jsonify(
             {
