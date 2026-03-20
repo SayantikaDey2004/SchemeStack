@@ -12,39 +12,120 @@ import ReactFlow, {
 } from "reactflow";
 import "reactflow/dist/style.css";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "/api";
+function isPrivateNetworkHost(hostname) {
+  if (!hostname) return false;
+  if (hostname === "localhost" || hostname === "127.0.0.1") return true;
 
-/* ═══════════════════════════════════════════════════════════
-  SYSTEM PROMPT
-═══════════════════════════════════════════════════════════ */
-const SYSTEM_PROMPT = `You are Citizen Seva, a helpful Indian Government Schemes Assistant. When a user mentions their age, provide relevant government schemes they are eligible for.
+  const parts = hostname.split(".").map(Number);
+  if (parts.length !== 4 || parts.some((n) => Number.isNaN(n) || n < 0 || n > 255)) {
+    return false;
+  }
 
-Respond ONLY with this exact JSON format, no markdown:
-{
-  "message": "Friendly 1-2 sentence intro mentioning the age group",
-  "ageLabel": "e.g. Age 18 Years",
-  "ageGroup": "Child|Youth|Adult|Middle-Aged|Senior",
-  "schemes": [
-    {
-      "name": "Scheme Name",
-      "ministry": "Ministry Name",
-      "benefit": "One sentence benefit",
-      "eligibility": "Eligibility criteria",
-      "tag": "Education|Health|Finance|Agriculture|Employment|Pension|Housing|Women|Youth|Senior"
-    }
-  ],
-  "followUp": "One helpful follow-up tip or question"
+  const [a, b] = parts;
+  if (a === 10) return true;
+  if (a === 172 && b >= 16 && b <= 31) return true;
+  if (a === 192 && b === 168) return true;
+  return false;
 }
 
-Age-scheme mapping:
-- 0–5: ICDS, PM POSHAN, Janani Suraksha Yojana, Rajiv Gandhi Creche Scheme
-- 6–14: PM POSHAN Mid-Day Meal, Sarva Shiksha Abhiyan, Beti Bachao Beti Padhao, National Means-cum-Merit Scholarship
-- 15–25: PM Kaushal Vikas Yojana, National Scholarship Portal, PM Yuva Yojana, PMJAY Ayushman Bharat, Startup India (18+), StandUp India
-- 26–40: PM Mudra Yojana, PMAY Housing, Jan Dhan Yojana, PM Fasal Bima, Skill India, PMJAY
-- 41–60: PMJAY Ayushman Bharat, PM Mudra, NPS, Atal Pension Yojana, PM Ujjwala Yojana
-- 60+: Indira Gandhi Old Age Pension, Senior Citizen Savings Scheme, Vayoshreshtha Samman, PMJAY, Rashtriya Vayoshri Yojana
+const DEFAULT_API_BASE_URL =
+  typeof window !== "undefined"
+    ? isPrivateNetworkHost(window.location.hostname)
+      ? `http://${window.location.hostname}:8000`
+      : "/api"
+    : "/api";
 
-If age is not mentioned, ask for it warmly. Always respond only in JSON.`;
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || DEFAULT_API_BASE_URL;
+
+function getApiBaseCandidates() {
+  if (typeof window === "undefined") {
+    return [API_BASE_URL];
+  }
+
+  if (import.meta.env.VITE_API_BASE_URL) {
+    return [import.meta.env.VITE_API_BASE_URL];
+  }
+
+  const candidates = ["/api"];
+  const { protocol, hostname, port } = window.location;
+
+  // In local Vite dev, /api proxy is most reliable; direct backend URL is fallback.
+  if (port === "5173") {
+    candidates.push(`http://${hostname}:8000`);
+  } else if (protocol === "http:" && isPrivateNetworkHost(hostname)) {
+    candidates.push(`http://${hostname}:8000`);
+  }
+
+  candidates.push(API_BASE_URL);
+  return [...new Set(candidates.filter(Boolean))];
+}
+
+async function requestChat(payload, signal) {
+  const apiBases = getApiBaseCandidates();
+  const errors = [];
+
+  for (const baseUrl of apiBases) {
+    const endpoint = `${baseUrl}/chat`;
+    try {
+      const res = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        signal,
+        body: JSON.stringify(payload),
+      });
+
+      if (!res.ok) {
+        const detail = await res.text();
+        errors.push(`${endpoint} -> ${res.status}${detail ? ` ${detail}` : ""}`);
+        continue;
+      }
+
+      const data = await res.json();
+      return { data, endpoint };
+    } catch (error) {
+      if (error?.name === "AbortError") {
+        throw error;
+      }
+      errors.push(`${endpoint} -> ${error?.message || "Network error"}`);
+    }
+  }
+
+  throw new Error(errors.join(" | "));
+}
+
+function parseAgeFromText(text) {
+  const lowered = (text || "").toLowerCase();
+  const patterns = [
+    /\bage\s*(?:is|:)?\s*(\d{1,3})\b/i,
+    /\baged\s*(\d{1,3})\b/i,
+    /\b(?:i am|i'm|im)\s+(\d{1,3})(?:\s*(?:years?|yrs?)\s*(?:old)?)?\b/i,
+    /\b(\d{1,3})\s*(?:years?|yrs?)\s*old\b/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = lowered.match(pattern);
+    if (!match) continue;
+    const age = parseInt(match[1], 10);
+    if (age > 0 && age <= 120) {
+      return age;
+    }
+  }
+  return null;
+}
+
+function parseIncomeFromText(text) {
+  const lowered = (text || "").toLowerCase();
+  const lakhIncome = lowered.match(/(\d+(?:\.\d+)?)\s*lakh/i);
+  if (lakhIncome) {
+    return Math.round(parseFloat(lakhIncome[1]) * 100000);
+  }
+
+  const plainIncome = lowered.match(/(?:income|salary|earning|earnings)\D{0,20}(\d{4,12})/i);
+  if (plainIncome) {
+    return parseInt(plainIncome[1], 10);
+  }
+  return null;
+}
 
 /* ═══════════════════════════════════════════════════════════
    THEME
@@ -260,7 +341,7 @@ const NODE_TYPES = { rootNode: RootNode, schemeNode: SchemeNode };
 /* ═══════════════════════════════════════════════════════════
    FLOW CANVAS
 ═══════════════════════════════════════════════════════════ */
-function SchemeFlow({ schemes, ageLabel }) {
+function SchemeFlow({ schemes, ageLabel, isMobile = false }) {
   const { nodes: n0, edges: e0 } = buildRadialGraph(schemes, ageLabel);
   const [nodes, , onNodesChange] = useNodesState(n0);
   const [edges, , onEdgesChange] = useEdgesState(e0);
@@ -271,21 +352,23 @@ function SchemeFlow({ schemes, ageLabel }) {
       onNodesChange={onNodesChange}
       onEdgesChange={onEdgesChange}
       nodeTypes={NODE_TYPES}
-      fitView fitViewOptions={{ padding: 0.18 }}
+      fitView fitViewOptions={{ padding: isMobile ? 0.28 : 0.18 }}
       style={{ background: "transparent" }}
       proOptions={{ hideAttribution: true }}
-      minZoom={0.3} maxZoom={1.8}
+      minZoom={isMobile ? 0.2 : 0.3} maxZoom={1.8}
     >
       <Background variant={BackgroundVariant.Dots} color="#1e293b" gap={22} size={1.2} />
       <Controls showInteractive={false} style={{
         background: "#0d1425", border: "1px solid #1e293b",
         borderRadius: 10, overflow: "hidden",
       }} />
-      <MiniMap
-        style={{ background: "#0d1425", border: "1px solid #1e293b", borderRadius: 10 }}
-        maskColor="#0a0f1e99"
-        nodeColor={n => n.type === "rootNode" ? "#FF9933" : (TAG[n.data?.tag]?.glow || "#94a3b8")}
-      />
+      {!isMobile && (
+        <MiniMap
+          style={{ background: "#0d1425", border: "1px solid #1e293b", borderRadius: 10 }}
+          maskColor="#0a0f1e99"
+          nodeColor={n => n.type === "rootNode" ? "#FF9933" : (TAG[n.data?.tag]?.glow || "#94a3b8")}
+        />
+      )}
     </ReactFlow>
   );
 }
@@ -401,10 +484,16 @@ export default function App() {
   const [input, setInput]     = useState("");
   const [loading, setLoading] = useState(false);
   const [flowData, setFlowData] = useState(null);
+  const [schemeScope, setSchemeScope] = useState("all");
+  const [mobilePane, setMobilePane] = useState("chat");
   const bottomRef = useRef(null);
   const inputRef  = useRef(null);
   const requestSeqRef = useRef(0);
   const abortRef = useRef(null);
+  const [isMobile, setIsMobile] = useState(() => {
+    if (typeof window === "undefined") return false;
+    return window.matchMedia("(max-width: 900px)").matches;
+  });
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -421,6 +510,25 @@ export default function App() {
       }
     };
   }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const mediaQuery = window.matchMedia("(max-width: 900px)");
+    const handleChange = (event) => setIsMobile(event.matches);
+
+    setIsMobile(mediaQuery.matches);
+    if (mediaQuery.addEventListener) {
+      mediaQuery.addEventListener("change", handleChange);
+      return () => mediaQuery.removeEventListener("change", handleChange);
+    }
+
+    mediaQuery.addListener(handleChange);
+    return () => mediaQuery.removeListener(handleChange);
+  }, []);
+
+  useEffect(() => {
+    if (!isMobile) setMobilePane("chat");
+  }, [isMobile]);
 
   const clearChat = useCallback(() => {
     requestSeqRef.current += 1;
@@ -454,29 +562,13 @@ export default function App() {
     setLoading(true);
 
     try {
-      const ageMatch = t.match(/(?:age|aged|years?|yrs?|year old)?\D{0,6}(\d{1,3})/i);
-      const age = ageMatch ? parseInt(ageMatch[1], 10) : null;
+      const age = parseAgeFromText(t);
+      const income = parseIncomeFromText(t);
 
-      const lakhIncome = t.match(/(\d+(?:\.\d+)?)\s*lakh/i);
-      const plainIncome = t.match(/(?:income|salary|earning|earnings).*?(\d{4,12})/i);
-      const income = lakhIncome
-        ? Math.round(parseFloat(lakhIncome[1]) * 100000)
-        : plainIncome
-          ? parseInt(plainIncome[1], 10)
-          : null;
-
-      const res = await fetch(`${API_BASE_URL}/chat`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        signal: controller.signal,
-        body: JSON.stringify({ message: t, age, income }),
-      });
-
-      if (!res.ok) {
-        throw new Error(`Backend error: ${res.status}`);
-      }
-
-      const data = await res.json();
+      const { data } = await requestChat(
+        { message: t, age, income, scheme_scope: schemeScope },
+        controller.signal,
+      );
 
       let payload = data.reply_json;
       if (!payload && typeof data.reply === "string") {
@@ -511,12 +603,13 @@ export default function App() {
       }
       if (requestSeqRef.current !== requestId) return;
       console.error("Error:", error);
+      const errMsg = String(error?.message || "Unknown error");
       setMessages(p => [...p, {
         role: "bot",
         text: JSON.stringify({ 
-          message: "Unable to fetch AI response. Please verify the backend API is available.", 
+          message: "Unable to fetch AI response. Please verify backend is running and accessible.", 
           schemes: [], 
-          followUp: null 
+          followUp: errMsg.length > 160 ? `${errMsg.slice(0, 157)}...` : errMsg,
         }),
       }]);
     } finally {
@@ -535,7 +628,7 @@ export default function App() {
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=DM+Sans:wght@400;500;600;700&display=swap');
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-        body { background: #050a14; font-family: 'DM Sans', sans-serif; overflow: hidden; }
+        body { background: #050a14; font-family: 'DM Sans', sans-serif; overflow-x: hidden; overflow-y: auto; }
 
         ::-webkit-scrollbar { width: 3px; }
         ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 3px; }
@@ -599,14 +692,76 @@ export default function App() {
         .send-btn:hover:not(:disabled) { transform: scale(1.08); }
       `}</style>
 
-      <div style={{ display: "flex", height: "100vh", width: "100vw", overflow: "hidden", background: "#050a14" }}>
+      <div style={{
+        display: "flex",
+        flexDirection: "column",
+        height: isMobile ? "100dvh" : "100vh",
+        width: "100vw",
+        overflow: "hidden",
+        background: "#050a14",
+      }}>
+
+        {isMobile && (
+          <div style={{
+            display: "flex",
+            gap: 8,
+            padding: "10px 12px",
+            borderBottom: "1px solid #0f1f35",
+            background: "#060d1a",
+          }}>
+            <button
+              onClick={() => setMobilePane("chat")}
+              style={{
+                flex: 1,
+                border: mobilePane === "chat" ? "1px solid #f97316" : "1px solid #1e293b",
+                background: mobilePane === "chat" ? "rgba(249,115,22,0.14)" : "#0d1425",
+                color: mobilePane === "chat" ? "#fed7aa" : "#94a3b8",
+                borderRadius: 999,
+                padding: "8px 10px",
+                fontSize: 12,
+                fontWeight: 600,
+                fontFamily: "'DM Sans',sans-serif",
+                cursor: "pointer",
+              }}
+            >
+              Chat
+            </button>
+            <button
+              onClick={() => setMobilePane("map")}
+              style={{
+                flex: 1,
+                border: mobilePane === "map" ? "1px solid #f97316" : "1px solid #1e293b",
+                background: mobilePane === "map" ? "rgba(249,115,22,0.14)" : "#0d1425",
+                color: mobilePane === "map" ? "#fed7aa" : "#94a3b8",
+                borderRadius: 999,
+                padding: "8px 10px",
+                fontSize: 12,
+                fontWeight: 600,
+                fontFamily: "'DM Sans',sans-serif",
+                cursor: "pointer",
+              }}
+            >
+              Flow Map
+            </button>
+          </div>
+        )}
+
+        <div style={{
+          display: "flex",
+          flexDirection: isMobile ? "column" : "row",
+          flex: 1,
+          minHeight: 0,
+        }}>
 
         {/* ══ LEFT: Chat Panel ══════════════════════════════════════ */}
         <div style={{
-          width: 360, flexShrink: 0,
-          display: "flex", flexDirection: "column",
+          width: isMobile ? "100%" : 360,
+          height: "100%",
+          flexShrink: 0,
+          display: isMobile && mobilePane !== "chat" ? "none" : "flex",
+          flexDirection: "column",
           background: "#080e1d",
-          borderRight: "1px solid #0f1f35",
+          borderRight: isMobile ? "none" : "1px solid #0f1f35",
           position: "relative", zIndex: 2,
         }}>
           {/* Subtle top gradient line */}
@@ -653,6 +808,30 @@ export default function App() {
 
           {/* Quick prompts */}
           <div style={{ padding: "8px 16px", borderTop: "1px solid #0f1f35" }}>
+            <div style={{ marginBottom: 10 }}>
+              <div style={{ fontSize: 10, color: "#334155", fontWeight: 600, letterSpacing: 1, textTransform: "uppercase", marginBottom: 6 }}>
+                Scheme Type
+              </div>
+              <select
+                value={schemeScope}
+                disabled={loading}
+                onChange={e => setSchemeScope(e.target.value)}
+                style={{
+                  width: "100%",
+                  background: "#0d1425",
+                  color: "#cbd5e1",
+                  border: "1px solid #1e293b",
+                  borderRadius: 10,
+                  padding: "8px 10px",
+                  fontSize: 12,
+                  fontFamily: "'DM Sans',sans-serif",
+                }}
+              >
+                <option value="all">All Schemes</option>
+                <option value="central">Central Schemes</option>
+                <option value="state">State Schemes</option>
+              </select>
+            </div>
             <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 7 }}>
               <div style={{ fontSize: 10, color: "#334155", fontWeight: 600, letterSpacing: 1, textTransform: "uppercase" }}>
                 Quick Age Groups
@@ -723,7 +902,13 @@ export default function App() {
         </div>
 
         {/* ══ RIGHT: Flow Canvas ════════════════════════════════════ */}
-        <div style={{ flex: 1, position: "relative", overflow: "hidden" }}>
+        <div style={{
+          display: isMobile && mobilePane !== "map" ? "none" : "block",
+          flex: 1,
+          height: "100%",
+          position: "relative",
+          overflow: "hidden",
+        }}>
           {/* Decorative ambient glows */}
           <div style={{
             position: "absolute", top: -100, right: -100,
@@ -740,7 +925,7 @@ export default function App() {
 
           {flowData?.schemes?.length > 0 ? (
             <div style={{ width: "100%", height: "100%", animation: "fadeIn 0.5s ease" }}>
-              <SchemeFlow schemes={flowData.schemes} ageLabel={flowData.ageLabel} />
+              <SchemeFlow schemes={flowData.schemes} ageLabel={flowData.ageLabel} isMobile={isMobile} />
             </div>
           ) : (
             /* Empty state */
@@ -792,14 +977,17 @@ export default function App() {
           )}
 
           {/* Watermark */}
-          <div style={{
-            position: "absolute", bottom: 16, right: 16,
-            color: "#0f1f35", fontSize: 10,
-            fontFamily: "'DM Sans',sans-serif", letterSpacing: 1,
-            userSelect: "none",
-          }}>
-            🇮🇳 GOVERNMENT OF INDIA · Citizen Seva
-          </div>
+          {!isMobile && (
+            <div style={{
+              position: "absolute", bottom: 16, right: 16,
+              color: "#0f1f35", fontSize: 10,
+              fontFamily: "'DM Sans',sans-serif", letterSpacing: 1,
+              userSelect: "none",
+            }}>
+              🇮🇳 GOVERNMENT OF INDIA · Citizen Seva
+            </div>
+          )}
+        </div>
         </div>
       </div>
     </>

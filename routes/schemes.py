@@ -1,4 +1,5 @@
 import json
+import logging
 import os
 import re
 from functools import lru_cache
@@ -9,6 +10,7 @@ from flask import Blueprint, jsonify, request as flask_request
 
 
 schemes_bp = Blueprint("schemes", __name__)
+logger = logging.getLogger(__name__)
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 CENTRAL_SCHEMES_DIR = ROOT_DIR / "central_schemes"
@@ -48,7 +50,8 @@ def _load_all_schemes() -> list:
 
             try:
                 payload = json.loads(path.read_text(encoding="utf-8-sig"))
-            except Exception:
+            except Exception as exc:
+                logger.warning("Skipping invalid scheme file %s: %s", path.name, exc)
                 continue
 
             if isinstance(payload, dict):
@@ -77,6 +80,9 @@ def _normalize_state_name(value):
         return None
 
     aliases = {
+        "all": "all",
+        "all india": "all",
+        "india": "all",
         "west bengal": "west bengal",
         "wb": "west bengal",
         "kolkata": "west bengal",
@@ -166,18 +172,51 @@ def _extract_age_from_text(text):
         return None
     lowered = text.lower()
 
-    age_hint = re.search(r"(?:age|aged|years?|yrs?|year old)\D{0,8}(\d{1,3})", lowered)
-    if age_hint:
-        age = int(age_hint.group(1))
-        if 0 < age <= 120:
-            return age
-
-    numbers = re.findall(r"\b(\d{1,3})\b", lowered)
-    for num in numbers:
-        age = int(num)
-        if 0 < age <= 120:
-            return age
+    patterns = [
+        r"\bage\s*(?:is|:)?\s*(\d{1,3})\b",
+        r"\baged\s*(\d{1,3})\b",
+        r"\b(?:i am|i'm|im)\s+(\d{1,3})(?:\s*(?:years?|yrs?)\s*(?:old)?)?\b",
+        r"\b(\d{1,3})\s*(?:years?|yrs?)\s*old\b",
+    ]
+    for pattern in patterns:
+        age_hint = re.search(pattern, lowered)
+        if age_hint:
+            age = int(age_hint.group(1))
+            if 0 < age <= 120:
+                return age
     return None
+
+
+def _age_group_label(age):
+    mapping = {
+        "child": "Child",
+        "youth": "Youth",
+        "adult": "Adult",
+        "middle": "Middle-Aged",
+        "senior": "Senior",
+        "unknown": "Unknown",
+    }
+    return mapping.get(_age_group(age), "Unknown")
+
+
+def _to_int(value, default, minimum=None, maximum=None):
+    try:
+        parsed = int(value)
+    except (TypeError, ValueError):
+        parsed = default
+
+    if minimum is not None and parsed < minimum:
+        parsed = minimum
+    if maximum is not None and parsed > maximum:
+        parsed = maximum
+    return parsed
+
+
+def _normalize_scheme_scope(value):
+    scope = str(value or "all").strip().lower()
+    if scope in {"central", "state", "all"}:
+        return scope
+    return "all"
 
 
 def _is_greeting_or_smalltalk(text):
@@ -390,15 +429,27 @@ def _is_age_plausible_without_explicit_bounds(scheme, age):
     return True
 
 
-def filter_schemes(age=None, income=None, state=None):
+def filter_schemes(age=None, income=None, state=None, scheme_scope="all"):
     items = _load_all_schemes()
     results = []
 
     age_value = _parse_age_value(age)
     income_value = _parse_rupee_value(income)
     state_value = _normalize_state_name(state)
+    scope_value = _normalize_scheme_scope(scheme_scope)
 
     for scheme in items:
+        scheme_level = str(scheme.get("level", "")).strip().lower()
+
+        scope_ok = True
+        if scope_value == "central":
+            scope_ok = scheme_level == "central"
+        elif scope_value == "state":
+            scope_ok = scheme_level == "state"
+
+        if not scope_ok:
+            continue
+
         min_age = _parse_age_value(scheme.get("min_age"))
         max_age = _parse_age_value(scheme.get("max_age"))
         income_limit = _parse_rupee_value(scheme.get("income_limit"))
@@ -420,8 +471,6 @@ def filter_schemes(age=None, income=None, state=None):
 
         state_ok = True
         if state_value is not None:
-            scheme_level = str(scheme.get("level", "")).strip().lower()
-
             # Collect all state names associated with this scheme.
             state_candidates = set()
             direct_state = _normalize_state_name(scheme.get("state"))
@@ -439,11 +488,15 @@ def filter_schemes(age=None, income=None, state=None):
                 if norm:
                     state_candidates.add(norm)
 
-            # When user explicitly asks for a state, prefer only State-level schemes.
-            if scheme_level == "state":
-                state_ok = bool(state_candidates and state_value in state_candidates)
+            # Include both applicable state and central schemes when a state is provided.
+            if state_candidates:
+                if "all" in state_candidates:
+                    state_ok = True
+                else:
+                    state_ok = state_value in state_candidates
             else:
-                state_ok = False
+                # State-level schemes without state metadata should not be included.
+                state_ok = scheme_level != "state"
 
         if age_ok and income_ok and state_ok:
             results.append(scheme)
@@ -570,8 +623,8 @@ def _score_scheme(scheme, age=None, income=None, user_query=""):
     return score
 
 
-def recommend_schemes(age=None, income=None, user_query="", state=None, limit=80):
-    matched = filter_schemes(age=age, income=income, state=state)
+def recommend_schemes(age=None, income=None, user_query="", state=None, scheme_scope="all", limit=80):
+    matched = filter_schemes(age=age, income=income, state=state, scheme_scope=scheme_scope)
     ranked = sorted(
         matched,
         key=lambda s: _score_scheme(s, age=age, income=income, user_query=user_query),
@@ -736,13 +789,13 @@ def generate_ai_reply(user_query, age, income, filtered_schemes, total_count=Non
             ai_message = message_match.group(1).strip()
         if followup_match:
             ai_followup = followup_match.group(1).strip()
-    except Exception:
-        pass
+    except Exception as exc:
+        logger.warning("Falling back to default AI reply: %s", exc)
 
     return {
         "message": ai_message,
         "ageLabel": f"Age {age} Years" if age is not None else "Age Not Specified",
-        "ageGroup": "Adult",
+        "ageGroup": _age_group_label(age),
         "schemes": cards,
         "followUp": ai_followup,
     }
@@ -777,9 +830,22 @@ def get_schemes():
     age = data.get("age")
     income = data.get("income")
     state = data.get("state") or data.get("location")
+    scheme_scope = _normalize_scheme_scope(data.get("scheme_scope") or data.get("schemeType"))
+    limit = _to_int(data.get("limit"), default=50, minimum=1, maximum=200)
+    offset = _to_int(data.get("offset"), default=0, minimum=0, maximum=10000)
 
-    matched = filter_schemes(age=age, income=income, state=state)
-    return jsonify(matched)
+    matched = filter_schemes(age=age, income=income, state=state, scheme_scope=scheme_scope)
+    paged = matched[offset : offset + limit]
+    return jsonify(
+        {
+            "items": paged,
+            "schemes": paged,
+            "total": len(matched),
+            "limit": limit,
+            "offset": offset,
+            "scheme_scope": scheme_scope,
+        }
+    )
 
 
 @schemes_bp.route("/chat", methods=["POST"])
@@ -791,6 +857,7 @@ def chat():
     age = data.get("age")
     income = data.get("income")
     state = data.get("state") or data.get("location")
+    scheme_scope = _normalize_scheme_scope(data.get("scheme_scope") or data.get("schemeType"))
 
     if age is None:
         age = _extract_age_from_text(user_query)
@@ -825,6 +892,7 @@ def chat():
         income=income,
         user_query=user_query,
         state=state,
+        scheme_scope=scheme_scope,
         limit=80,
     )
     reply_json = generate_ai_reply(user_query, age, income, matched_ranked, total_count=len(matched_all))
@@ -837,3 +905,9 @@ def chat():
             "schemes": matched_ranked[:20],
         }
     )
+
+
+@schemes_bp.route("/health", methods=["GET"])
+@schemes_bp.route("/api/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"})
