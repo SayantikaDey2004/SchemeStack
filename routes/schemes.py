@@ -103,6 +103,44 @@ def _normalize_state_name(value):
     return text
 
 
+def _format_state_label(value):
+    if not value:
+        return ""
+    return " ".join(word.capitalize() for word in str(value).split())
+
+
+@lru_cache(maxsize=1)
+def _load_available_states():
+    index_path = STATE_SCHEMES_DIR / "index.json"
+    states = []
+
+    if index_path.exists():
+        try:
+            payload = json.loads(index_path.read_text(encoding="utf-8-sig"))
+            if isinstance(payload, list):
+                for item in payload:
+                    if not isinstance(item, dict):
+                        continue
+                    normalized = _normalize_state_name(item.get("state"))
+                    if normalized and normalized != "all":
+                        states.append(normalized)
+        except Exception as exc:
+            logger.warning("Unable to parse state index file: %s", exc)
+
+    # Fallback from filenames when index file is missing or invalid.
+    if not states and STATE_SCHEMES_DIR.exists():
+        for path in sorted(STATE_SCHEMES_DIR.glob("*.json")):
+            if path.name == "index.json":
+                continue
+            raw_name = path.stem.replace("_", " ")
+            normalized = _normalize_state_name(raw_name)
+            if normalized and normalized != "all":
+                states.append(normalized)
+
+    unique_states = sorted(set(states))
+    return [{"value": state, "label": _format_state_label(state)} for state in unique_states]
+
+
 def _parse_age_value(value):
     if value is None:
         return None
@@ -437,6 +475,9 @@ def filter_schemes(age=None, income=None, state=None, scheme_scope="all"):
     income_value = _parse_rupee_value(income)
     state_value = _normalize_state_name(state)
     scope_value = _normalize_scheme_scope(scheme_scope)
+
+    if scope_value == "state" and not state_value:
+        return []
 
     for scheme in items:
         scheme_level = str(scheme.get("level", "")).strip().lower()
@@ -866,6 +907,23 @@ def chat():
     if state is None:
         state = _extract_state_from_text(user_query)
 
+    if scheme_scope == "state" and _normalize_state_name(state) is None:
+        reply_json = {
+            "message": "Please select a state to view State Schemes.",
+            "ageLabel": f"Age {age} Years" if age is not None else "Age Not Specified",
+            "ageGroup": _age_group_label(age),
+            "schemes": [],
+            "followUp": "Choose a state from the state dropdown and try again.",
+        }
+        return jsonify(
+            {
+                "reply": json.dumps(reply_json, ensure_ascii=False),
+                "reply_json": reply_json,
+                "matched_count": 0,
+                "schemes": [],
+            }
+        )
+
     # For greetings or random/non-actionable messages without profile details,
     # respond with guidance instead of returning arbitrary schemes.
     if age is None and income is None and (
@@ -911,3 +969,9 @@ def chat():
 @schemes_bp.route("/api/health", methods=["GET"])
 def health():
     return jsonify({"status": "ok"})
+
+
+@schemes_bp.route("/states", methods=["GET"])
+@schemes_bp.route("/api/states", methods=["GET"])
+def states():
+    return jsonify({"states": _load_available_states()})

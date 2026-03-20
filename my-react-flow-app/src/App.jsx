@@ -37,6 +37,12 @@ const DEFAULT_API_BASE_URL =
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || DEFAULT_API_BASE_URL;
 
+const FALLBACK_STATES = [
+  { value: "delhi", label: "Delhi" },
+  { value: "maharashtra", label: "Maharashtra" },
+  { value: "west bengal", label: "West Bengal" },
+];
+
 function getApiBaseCandidates() {
   if (typeof window === "undefined") {
     return [API_BASE_URL];
@@ -91,6 +97,31 @@ async function requestChat(payload, signal) {
   }
 
   throw new Error(errors.join(" | "));
+}
+
+async function requestStates() {
+  const apiBases = getApiBaseCandidates();
+
+  for (const baseUrl of apiBases) {
+    try {
+      const res = await fetch(`${baseUrl}/states`);
+      if (!res.ok) continue;
+
+      const data = await res.json();
+      const list = Array.isArray(data?.states) ? data.states : [];
+      const normalized = list
+        .filter((item) => item && typeof item.value === "string" && typeof item.label === "string")
+        .map((item) => ({ value: item.value, label: item.label }));
+
+      if (normalized.length) {
+        return normalized;
+      }
+    } catch {
+      // Ignore and try next API base.
+    }
+  }
+
+  return FALLBACK_STATES;
 }
 
 function parseAgeFromText(text) {
@@ -485,6 +516,8 @@ export default function App() {
   const [loading, setLoading] = useState(false);
   const [flowData, setFlowData] = useState(null);
   const [schemeScope, setSchemeScope] = useState("all");
+  const [selectedState, setSelectedState] = useState("all");
+  const [availableStates, setAvailableStates] = useState(FALLBACK_STATES);
   const [mobilePane, setMobilePane] = useState("chat");
   const bottomRef = useRef(null);
   const inputRef  = useRef(null);
@@ -530,6 +563,22 @@ export default function App() {
     if (!isMobile) setMobilePane("chat");
   }, [isMobile]);
 
+  const isStateRequiredButMissing = schemeScope === "state" && selectedState === "all";
+
+  useEffect(() => {
+    let mounted = true;
+
+    requestStates().then((states) => {
+      if (mounted && states.length) {
+        setAvailableStates(states);
+      }
+    });
+
+    return () => {
+      mounted = false;
+    };
+  }, []);
+
   const clearChat = useCallback(() => {
     requestSeqRef.current += 1;
     if (abortRef.current) {
@@ -546,6 +595,21 @@ export default function App() {
   const send = async (text) => {
     const t = (text || input).trim();
     if (!t) return;
+
+    if (isStateRequiredButMissing) {
+      setMessages((p) => [
+        ...p,
+        {
+          role: "bot",
+          text: JSON.stringify({
+            message: "Please select a state first to view State Schemes.",
+            schemes: [],
+            followUp: "Choose a state from the Select State dropdown, then send your query again.",
+          }),
+        },
+      ]);
+      return;
+    }
 
     const requestId = requestSeqRef.current + 1;
     requestSeqRef.current = requestId;
@@ -566,7 +630,13 @@ export default function App() {
       const income = parseIncomeFromText(t);
 
       const { data } = await requestChat(
-        { message: t, age, income, scheme_scope: schemeScope },
+        {
+          message: t,
+          age,
+          income,
+          scheme_scope: schemeScope,
+          state: selectedState === "all" ? null : selectedState,
+        },
         controller.signal,
       );
 
@@ -832,6 +902,54 @@ export default function App() {
                 <option value="state">State Schemes</option>
               </select>
             </div>
+            <div style={{ marginBottom: 10 }}>
+              <div style={{
+                fontSize: 10,
+                color: "#334155",
+                fontWeight: 600,
+                letterSpacing: 1,
+                textTransform: "uppercase",
+                marginBottom: 6,
+              }}>
+                Select State
+              </div>
+              <select
+                value={selectedState}
+                disabled={loading}
+                onChange={e => {
+                  const nextState = e.target.value;
+                  setSelectedState(nextState);
+                  if (nextState !== "all") {
+                    setSchemeScope("state");
+                  }
+                }}
+                style={{
+                  width: "100%",
+                  background: "#0d1425",
+                  color: "#cbd5e1",
+                  border: "1px solid #1e293b",
+                  borderRadius: 10,
+                  padding: "8px 10px",
+                  fontSize: 12,
+                  fontFamily: "'DM Sans',sans-serif",
+                }}
+              >
+                <option value="all">All States</option>
+                {availableStates.map((state) => (
+                  <option key={state.value} value={state.value}>{state.label}</option>
+                ))}
+              </select>
+              {isStateRequiredButMissing && (
+                <div style={{
+                  marginTop: 6,
+                  color: "#fb923c",
+                  fontSize: 11,
+                  fontFamily: "'DM Sans',sans-serif",
+                }}>
+                  State is required when Scheme Type is set to State Schemes.
+                </div>
+              )}
+            </div>
             <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 7 }}>
               <div style={{ fontSize: 10, color: "#334155", fontWeight: 600, letterSpacing: 1, textTransform: "uppercase" }}>
                 Quick Age Groups
@@ -842,7 +960,7 @@ export default function App() {
             </div>
             <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
               {QUICK.map((q, i) => (
-                <button key={i} className="quick-btn" onClick={() => send(q.text)} disabled={loading}>
+                <button key={i} className="quick-btn" onClick={() => send(q.text)} disabled={loading || isStateRequiredButMissing}>
                   {q.label}
                 </button>
               ))}
@@ -876,21 +994,21 @@ export default function App() {
               />
               <button className="send-btn"
                 onClick={() => send()}
-                disabled={loading || !input.trim()}
+                disabled={loading || !input.trim() || isStateRequiredButMissing}
                 style={{
                   width: 34, height: 34, borderRadius: 9, border: "none",
-                  background: input.trim() && !loading
+                  background: input.trim() && !loading && !isStateRequiredButMissing
                     ? "linear-gradient(135deg,#FF9933,#e07b00)"
                     : "#1e293b",
-                  cursor: input.trim() && !loading ? "pointer" : "not-allowed",
+                  cursor: input.trim() && !loading && !isStateRequiredButMissing ? "pointer" : "not-allowed",
                   display: "flex", alignItems: "center", justifyContent: "center",
                   flexShrink: 0,
-                  boxShadow: input.trim() && !loading ? "0 4px 14px rgba(255,153,51,0.4)" : "none",
+                  boxShadow: input.trim() && !loading && !isStateRequiredButMissing ? "0 4px 14px rgba(255,153,51,0.4)" : "none",
                 }}
               >
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
                   <path d="M22 2L11 13M22 2L15 22L11 13M22 2L2 9L11 13"
-                    stroke={input.trim() && !loading ? "#fff" : "#334155"}
+                    stroke={input.trim() && !loading && !isStateRequiredButMissing ? "#fff" : "#334155"}
                     strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>
